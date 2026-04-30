@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "dev_0001",
+    "vehicle_id": "veh_0001",
+    "serial": "SN625649719",
+    "firmware": "1.6.5",
+    "last_seen_at": "2026-04-29T06:50:45Z",
+    "battery_pct": 31,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0002",
+    "vehicle_id": "veh_0002",
+    "serial": "SN718126104",
+    "firmware": "2.0.6",
+    "last_seen_at": "2026-04-26T06:21:31Z",
+    "battery_pct": 65,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0003",
+    "vehicle_id": "veh_0003",
+    "serial": "SN697308464",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-29T07:35:53Z",
+    "battery_pct": 100,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0004",
+    "vehicle_id": "veh_0004",
+    "serial": "SN816506411",
+    "firmware": "2.3.2",
+    "last_seen_at": "2026-02-10T12:00:00Z",
+    "battery_pct": 49,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0005",
+    "vehicle_id": "veh_0005",
+    "serial": "SN886451710",
+    "firmware": "1.3.3",
+    "last_seen_at": "2026-04-28T02:25:55Z",
+    "battery_pct": 36,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0006",
+    "vehicle_id": "veh_0006",
+    "serial": "SN594839420",
+    "firmware": "1.7.3",
+    "last_seen_at": "2026-01-14T12:00:00Z",
+    "battery_pct": 24,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0007",
+    "vehicle_id": "veh_0007",
+    "serial": "SN879261514",
+    "firmware": "3.3.5",
+    "last_seen_at": "2026-04-26T20:44:14Z",
+    "battery_pct": 75,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0008",
+    "vehicle_id": "veh_0008",
+    "serial": "SN838645398",
+    "firmware": "1.2.7",
+    "last_seen_at": "2026-04-25T21:52:28Z",
+    "battery_pct": 20,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0009",
+    "vehicle_id": "veh_0009",
+    "serial": "SN502154588",
+    "firmware": "1.8.2",
+    "last_seen_at": "2026-04-25T09:33:45Z",
+    "battery_pct": 33,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0010",
+    "vehicle_id": "veh_0010",
+    "serial": "SN920787105",
+    "firmware": "1.3.1",
+    "last_seen_at": "2026-04-28T15:13:13Z",
+    "battery_pct": 73,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0011",
+    "vehicle_id": "veh_0011",
+    "serial": "SN566668019",
+    "firmware": "1.2.4",
+    "last_seen_at": "2026-04-24T04:27:46Z",
+    "battery_pct": 91,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0012",
+    "vehicle_id": "veh_0012",
+    "serial": "SN586464277",
+    "firmware": "1.9.8",
+    "last_seen_at": "2026-04-23T14:45:50Z",
+    "battery_pct": 47,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0013",
+    "vehicle_id": "veh_0013",
+    "serial": "SN556218214",
+    "firmware": "1.9.7",
+    "last_seen_at": "2025-12-23T12:00:00Z",
+    "battery_pct": 60,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0014",
+    "vehicle_id": "veh_0014",
+    "serial": "SN750989602",
+    "firmware": "1.0.3",
+    "last_seen_at": "2026-03-09T12:00:00Z",
+    "battery_pct": 57,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0015",
+    "vehicle_id": "veh_0015",
+    "serial": "SN929527906",
+    "firmware": "3.7.1",
+    "last_seen_at": "2026-04-29T02:24:10Z",
+    "battery_pct": 36,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0016",
+    "vehicle_id": "veh_0016",
+    "serial": "SN346679107",
+    "firmware": "3.8.1",
+    "last_seen_at": "2026-04-23T16:52:10Z",
+    "battery_pct": 81,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0017",
+    "vehicle_id": "veh_0017",
+    "serial": "SN797562046",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-24T05:08:06Z",
+    "battery_pct": 43,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0018",
+    "vehicle_id": "veh_0018",
+    "serial": "SN957858403",
+    "firmware": "1.3.0",
+    "last_seen_at": "2026-04-24T07:54:48Z",
+    "battery_pct": 97,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0019",
+    "vehicle_id": "veh_0019",
+    "serial": "SN359302997",
+    "firmware": "3.8.1",
+    "last_seen_at": "2026-04-26T09:13:36Z",
+    "battery_pct": 87,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0020",
+    "vehicle_id": "veh_0020",
+    "serial": "SN378805895",
+    "firmware": "2.5.8",
+    "last_seen_at": "2026-04-28T20:20:05Z",
+    "battery_pct": 42,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0021",
+    "vehicle_id": "veh_0021",
+    "serial": "SN559261608",
+    "firmware": "2.3.2",
+    "last_seen_at": "2026-01-13T12:00:00Z",
+    "battery_pct": 31,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0022",
+    "vehicle_id": "veh_0022",
+    "serial": "SN770916891",
+    "firmware": "2.1.6",
+    "last_seen_at": "2026-04-23T20:45:16Z",
+    "battery_pct": 30,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0023",
+    "vehicle_id": "veh_0023",
+    "serial": "SN594886752",
+    "firmware": "1.4.5",
+    "last_seen_at": "2026-04-30T03:16:25Z",
+    "battery_pct": 24,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0024",
+    "vehicle_id": "veh_0024",
+    "serial": "SN937569689",
+    "firmware": "1.0.0",
+    "last_seen_at": "2026-04-29T11:38:24Z",
+    "battery_pct": 61,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0025",
+    "vehicle_id": "veh_0025",
+    "serial": "SN913422267",
+    "firmware": "3.9.1",
+    "last_seen_at": "2026-04-29T11:55:54Z",
+    "battery_pct": 44,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0026",
+    "vehicle_id": "veh_0026",
+    "serial": "SN964762970",
+    "firmware": "1.7.8",
+    "last_seen_at": "2026-02-19T12:00:00Z",
+    "battery_pct": 27,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0027",
+    "vehicle_id": "veh_0027",
+    "serial": "SN872262401",
+    "firmware": "1.5.5",
+    "last_seen_at": "2026-04-25T21:35:43Z",
+    "battery_pct": 34,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0028",
+    "vehicle_id": "veh_0028",
+    "serial": "SN908022221",
+    "firmware": "2.4.2",
+    "last_seen_at": "2026-04-29T11:13:49Z",
+    "battery_pct": 89,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0029",
+    "vehicle_id": "veh_0029",
+    "serial": "SN744619070",
+    "firmware": "3.9.8",
+    "last_seen_at": "2026-04-24T17:07:42Z",
+    "battery_pct": 56,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0030",
+    "vehicle_id": "veh_0030",
+    "serial": "SN660731775",
+    "firmware": "1.2.2",
+    "last_seen_at": "2026-04-26T23:49:46Z",
+    "battery_pct": 84,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0031",
+    "vehicle_id": "veh_0031",
+    "serial": "SN437276949",
+    "firmware": "2.7.0",
+    "last_seen_at": "2026-04-24T08:17:02Z",
+    "battery_pct": 75,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0032",
+    "vehicle_id": "veh_0032",
+    "serial": "SN128187183",
+    "firmware": "1.9.0",
+    "last_seen_at": "2026-05-23T12:00:00Z",
+    "battery_pct": 53,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0033",
+    "vehicle_id": "veh_0033",
+    "serial": "SN505762456",
+    "firmware": "2.5.1",
+    "last_seen_at": "2026-04-26T02:42:55Z",
+    "battery_pct": 86,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0034",
+    "vehicle_id": "veh_0034",
+    "serial": "SN669120990",
+    "firmware": "1.6.6",
+    "last_seen_at": "2026-04-23T16:00:51Z",
+    "battery_pct": 35,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0035",
+    "vehicle_id": "veh_0035",
+    "serial": "SN543425740",
+    "firmware": "1.4.8",
+    "last_seen_at": "2026-04-27T17:38:08Z",
+    "battery_pct": 61,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0036",
+    "vehicle_id": "veh_0036",
+    "serial": "SN810091140",
+    "firmware": "1.5.4",
+    "last_seen_at": "2026-04-28T10:24:55Z",
+    "battery_pct": 93,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0037",
+    "vehicle_id": "veh_0037",
+    "serial": "SN883401703",
+    "firmware": "1.8.0",
+    "last_seen_at": "2026-04-24T19:10:12Z",
+    "battery_pct": 26,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0038",
+    "vehicle_id": "veh_0038",
+    "serial": "SN323248659",
+    "firmware": "1.6.9",
+    "last_seen_at": "2026-04-23T17:23:40Z",
+    "battery_pct": 78,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0039",
+    "vehicle_id": "veh_0039",
+    "serial": "SN944522875",
+    "firmware": "1.9.8",
+    "last_seen_at": "2026-04-28T06:10:59Z",
+    "battery_pct": 36,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0040",
+    "vehicle_id": "veh_0040",
+    "serial": "SN165188767",
+    "firmware": "2.0.1",
+    "last_seen_at": "2026-04-25T17:54:58Z",
+    "battery_pct": 52,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0041",
+    "vehicle_id": "veh_0041",
+    "serial": "SN696778659",
+    "firmware": "3.0.4",
+    "last_seen_at": "2026-04-27T08:39:34Z",
+    "battery_pct": 42,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0042",
+    "vehicle_id": "veh_0042",
+    "serial": "SN635203625",
+    "firmware": "1.8.3",
+    "last_seen_at": "2026-04-25T21:52:27Z",
+    "battery_pct": 44,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0043",
+    "vehicle_id": "veh_0043",
+    "serial": "SN529183966",
+    "firmware": "2.3.2",
+    "last_seen_at": "2026-04-29T16:54:47Z",
+    "battery_pct": 38,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0044",
+    "vehicle_id": "veh_0044",
+    "serial": "SN764726382",
+    "firmware": "3.4.2",
+    "last_seen_at": "2026-03-12T12:00:00Z",
+    "battery_pct": 93,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0045",
+    "vehicle_id": "veh_0045",
+    "serial": "SN537701423",
+    "firmware": "2.2.0",
+    "last_seen_at": "2026-04-27T13:18:14Z",
+    "battery_pct": 73,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0046",
+    "vehicle_id": "veh_0046",
+    "serial": "SN495412423",
+    "firmware": "3.8.6",
+    "last_seen_at": "2026-04-27T21:42:17Z",
+    "battery_pct": 33,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0047",
+    "vehicle_id": "veh_0047",
+    "serial": "SN935687722",
+    "firmware": "2.1.7",
+    "last_seen_at": "2026-01-27T12:00:00Z",
+    "battery_pct": 69,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0048",
+    "vehicle_id": "veh_0048",
+    "serial": "SN778210041",
+    "firmware": "2.2.5",
+    "last_seen_at": "2026-04-25T23:09:44Z",
+    "battery_pct": 57,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0049",
+    "vehicle_id": "veh_0049",
+    "serial": "SN300348505",
+    "firmware": "2.3.5",
+    "last_seen_at": "2026-04-26T08:59:17Z",
+    "battery_pct": 89,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0050",
+    "vehicle_id": "veh_0050",
+    "serial": "SN415500894",
+    "firmware": "1.0.1",
+    "last_seen_at": "2026-04-24T19:09:06Z",
+    "battery_pct": 68,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0051",
+    "vehicle_id": "veh_0051",
+    "serial": "SN541513645",
+    "firmware": "2.4.8",
+    "last_seen_at": "2026-04-23T12:18:45Z",
+    "battery_pct": 87,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0052",
+    "vehicle_id": "veh_0052",
+    "serial": "SN928968306",
+    "firmware": "1.1.5",
+    "last_seen_at": "2026-05-15T12:00:00Z",
+    "battery_pct": 91,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0053",
+    "vehicle_id": "veh_0053",
+    "serial": "SN991651992",
+    "firmware": "2.5.2",
+    "last_seen_at": "2026-04-24T20:21:37Z",
+    "battery_pct": 98,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0054",
+    "vehicle_id": "veh_0054",
+    "serial": "SN823356014",
+    "firmware": "3.5.0",
+    "last_seen_at": "2026-04-26T23:37:12Z",
+    "battery_pct": 27,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0055",
+    "vehicle_id": "veh_0055",
+    "serial": "SN356427918",
+    "firmware": "1.3.3",
+    "last_seen_at": "2026-04-26T04:34:49Z",
+    "battery_pct": 44,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0056",
+    "vehicle_id": "veh_0056",
+    "serial": "SN730416968",
+    "firmware": "2.1.6",
+    "last_seen_at": "2026-03-11T12:00:00Z",
+    "battery_pct": 38,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0057",
+    "vehicle_id": "veh_0057",
+    "serial": "SN196698641",
+    "firmware": "1.9.7",
+    "last_seen_at": "2026-04-24T02:43:48Z",
+    "battery_pct": 79,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0058",
+    "vehicle_id": "veh_0058",
+    "serial": "SN684521339",
+    "firmware": "1.9.3",
+    "last_seen_at": "2026-04-27T13:46:33Z",
+    "battery_pct": 95,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0059",
+    "vehicle_id": "veh_0059",
+    "serial": "SN777395366",
+    "firmware": "3.3.7",
+    "last_seen_at": "2026-04-27T20:51:28Z",
+    "battery_pct": 37,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0060",
+    "vehicle_id": "veh_0060",
+    "serial": "SN791520049",
+    "firmware": "2.3.0",
+    "last_seen_at": "2026-04-25T13:33:20Z",
+    "battery_pct": 24,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0061",
+    "vehicle_id": "veh_0061",
+    "serial": "SN190049667",
+    "firmware": "3.8.7",
+    "last_seen_at": "2026-02-18T12:00:00Z",
+    "battery_pct": 69,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0062",
+    "vehicle_id": "veh_0062",
+    "serial": "SN595760693",
+    "firmware": "3.6.8",
+    "last_seen_at": "2026-05-16T12:00:00Z",
+    "battery_pct": 21,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0063",
+    "vehicle_id": "veh_0063",
+    "serial": "SN298458430",
+    "firmware": "1.0.0",
+    "last_seen_at": "2026-04-29T04:54:29Z",
+    "battery_pct": 62,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0064",
+    "vehicle_id": "veh_0064",
+    "serial": "SN220274791",
+    "firmware": "3.2.9",
+    "last_seen_at": "2026-05-15T12:00:00Z",
+    "battery_pct": 21,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0065",
+    "vehicle_id": "veh_0065",
+    "serial": "SN839160327",
+    "firmware": "2.5.7",
+    "last_seen_at": "2026-04-24T11:08:09Z",
+    "battery_pct": 53,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0066",
+    "vehicle_id": "veh_0066",
+    "serial": "SN983733458",
+    "firmware": "3.1.6",
+    "last_seen_at": "2026-04-30T11:06:17Z",
+    "battery_pct": 99,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0067",
+    "vehicle_id": "veh_0067",
+    "serial": "SN520650611",
+    "firmware": "2.9.5",
+    "last_seen_at": "2026-01-12T12:00:00Z",
+    "battery_pct": 27,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0068",
+    "vehicle_id": "veh_0068",
+    "serial": "SN434178367",
+    "firmware": "3.1.1",
+    "last_seen_at": "2026-04-24T02:48:10Z",
+    "battery_pct": 93,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0069",
+    "vehicle_id": "veh_0069",
+    "serial": "SN216883389",
+    "firmware": "3.4.3",
+    "last_seen_at": "2026-04-27T16:36:53Z",
+    "battery_pct": 70,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0070",
+    "vehicle_id": "veh_0070",
+    "serial": "SN468240070",
+    "firmware": "1.9.2",
+    "last_seen_at": "2026-04-25T13:22:17Z",
+    "battery_pct": 44,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0071",
+    "vehicle_id": "veh_0071",
+    "serial": "SN975042053",
+    "firmware": "3.2.3",
+    "last_seen_at": "2025-11-21T12:00:00Z",
+    "battery_pct": 38,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0072",
+    "vehicle_id": "veh_0072",
+    "serial": "SN357850925",
+    "firmware": "2.4.5",
+    "last_seen_at": "2026-04-26T09:38:22Z",
+    "battery_pct": 73,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0073",
+    "vehicle_id": "veh_0073",
+    "serial": "SN199025561",
+    "firmware": "2.0.4",
+    "last_seen_at": "2026-04-28T22:07:11Z",
+    "battery_pct": 86,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0074",
+    "vehicle_id": "veh_0074",
+    "serial": "SN902241177",
+    "firmware": "1.5.0",
+    "last_seen_at": "2026-04-26T09:41:55Z",
+    "battery_pct": 50,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0075",
+    "vehicle_id": "veh_0075",
+    "serial": "SN524661188",
+    "firmware": "2.6.0",
+    "last_seen_at": "2026-04-24T04:43:54Z",
+    "battery_pct": 32,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0076",
+    "vehicle_id": "veh_0076",
+    "serial": "SN901379606",
+    "firmware": "1.6.0",
+    "last_seen_at": "2026-04-29T23:43:14Z",
+    "battery_pct": 44,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0077",
+    "vehicle_id": "veh_0077",
+    "serial": "SN658621226",
+    "firmware": "1.5.6",
+    "last_seen_at": "2026-04-25T16:07:25Z",
+    "battery_pct": 97,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0078",
+    "vehicle_id": "veh_0078",
+    "serial": "SN978505819",
+    "firmware": "1.6.2",
+    "last_seen_at": "2026-04-24T23:17:19Z",
+    "battery_pct": 29,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0079",
+    "vehicle_id": "veh_0079",
+    "serial": "SN900110851",
+    "firmware": "1.1.2",
+    "last_seen_at": "2026-04-27T20:19:38Z",
+    "battery_pct": 52,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0080",
+    "vehicle_id": "veh_0080",
+    "serial": "SN482032339",
+    "firmware": "1.6.8",
+    "last_seen_at": "2026-04-23T19:42:58Z",
+    "battery_pct": 43,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0081",
+    "vehicle_id": "veh_0081",
+    "serial": "SN714224890",
+    "firmware": "1.7.7",
+    "last_seen_at": "2026-04-25T08:21:48Z",
+    "battery_pct": 91,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0082",
+    "vehicle_id": "veh_0082",
+    "serial": "SN766985517",
+    "firmware": "1.8.4",
+    "last_seen_at": "2026-04-26T23:24:53Z",
+    "battery_pct": 25,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0083",
+    "vehicle_id": "veh_0083",
+    "serial": "SN359953022",
+    "firmware": "2.8.0",
+    "last_seen_at": "2026-04-24T02:15:52Z",
+    "battery_pct": 77,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0084",
+    "vehicle_id": "veh_0084",
+    "serial": "SN467873912",
+    "firmware": "2.3.7",
+    "last_seen_at": "2026-03-19T12:00:00Z",
+    "battery_pct": 87,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0085",
+    "vehicle_id": "veh_0085",
+    "serial": "SN537503892",
+    "firmware": "1.3.3",
+    "last_seen_at": "2026-04-25T22:58:36Z",
+    "battery_pct": 98,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0086",
+    "vehicle_id": "veh_0086",
+    "serial": "SN157338177",
+    "firmware": "1.5.7",
+    "last_seen_at": "2026-01-21T12:00:00Z",
+    "battery_pct": 97,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0087",
+    "vehicle_id": "veh_0087",
+    "serial": "SN644816038",
+    "firmware": "2.9.9",
+    "last_seen_at": "2026-04-29T17:06:51Z",
+    "battery_pct": 57,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0088",
+    "vehicle_id": "veh_0088",
+    "serial": "SN716421753",
+    "firmware": "1.0.7",
+    "last_seen_at": "2026-04-27T09:39:18Z",
+    "battery_pct": 94,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0089",
+    "vehicle_id": "veh_0089",
+    "serial": "SN532562328",
+    "firmware": "3.9.9",
+    "last_seen_at": "2026-04-25T09:27:05Z",
+    "battery_pct": 99,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0090",
+    "vehicle_id": "veh_0090",
+    "serial": "SN938075564",
+    "firmware": "3.4.8",
+    "last_seen_at": "2026-04-24T23:07:18Z",
+    "battery_pct": 31,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0091",
+    "vehicle_id": "veh_0091",
+    "serial": "SN255886966",
+    "firmware": "3.5.9",
+    "last_seen_at": "2026-04-25T20:07:24Z",
+    "battery_pct": 92,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0092",
+    "vehicle_id": "veh_0092",
+    "serial": "SN257766879",
+    "firmware": "2.9.1",
+    "last_seen_at": "2026-04-26T22:14:52Z",
+    "battery_pct": 22,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0093",
+    "vehicle_id": "veh_0093",
+    "serial": "SN711476141",
+    "firmware": "3.3.2",
+    "last_seen_at": "2026-04-28T04:32:57Z",
+    "battery_pct": 33,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0094",
+    "vehicle_id": "veh_0094",
+    "serial": "SN937878293",
+    "firmware": "1.4.2",
+    "last_seen_at": "2026-04-25T06:47:24Z",
+    "battery_pct": 71,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0095",
+    "vehicle_id": "veh_0095",
+    "serial": "SN537892427",
+    "firmware": "3.0.8",
+    "last_seen_at": "2026-04-24T18:14:08Z",
+    "battery_pct": 39,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0096",
+    "vehicle_id": "veh_0096",
+    "serial": "SN787451903",
+    "firmware": "1.7.6",
+    "last_seen_at": "2025-12-18T12:00:00Z",
+    "battery_pct": 76,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0097",
+    "vehicle_id": "veh_0097",
+    "serial": "SN904529581",
+    "firmware": "1.4.8",
+    "last_seen_at": "2026-04-27T17:33:29Z",
+    "battery_pct": 86,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0098",
+    "vehicle_id": "veh_0098",
+    "serial": "SN449801553",
+    "firmware": "3.9.5",
+    "last_seen_at": "2026-04-27T12:56:28Z",
+    "battery_pct": 86,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0099",
+    "vehicle_id": "veh_0099",
+    "serial": "SN805726665",
+    "firmware": "3.0.4",
+    "last_seen_at": "2026-04-30T11:06:19Z",
+    "battery_pct": 64,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0100",
+    "vehicle_id": "veh_0100",
+    "serial": "SN812516703",
+    "firmware": "1.2.9",
+    "last_seen_at": "2026-04-25T05:32:43Z",
+    "battery_pct": 63,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0101",
+    "vehicle_id": "veh_0101",
+    "serial": "SN689755049",
+    "firmware": "1.6.9",
+    "last_seen_at": "2026-04-26T03:30:53Z",
+    "battery_pct": 89,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0102",
+    "vehicle_id": "veh_0102",
+    "serial": "SN566160259",
+    "firmware": "3.4.1",
+    "last_seen_at": "2026-04-23T19:37:20Z",
+    "battery_pct": 68,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0103",
+    "vehicle_id": "veh_0103",
+    "serial": "SN470137519",
+    "firmware": "2.1.3",
+    "last_seen_at": "2026-04-30T07:39:02Z",
+    "battery_pct": 91,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0104",
+    "vehicle_id": "veh_0104",
+    "serial": "SN968380260",
+    "firmware": "2.1.2",
+    "last_seen_at": "2026-04-28T04:34:31Z",
+    "battery_pct": 87,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0105",
+    "vehicle_id": "veh_0105",
+    "serial": "SN713650989",
+    "firmware": "2.1.4",
+    "last_seen_at": "2026-04-28T04:03:51Z",
+    "battery_pct": 54,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0106",
+    "vehicle_id": "veh_0106",
+    "serial": "SN681396928",
+    "firmware": "1.3.9",
+    "last_seen_at": "2026-04-26T17:29:23Z",
+    "battery_pct": 85,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0107",
+    "vehicle_id": "veh_0107",
+    "serial": "SN772206706",
+    "firmware": "1.0.2",
+    "last_seen_at": "2026-04-24T16:39:04Z",
+    "battery_pct": 48,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0108",
+    "vehicle_id": "veh_0108",
+    "serial": "SN106993632",
+    "firmware": "3.8.6",
+    "last_seen_at": "2026-04-25T18:12:30Z",
+    "battery_pct": 69,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0109",
+    "vehicle_id": "veh_0109",
+    "serial": "SN159217839",
+    "firmware": "1.6.8",
+    "last_seen_at": "2026-04-28T01:08:47Z",
+    "battery_pct": 29,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0110",
+    "vehicle_id": "veh_0110",
+    "serial": "SN817597823",
+    "firmware": "1.9.5",
+    "last_seen_at": "2026-04-30T04:34:37Z",
+    "battery_pct": 26,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0111",
+    "vehicle_id": "veh_0111",
+    "serial": "SN502858736",
+    "firmware": "3.0.9",
+    "last_seen_at": "2026-04-27T02:39:49Z",
+    "battery_pct": 30,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0112",
+    "vehicle_id": "veh_0112",
+    "serial": "SN776309194",
+    "firmware": "3.1.5",
+    "last_seen_at": "2026-04-29T20:10:38Z",
+    "battery_pct": 78,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0113",
+    "vehicle_id": "veh_0113",
+    "serial": "SN930705005",
+    "firmware": "1.8.3",
+    "last_seen_at": "2026-04-25T02:52:32Z",
+    "battery_pct": 72,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0114",
+    "vehicle_id": "veh_0114",
+    "serial": "SN154008326",
+    "firmware": "3.5.3",
+    "last_seen_at": "2026-04-27T02:30:09Z",
+    "battery_pct": 54,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0115",
+    "vehicle_id": "veh_0115",
+    "serial": "SN631790821",
+    "firmware": "2.7.9",
+    "last_seen_at": "2026-04-27T02:00:25Z",
+    "battery_pct": 70,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0116",
+    "vehicle_id": "veh_0116",
+    "serial": "SN162472440",
+    "firmware": "3.7.2",
+    "last_seen_at": "2026-04-25T14:33:14Z",
+    "battery_pct": 72,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0117",
+    "vehicle_id": "veh_0117",
+    "serial": "SN740285150",
+    "firmware": "1.5.0",
+    "last_seen_at": "2026-02-09T12:00:00Z",
+    "battery_pct": 31,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0118",
+    "vehicle_id": "veh_0118",
+    "serial": "SN878450112",
+    "firmware": "3.7.6",
+    "last_seen_at": "2026-04-29T22:06:29Z",
+    "battery_pct": 40,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0119",
+    "vehicle_id": "veh_0119",
+    "serial": "SN925828938",
+    "firmware": "2.0.6",
+    "last_seen_at": "2026-03-15T12:00:00Z",
+    "battery_pct": 88,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0120",
+    "vehicle_id": "veh_0120",
+    "serial": "SN172110452",
+    "firmware": "1.3.3",
+    "last_seen_at": "2026-04-24T23:48:07Z",
+    "battery_pct": 49,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0121",
+    "vehicle_id": "veh_0121",
+    "serial": "SN242448674",
+    "firmware": "2.5.2",
+    "last_seen_at": "2026-03-25T12:00:00Z",
+    "battery_pct": 64,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0122",
+    "vehicle_id": "veh_0122",
+    "serial": "SN216730003",
+    "firmware": "2.8.1",
+    "last_seen_at": "2026-04-24T20:46:34Z",
+    "battery_pct": 21,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0123",
+    "vehicle_id": "veh_0123",
+    "serial": "SN276386655",
+    "firmware": "3.1.1",
+    "last_seen_at": "2026-04-28T12:24:41Z",
+    "battery_pct": 20,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0124",
+    "vehicle_id": "veh_0124",
+    "serial": "SN220924833",
+    "firmware": "1.6.3",
+    "last_seen_at": "2026-04-24T06:29:32Z",
+    "battery_pct": 60,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0125",
+    "vehicle_id": "veh_0125",
+    "serial": "SN602218807",
+    "firmware": "2.8.9",
+    "last_seen_at": "2025-11-06T12:00:00Z",
+    "battery_pct": 68,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0126",
+    "vehicle_id": "veh_0126",
+    "serial": "SN304426702",
+    "firmware": "1.7.1",
+    "last_seen_at": "2026-04-23T21:12:09Z",
+    "battery_pct": 57,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0127",
+    "vehicle_id": "veh_0127",
+    "serial": "SN384110660",
+    "firmware": "3.0.2",
+    "last_seen_at": "2026-04-26T13:54:47Z",
+    "battery_pct": 26,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0128",
+    "vehicle_id": "veh_0128",
+    "serial": "SN524759964",
+    "firmware": "2.8.0",
+    "last_seen_at": "2026-04-29T08:28:13Z",
+    "battery_pct": 75,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0129",
+    "vehicle_id": "veh_0129",
+    "serial": "SN405759388",
+    "firmware": "1.3.7",
+    "last_seen_at": "2026-04-28T00:19:17Z",
+    "battery_pct": 52,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0130",
+    "vehicle_id": "veh_0130",
+    "serial": "SN527735336",
+    "firmware": "2.8.1",
+    "last_seen_at": "2026-04-28T18:42:20Z",
+    "battery_pct": 79,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0131",
+    "vehicle_id": "veh_0131",
+    "serial": "SN816482528",
+    "firmware": "3.2.2",
+    "last_seen_at": "2026-04-29T14:06:10Z",
+    "battery_pct": 21,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0132",
+    "vehicle_id": "veh_0132",
+    "serial": "SN786188102",
+    "firmware": "1.7.9",
+    "last_seen_at": "2026-04-23T23:48:28Z",
+    "battery_pct": 43,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0133",
+    "vehicle_id": "veh_0133",
+    "serial": "SN774595080",
+    "firmware": "1.4.8",
+    "last_seen_at": "2026-04-25T09:42:17Z",
+    "battery_pct": 41,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0134",
+    "vehicle_id": "veh_0134",
+    "serial": "SN888714879",
+    "firmware": "2.9.7",
+    "last_seen_at": "2026-04-27T15:52:56Z",
+    "battery_pct": 74,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0135",
+    "vehicle_id": "veh_0135",
+    "serial": "SN983200030",
+    "firmware": "3.3.1",
+    "last_seen_at": "2026-04-24T05:54:29Z",
+    "battery_pct": 42,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0136",
+    "vehicle_id": "veh_0136",
+    "serial": "SN538543191",
+    "firmware": "1.5.3",
+    "last_seen_at": "2026-04-23T13:16:09Z",
+    "battery_pct": 77,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0137",
+    "vehicle_id": "veh_0137",
+    "serial": "SN629167976",
+    "firmware": "3.9.8",
+    "last_seen_at": "2026-04-25T07:08:07Z",
+    "battery_pct": 71,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0138",
+    "vehicle_id": "veh_0138",
+    "serial": "SN587021077",
+    "firmware": "2.0.6",
+    "last_seen_at": "2026-04-24T11:23:40Z",
+    "battery_pct": 50,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0139",
+    "vehicle_id": "veh_0139",
+    "serial": "SN656496091",
+    "firmware": "1.0.5",
+    "last_seen_at": "2026-04-30T11:20:40Z",
+    "battery_pct": 68,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0140",
+    "vehicle_id": "veh_0140",
+    "serial": "SN190572815",
+    "firmware": "3.2.2",
+    "last_seen_at": "2026-03-21T12:00:00Z",
+    "battery_pct": 100,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0141",
+    "vehicle_id": "veh_0141",
+    "serial": "SN452069854",
+    "firmware": "3.2.1",
+    "last_seen_at": "2026-05-19T12:00:00Z",
+    "battery_pct": 66,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0142",
+    "vehicle_id": "veh_0142",
+    "serial": "SN934605104",
+    "firmware": "2.8.7",
+    "last_seen_at": "2026-04-29T05:26:44Z",
+    "battery_pct": 53,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0143",
+    "vehicle_id": "veh_0143",
+    "serial": "SN711422741",
+    "firmware": "1.1.8",
+    "last_seen_at": "2026-04-28T09:15:23Z",
+    "battery_pct": 29,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0144",
+    "vehicle_id": "veh_0144",
+    "serial": "SN451535068",
+    "firmware": "3.6.7",
+    "last_seen_at": "2026-04-30T00:30:50Z",
+    "battery_pct": 91,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0145",
+    "vehicle_id": "veh_0145",
+    "serial": "SN352564677",
+    "firmware": "2.9.9",
+    "last_seen_at": "2026-04-23T22:10:22Z",
+    "battery_pct": 56,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0146",
+    "vehicle_id": "veh_0146",
+    "serial": "SN270013020",
+    "firmware": "1.0.5",
+    "last_seen_at": "2026-04-30T02:07:22Z",
+    "battery_pct": 97,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0147",
+    "vehicle_id": "veh_0147",
+    "serial": "SN811153787",
+    "firmware": "3.6.9",
+    "last_seen_at": "2026-04-27T10:57:28Z",
+    "battery_pct": 84,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0148",
+    "vehicle_id": "veh_0148",
+    "serial": "SN796182694",
+    "firmware": "1.4.9",
+    "last_seen_at": "2026-04-26T09:37:54Z",
+    "battery_pct": 98,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0149",
+    "vehicle_id": "veh_0149",
+    "serial": "SN795001686",
+    "firmware": "1.4.5",
+    "last_seen_at": "2026-04-25T00:23:07Z",
+    "battery_pct": 100,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0150",
+    "vehicle_id": "veh_0150",
+    "serial": "SN970009392",
+    "firmware": "1.7.1",
+    "last_seen_at": "2026-04-26T04:02:04Z",
+    "battery_pct": 42,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0151",
+    "vehicle_id": "veh_0151",
+    "serial": "SN684082167",
+    "firmware": "2.7.6",
+    "last_seen_at": "2026-03-24T12:00:00Z",
+    "battery_pct": 45,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0152",
+    "vehicle_id": "veh_0152",
+    "serial": "SN128151241",
+    "firmware": "3.7.4",
+    "last_seen_at": "2026-04-25T21:11:12Z",
+    "battery_pct": 29,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0153",
+    "vehicle_id": "veh_0153",
+    "serial": "SN872459236",
+    "firmware": "3.7.7",
+    "last_seen_at": "2026-04-24T00:59:11Z",
+    "battery_pct": 83,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0154",
+    "vehicle_id": "veh_0154",
+    "serial": "SN681943138",
+    "firmware": "1.9.9",
+    "last_seen_at": "2026-04-25T04:52:14Z",
+    "battery_pct": 84,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0155",
+    "vehicle_id": "veh_0155",
+    "serial": "SN871526168",
+    "firmware": "1.2.5",
+    "last_seen_at": "2026-04-24T05:40:13Z",
+    "battery_pct": 93,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0156",
+    "vehicle_id": "veh_0156",
+    "serial": "SN630328770",
+    "firmware": "3.0.8",
+    "last_seen_at": "2026-04-26T15:18:07Z",
+    "battery_pct": 87,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0157",
+    "vehicle_id": "veh_0157",
+    "serial": "SN527986678",
+    "firmware": "3.2.3",
+    "last_seen_at": "2026-04-26T00:36:51Z",
+    "battery_pct": 26,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0158",
+    "vehicle_id": "veh_0158",
+    "serial": "SN132102471",
+    "firmware": "3.5.6",
+    "last_seen_at": "2026-04-25T21:02:37Z",
+    "battery_pct": 99,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0159",
+    "vehicle_id": "veh_0159",
+    "serial": "SN836170723",
+    "firmware": "2.9.0",
+    "last_seen_at": "2026-04-30T03:04:38Z",
+    "battery_pct": 35,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0160",
+    "vehicle_id": "veh_0160",
+    "serial": "SN400215084",
+    "firmware": "3.2.5",
+    "last_seen_at": "2026-04-25T22:54:38Z",
+    "battery_pct": 54,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0161",
+    "vehicle_id": "veh_0161",
+    "serial": "SN296018050",
+    "firmware": "3.6.7",
+    "last_seen_at": "2026-04-25T17:13:11Z",
+    "battery_pct": 45,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0162",
+    "vehicle_id": "veh_0162",
+    "serial": "SN479052259",
+    "firmware": "3.4.2",
+    "last_seen_at": "2026-04-27T12:09:56Z",
+    "battery_pct": 37,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0163",
+    "vehicle_id": "veh_0163",
+    "serial": "SN947756854",
+    "firmware": "2.3.3",
+    "last_seen_at": "2026-04-23T20:54:47Z",
+    "battery_pct": 93,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0164",
+    "vehicle_id": "veh_0164",
+    "serial": "SN465272013",
+    "firmware": "2.2.4",
+    "last_seen_at": "2026-04-29T12:48:47Z",
+    "battery_pct": 61,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0165",
+    "vehicle_id": "veh_0165",
+    "serial": "SN672347608",
+    "firmware": "2.7.2",
+    "last_seen_at": "2026-03-15T12:00:00Z",
+    "battery_pct": 69,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0166",
+    "vehicle_id": "veh_0166",
+    "serial": "SN717877949",
+    "firmware": "1.6.9",
+    "last_seen_at": "2026-04-27T19:26:21Z",
+    "battery_pct": 48,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0167",
+    "vehicle_id": "veh_0167",
+    "serial": "SN668804976",
+    "firmware": "3.5.1",
+    "last_seen_at": "2026-04-27T18:53:08Z",
+    "battery_pct": 84,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0168",
+    "vehicle_id": "veh_0168",
+    "serial": "SN701224039",
+    "firmware": "3.6.5",
+    "last_seen_at": "2025-12-01T12:00:00Z",
+    "battery_pct": 23,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0169",
+    "vehicle_id": "veh_0169",
+    "serial": "SN657202202",
+    "firmware": "2.6.8",
+    "last_seen_at": "2026-04-26T13:31:07Z",
+    "battery_pct": 22,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0170",
+    "vehicle_id": "veh_0170",
+    "serial": "SN911735830",
+    "firmware": "2.4.4",
+    "last_seen_at": "2026-04-27T18:41:43Z",
+    "battery_pct": 20,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0171",
+    "vehicle_id": "veh_0171",
+    "serial": "SN429230002",
+    "firmware": "3.9.1",
+    "last_seen_at": "2026-04-24T06:46:44Z",
+    "battery_pct": 93,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0172",
+    "vehicle_id": "veh_0172",
+    "serial": "SN993779600",
+    "firmware": "1.7.9",
+    "last_seen_at": "2026-04-24T14:57:09Z",
+    "battery_pct": 41,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0173",
+    "vehicle_id": "veh_0173",
+    "serial": "SN313833343",
+    "firmware": "3.5.9",
+    "last_seen_at": "2026-04-27T15:15:18Z",
+    "battery_pct": 54,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0174",
+    "vehicle_id": "veh_0174",
+    "serial": "SN192352716",
+    "firmware": "2.3.6",
+    "last_seen_at": "2026-03-21T12:00:00Z",
+    "battery_pct": 31,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0175",
+    "vehicle_id": "veh_0175",
+    "serial": "SN415304275",
+    "firmware": "2.1.5",
+    "last_seen_at": "2026-04-26T12:31:53Z",
+    "battery_pct": 45,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0176",
+    "vehicle_id": "veh_0176",
+    "serial": "SN332568040",
+    "firmware": "3.2.5",
+    "last_seen_at": "2026-04-27T21:31:55Z",
+    "battery_pct": 73,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0177",
+    "vehicle_id": "veh_0177",
+    "serial": "SN881514034",
+    "firmware": "3.1.3",
+    "last_seen_at": "2026-04-25T07:50:45Z",
+    "battery_pct": 77,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0178",
+    "vehicle_id": "veh_0178",
+    "serial": "SN149168968",
+    "firmware": "1.9.4",
+    "last_seen_at": "2026-04-28T16:24:03Z",
+    "battery_pct": 33,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0179",
+    "vehicle_id": "veh_0179",
+    "serial": "SN926522833",
+    "firmware": "1.0.5",
+    "last_seen_at": "2026-04-28T08:21:02Z",
+    "battery_pct": 78,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0180",
+    "vehicle_id": "veh_0180",
+    "serial": "SN761122988",
+    "firmware": "3.1.9",
+    "last_seen_at": "2026-04-24T03:27:19Z",
+    "battery_pct": 80,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0181",
+    "vehicle_id": "veh_0181",
+    "serial": "SN749690863",
+    "firmware": "3.2.7",
+    "last_seen_at": "2026-04-30T10:02:27Z",
+    "battery_pct": 54,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0182",
+    "vehicle_id": "veh_0182",
+    "serial": "SN239345807",
+    "firmware": "1.8.8",
+    "last_seen_at": "2026-04-23T17:31:40Z",
+    "battery_pct": 64,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0183",
+    "vehicle_id": "veh_0183",
+    "serial": "SN274793916",
+    "firmware": "1.5.8",
+    "last_seen_at": "2026-04-25T07:17:31Z",
+    "battery_pct": 73,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0184",
+    "vehicle_id": "veh_0184",
+    "serial": "SN448381081",
+    "firmware": "3.8.6",
+    "last_seen_at": "2026-04-25T00:59:32Z",
+    "battery_pct": 88,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0185",
+    "vehicle_id": "veh_0185",
+    "serial": "SN400151735",
+    "firmware": "2.2.2",
+    "last_seen_at": "2025-11-12T12:00:00Z",
+    "battery_pct": 63,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0186",
+    "vehicle_id": "veh_0186",
+    "serial": "SN895429952",
+    "firmware": "3.4.8",
+    "last_seen_at": "2026-04-26T09:06:11Z",
+    "battery_pct": 95,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0187",
+    "vehicle_id": "veh_0187",
+    "serial": "SN490530383",
+    "firmware": "2.9.4",
+    "last_seen_at": "2026-04-28T08:13:10Z",
+    "battery_pct": 84,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0188",
+    "vehicle_id": "veh_0188",
+    "serial": "SN426999169",
+    "firmware": "3.1.1",
+    "last_seen_at": "2026-04-25T07:18:17Z",
+    "battery_pct": 62,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0189",
+    "vehicle_id": "veh_0189",
+    "serial": "SN246163398",
+    "firmware": "1.0.0",
+    "last_seen_at": "2026-04-28T14:34:42Z",
+    "battery_pct": 59,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0190",
+    "vehicle_id": "veh_0190",
+    "serial": "SN786298234",
+    "firmware": "1.9.3",
+    "last_seen_at": "2026-04-29T14:48:39Z",
+    "battery_pct": 50,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0191",
+    "vehicle_id": "veh_0191",
+    "serial": "SN790040719",
+    "firmware": "1.5.5",
+    "last_seen_at": "2026-04-29T15:49:54Z",
+    "battery_pct": 46,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0192",
+    "vehicle_id": "veh_0192",
+    "serial": "SN447867218",
+    "firmware": "2.7.0",
+    "last_seen_at": "2026-04-24T04:01:07Z",
+    "battery_pct": 46,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0193",
+    "vehicle_id": "veh_0193",
+    "serial": "SN696513027",
+    "firmware": "3.2.1",
+    "last_seen_at": "2026-04-27T01:18:20Z",
+    "battery_pct": 58,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0194",
+    "vehicle_id": "veh_0194",
+    "serial": "SN658140676",
+    "firmware": "3.9.6",
+    "last_seen_at": "2026-04-25T19:37:13Z",
+    "battery_pct": 95,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0195",
+    "vehicle_id": "veh_0195",
+    "serial": "SN254696542",
+    "firmware": "2.3.6",
+    "last_seen_at": "2026-04-25T01:13:05Z",
+    "battery_pct": 76,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0196",
+    "vehicle_id": "veh_0196",
+    "serial": "SN790572323",
+    "firmware": "2.2.0",
+    "last_seen_at": "2026-04-28T22:12:42Z",
+    "battery_pct": 66,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0197",
+    "vehicle_id": "veh_0197",
+    "serial": "SN496032862",
+    "firmware": "2.3.1",
+    "last_seen_at": "2026-04-24T02:50:30Z",
+    "battery_pct": 47,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0198",
+    "vehicle_id": "veh_0198",
+    "serial": "SN859742984",
+    "firmware": "3.1.2",
+    "last_seen_at": "2026-04-28T04:32:07Z",
+    "battery_pct": 28,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0199",
+    "vehicle_id": "veh_0199",
+    "serial": "SN314942814",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-26T19:12:02Z",
+    "battery_pct": 99,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0200",
+    "vehicle_id": "veh_0200",
+    "serial": "SN163334116",
+    "firmware": "2.0.1",
+    "last_seen_at": "2026-04-24T04:39:30Z",
+    "battery_pct": 51,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0201",
+    "vehicle_id": "veh_0201",
+    "serial": "SN381739513",
+    "firmware": "2.2.3",
+    "last_seen_at": "2026-04-23T19:00:04Z",
+    "battery_pct": 79,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0202",
+    "vehicle_id": "veh_0202",
+    "serial": "SN126011809",
+    "firmware": "3.2.7",
+    "last_seen_at": "2026-03-13T12:00:00Z",
+    "battery_pct": 86,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0203",
+    "vehicle_id": "veh_0203",
+    "serial": "SN814207218",
+    "firmware": "2.2.2",
+    "last_seen_at": "2026-04-26T06:01:47Z",
+    "battery_pct": 81,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0204",
+    "vehicle_id": "veh_0204",
+    "serial": "SN444508846",
+    "firmware": "2.5.8",
+    "last_seen_at": "2026-04-27T06:37:47Z",
+    "battery_pct": 81,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0205",
+    "vehicle_id": "veh_0205",
+    "serial": "SN506851093",
+    "firmware": "1.9.0",
+    "last_seen_at": "2026-04-26T13:12:38Z",
+    "battery_pct": 38,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0206",
+    "vehicle_id": "veh_0206",
+    "serial": "SN648604942",
+    "firmware": "3.7.6",
+    "last_seen_at": "2026-04-23T18:41:39Z",
+    "battery_pct": 50,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0207",
+    "vehicle_id": "veh_0207",
+    "serial": "SN521438906",
+    "firmware": "1.8.2",
+    "last_seen_at": "2026-04-25T03:58:33Z",
+    "battery_pct": 35,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0208",
+    "vehicle_id": "veh_0208",
+    "serial": "SN288494303",
+    "firmware": "1.7.3",
+    "last_seen_at": "2026-04-28T02:14:06Z",
+    "battery_pct": 76,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0209",
+    "vehicle_id": "veh_0209",
+    "serial": "SN706110978",
+    "firmware": "3.9.2",
+    "last_seen_at": "2026-04-30T03:28:32Z",
+    "battery_pct": 61,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0210",
+    "vehicle_id": "veh_0210",
+    "serial": "SN285267560",
+    "firmware": "1.9.9",
+    "last_seen_at": "2026-04-27T21:38:22Z",
+    "battery_pct": 72,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0211",
+    "vehicle_id": "veh_0211",
+    "serial": "SN208243963",
+    "firmware": "3.6.5",
+    "last_seen_at": "2026-04-29T14:02:57Z",
+    "battery_pct": 58,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0212",
+    "vehicle_id": "veh_0212",
+    "serial": "SN693925686",
+    "firmware": "3.2.3",
+    "last_seen_at": "2026-04-28T11:29:06Z",
+    "battery_pct": 61,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0213",
+    "vehicle_id": "veh_0213",
+    "serial": "SN854271682",
+    "firmware": "1.9.8",
+    "last_seen_at": "2026-04-28T00:49:04Z",
+    "battery_pct": 60,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0214",
+    "vehicle_id": "veh_0214",
+    "serial": "SN386450980",
+    "firmware": "2.1.7",
+    "last_seen_at": "2026-04-24T21:08:01Z",
+    "battery_pct": 83,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0215",
+    "vehicle_id": "veh_0215",
+    "serial": "SN273475542",
+    "firmware": "2.4.3",
+    "last_seen_at": "2026-04-30T06:18:10Z",
+    "battery_pct": 93,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0216",
+    "vehicle_id": "veh_0216",
+    "serial": "SN380287338",
+    "firmware": "2.9.7",
+    "last_seen_at": "2026-04-29T02:04:24Z",
+    "battery_pct": 43,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0217",
+    "vehicle_id": "veh_0217",
+    "serial": "SN748118531",
+    "firmware": "3.7.0",
+    "last_seen_at": "2026-04-28T05:35:32Z",
+    "battery_pct": 93,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0218",
+    "vehicle_id": "veh_0218",
+    "serial": "SN572598556",
+    "firmware": "1.2.0",
+    "last_seen_at": "2026-04-26T11:33:27Z",
+    "battery_pct": 51,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0219",
+    "vehicle_id": "veh_0219",
+    "serial": "SN915770662",
+    "firmware": "3.7.1",
+    "last_seen_at": "2026-04-27T21:35:57Z",
+    "battery_pct": 82,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0220",
+    "vehicle_id": "veh_0220",
+    "serial": "SN248472045",
+    "firmware": "3.8.8",
+    "last_seen_at": "2026-04-27T13:12:48Z",
+    "battery_pct": 36,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0221",
+    "vehicle_id": "veh_0221",
+    "serial": "SN130148921",
+    "firmware": "3.1.2",
+    "last_seen_at": "2026-04-26T01:53:17Z",
+    "battery_pct": 70,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0222",
+    "vehicle_id": "veh_0222",
+    "serial": "SN688388486",
+    "firmware": "1.2.0",
+    "last_seen_at": "2026-04-29T23:02:55Z",
+    "battery_pct": 53,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0223",
+    "vehicle_id": "veh_0223",
+    "serial": "SN751310272",
+    "firmware": "3.7.8",
+    "last_seen_at": "2026-04-24T09:21:24Z",
+    "battery_pct": 84,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0224",
+    "vehicle_id": "veh_0224",
+    "serial": "SN475071892",
+    "firmware": "3.3.5",
+    "last_seen_at": "2026-04-24T06:11:22Z",
+    "battery_pct": 65,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0225",
+    "vehicle_id": "veh_0225",
+    "serial": "SN354257614",
+    "firmware": "3.8.6",
+    "last_seen_at": "2026-04-29T18:16:02Z",
+    "battery_pct": 25,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0226",
+    "vehicle_id": "veh_0226",
+    "serial": "SN118615485",
+    "firmware": "2.4.3",
+    "last_seen_at": "2026-04-25T19:01:49Z",
+    "battery_pct": 30,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0227",
+    "vehicle_id": "veh_0227",
+    "serial": "SN217554153",
+    "firmware": "2.1.5",
+    "last_seen_at": "2025-12-21T12:00:00Z",
+    "battery_pct": 46,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0228",
+    "vehicle_id": "veh_0228",
+    "serial": "SN124524881",
+    "firmware": "1.9.2",
+    "last_seen_at": "2026-04-26T06:33:56Z",
+    "battery_pct": 23,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0229",
+    "vehicle_id": "veh_0229",
+    "serial": "SN425118997",
+    "firmware": "1.7.4",
+    "last_seen_at": "2026-04-24T07:02:59Z",
+    "battery_pct": 44,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0230",
+    "vehicle_id": "veh_0230",
+    "serial": "SN757216085",
+    "firmware": "1.0.9",
+    "last_seen_at": "2026-04-25T10:57:09Z",
+    "battery_pct": 80,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0231",
+    "vehicle_id": "veh_0231",
+    "serial": "SN325933645",
+    "firmware": "3.9.7",
+    "last_seen_at": "2026-03-24T12:00:00Z",
+    "battery_pct": 97,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0232",
+    "vehicle_id": "veh_0232",
+    "serial": "SN255890191",
+    "firmware": "2.0.2",
+    "last_seen_at": "2026-04-28T15:47:20Z",
+    "battery_pct": 34,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0233",
+    "vehicle_id": "veh_0233",
+    "serial": "SN269011848",
+    "firmware": "1.7.6",
+    "last_seen_at": "2025-11-13T12:00:00Z",
+    "battery_pct": 37,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0234",
+    "vehicle_id": "veh_0234",
+    "serial": "SN223658456",
+    "firmware": "3.1.1",
+    "last_seen_at": "2026-04-29T03:10:16Z",
+    "battery_pct": 68,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0235",
+    "vehicle_id": "veh_0235",
+    "serial": "SN212211964",
+    "firmware": "1.2.0",
+    "last_seen_at": "2026-04-29T00:46:08Z",
+    "battery_pct": 99,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0236",
+    "vehicle_id": "veh_0236",
+    "serial": "SN579416064",
+    "firmware": "1.5.8",
+    "last_seen_at": "2026-04-25T04:31:45Z",
+    "battery_pct": 51,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0237",
+    "vehicle_id": "veh_0237",
+    "serial": "SN768913252",
+    "firmware": "3.3.0",
+    "last_seen_at": "2026-04-26T22:28:46Z",
+    "battery_pct": 93,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0238",
+    "vehicle_id": "veh_0238",
+    "serial": "SN563264358",
+    "firmware": "2.5.3",
+    "last_seen_at": "2026-04-23T23:50:08Z",
+    "battery_pct": 21,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0239",
+    "vehicle_id": "veh_0239",
+    "serial": "SN588921094",
+    "firmware": "3.4.8",
+    "last_seen_at": "2026-04-29T05:48:57Z",
+    "battery_pct": 39,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0240",
+    "vehicle_id": "veh_0240",
+    "serial": "SN289125842",
+    "firmware": "1.1.4",
+    "last_seen_at": "2026-04-30T05:23:08Z",
+    "battery_pct": 91,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0241",
+    "vehicle_id": "veh_0241",
+    "serial": "SN771462722",
+    "firmware": "3.2.5",
+    "last_seen_at": "2026-04-30T09:27:14Z",
+    "battery_pct": 93,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0242",
+    "vehicle_id": "veh_0242",
+    "serial": "SN244562430",
+    "firmware": "1.9.4",
+    "last_seen_at": "2026-04-25T22:36:20Z",
+    "battery_pct": 36,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0243",
+    "vehicle_id": "veh_0243",
+    "serial": "SN983945276",
+    "firmware": "3.3.5",
+    "last_seen_at": "2026-04-26T06:03:45Z",
+    "battery_pct": 68,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0244",
+    "vehicle_id": "veh_0244",
+    "serial": "SN970229749",
+    "firmware": "3.0.3",
+    "last_seen_at": "2026-04-23T14:18:17Z",
+    "battery_pct": 96,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0245",
+    "vehicle_id": "veh_0245",
+    "serial": "SN237657276",
+    "firmware": "3.9.7",
+    "last_seen_at": "2026-04-30T07:01:22Z",
+    "battery_pct": 32,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0246",
+    "vehicle_id": "veh_0246",
+    "serial": "SN587193534",
+    "firmware": "1.2.4",
+    "last_seen_at": "2026-04-28T04:26:18Z",
+    "battery_pct": 74,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0247",
+    "vehicle_id": "veh_0247",
+    "serial": "SN690230487",
+    "firmware": "2.8.5",
+    "last_seen_at": "2026-04-25T19:10:15Z",
+    "battery_pct": 59,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0248",
+    "vehicle_id": "veh_0248",
+    "serial": "SN327646801",
+    "firmware": "1.4.1",
+    "last_seen_at": "2026-04-28T14:30:44Z",
+    "battery_pct": 23,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0249",
+    "vehicle_id": "veh_0249",
+    "serial": "SN617385129",
+    "firmware": "1.6.1",
+    "last_seen_at": "2026-04-26T02:36:42Z",
+    "battery_pct": 98,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0250",
+    "vehicle_id": "veh_0250",
+    "serial": "SN614655733",
+    "firmware": "1.8.7",
+    "last_seen_at": "2026-04-27T03:02:49Z",
+    "battery_pct": 27,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0251",
+    "vehicle_id": "veh_0251",
+    "serial": "SN743243083",
+    "firmware": "3.0.7",
+    "last_seen_at": "2026-04-29T11:08:00Z",
+    "battery_pct": 75,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0252",
+    "vehicle_id": "veh_0252",
+    "serial": "SN734380277",
+    "firmware": "1.6.3",
+    "last_seen_at": "2026-04-28T22:08:19Z",
+    "battery_pct": 36,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0253",
+    "vehicle_id": "veh_0253",
+    "serial": "SN670207584",
+    "firmware": "3.1.5",
+    "last_seen_at": "2026-04-26T14:57:28Z",
+    "battery_pct": 53,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0254",
+    "vehicle_id": "veh_0254",
+    "serial": "SN988808735",
+    "firmware": "3.0.3",
+    "last_seen_at": "2026-04-27T00:51:18Z",
+    "battery_pct": 24,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0255",
+    "vehicle_id": "veh_0255",
+    "serial": "SN162972587",
+    "firmware": "1.0.9",
+    "last_seen_at": "2026-03-09T12:00:00Z",
+    "battery_pct": 71,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0256",
+    "vehicle_id": "veh_0256",
+    "serial": "SN706050251",
+    "firmware": "3.7.5",
+    "last_seen_at": "2026-04-25T08:44:15Z",
+    "battery_pct": 59,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0257",
+    "vehicle_id": "veh_0257",
+    "serial": "SN498237964",
+    "firmware": "2.9.5",
+    "last_seen_at": "2026-04-25T23:39:22Z",
+    "battery_pct": 56,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0258",
+    "vehicle_id": "veh_0258",
+    "serial": "SN285201676",
+    "firmware": "1.4.7",
+    "last_seen_at": "2026-04-29T05:00:06Z",
+    "battery_pct": 37,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0259",
+    "vehicle_id": "veh_0259",
+    "serial": "SN595795858",
+    "firmware": "2.0.1",
+    "last_seen_at": "2026-04-29T23:08:54Z",
+    "battery_pct": 91,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0260",
+    "vehicle_id": "veh_0260",
+    "serial": "SN925875907",
+    "firmware": "1.8.1",
+    "last_seen_at": "2026-04-30T00:43:09Z",
+    "battery_pct": 46,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0261",
+    "vehicle_id": "veh_0261",
+    "serial": "SN965539784",
+    "firmware": "3.6.8",
+    "last_seen_at": "2026-04-27T17:03:04Z",
+    "battery_pct": 32,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0262",
+    "vehicle_id": "veh_0262",
+    "serial": "SN528034660",
+    "firmware": "2.1.7",
+    "last_seen_at": "2026-01-10T12:00:00Z",
+    "battery_pct": 74,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0263",
+    "vehicle_id": "veh_0263",
+    "serial": "SN684515664",
+    "firmware": "1.8.1",
+    "last_seen_at": "2026-04-26T01:19:26Z",
+    "battery_pct": 77,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0264",
+    "vehicle_id": "veh_0264",
+    "serial": "SN259055675",
+    "firmware": "3.0.1",
+    "last_seen_at": "2026-04-26T08:10:34Z",
+    "battery_pct": 27,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0265",
+    "vehicle_id": "veh_0265",
+    "serial": "SN190661379",
+    "firmware": "1.8.0",
+    "last_seen_at": "2026-04-25T12:59:26Z",
+    "battery_pct": 77,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0266",
+    "vehicle_id": "veh_0266",
+    "serial": "SN364680584",
+    "firmware": "1.7.3",
+    "last_seen_at": "2026-04-26T11:15:27Z",
+    "battery_pct": 30,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0267",
+    "vehicle_id": "veh_0267",
+    "serial": "SN972949045",
+    "firmware": "2.5.8",
+    "last_seen_at": "2026-05-14T12:00:00Z",
+    "battery_pct": 82,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0268",
+    "vehicle_id": "veh_0268",
+    "serial": "SN314205620",
+    "firmware": "2.2.1",
+    "last_seen_at": "2026-04-28T02:44:59Z",
+    "battery_pct": 23,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0269",
+    "vehicle_id": "veh_0269",
+    "serial": "SN706805016",
+    "firmware": "2.2.5",
+    "last_seen_at": "2026-04-24T01:08:01Z",
+    "battery_pct": 87,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0270",
+    "vehicle_id": "veh_0270",
+    "serial": "SN579769138",
+    "firmware": "2.6.9",
+    "last_seen_at": "2026-04-27T10:05:13Z",
+    "battery_pct": 83,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0271",
+    "vehicle_id": "veh_0271",
+    "serial": "SN319646669",
+    "firmware": "1.8.0",
+    "last_seen_at": "2026-04-26T10:47:05Z",
+    "battery_pct": 45,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0272",
+    "vehicle_id": "veh_0272",
+    "serial": "SN751721227",
+    "firmware": "2.2.7",
+    "last_seen_at": "2026-04-27T09:57:10Z",
+    "battery_pct": 75,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0273",
+    "vehicle_id": "veh_0273",
+    "serial": "SN569019932",
+    "firmware": "1.1.5",
+    "last_seen_at": "2026-04-29T17:20:13Z",
+    "battery_pct": 87,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0274",
+    "vehicle_id": "veh_0274",
+    "serial": "SN991949861",
+    "firmware": "1.7.0",
+    "last_seen_at": "2026-04-30T02:39:17Z",
+    "battery_pct": 27,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0275",
+    "vehicle_id": "veh_0275",
+    "serial": "SN532701137",
+    "firmware": "2.6.1",
+    "last_seen_at": "2026-04-26T17:31:51Z",
+    "battery_pct": 62,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0276",
+    "vehicle_id": "veh_0276",
+    "serial": "SN910778211",
+    "firmware": "1.1.0",
+    "last_seen_at": "2026-04-25T01:49:19Z",
+    "battery_pct": 95,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0277",
+    "vehicle_id": "veh_0277",
+    "serial": "SN815688145",
+    "firmware": "2.1.4",
+    "last_seen_at": "2026-04-30T01:07:15Z",
+    "battery_pct": 22,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0278",
+    "vehicle_id": "veh_0278",
+    "serial": "SN728745204",
+    "firmware": "1.8.8",
+    "last_seen_at": "2026-05-11T12:00:00Z",
+    "battery_pct": 92,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0279",
+    "vehicle_id": "veh_0279",
+    "serial": "SN716509119",
+    "firmware": "1.5.3",
+    "last_seen_at": "2026-04-29T16:50:26Z",
+    "battery_pct": 60,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0280",
+    "vehicle_id": "veh_0280",
+    "serial": "SN145415982",
+    "firmware": "2.9.9",
+    "last_seen_at": "2026-04-24T09:49:47Z",
+    "battery_pct": 24,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0281",
+    "vehicle_id": "veh_0281",
+    "serial": "SN794264349",
+    "firmware": "3.7.6",
+    "last_seen_at": "2025-11-09T12:00:00Z",
+    "battery_pct": 83,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0282",
+    "vehicle_id": "veh_0282",
+    "serial": "SN795813602",
+    "firmware": "1.3.7",
+    "last_seen_at": "2026-04-25T04:07:37Z",
+    "battery_pct": 35,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0283",
+    "vehicle_id": "veh_0283",
+    "serial": "SN510406943",
+    "firmware": "3.8.4",
+    "last_seen_at": "2026-04-29T06:16:28Z",
+    "battery_pct": 72,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0284",
+    "vehicle_id": "veh_0284",
+    "serial": "SN206919738",
+    "firmware": "1.3.7",
+    "last_seen_at": "2026-04-27T00:30:21Z",
+    "battery_pct": 26,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0285",
+    "vehicle_id": "veh_0285",
+    "serial": "SN615279977",
+    "firmware": "3.4.3",
+    "last_seen_at": "2026-04-27T16:02:49Z",
+    "battery_pct": 42,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0286",
+    "vehicle_id": "veh_0286",
+    "serial": "SN569111042",
+    "firmware": "1.3.8",
+    "last_seen_at": "2026-04-26T23:47:31Z",
+    "battery_pct": 94,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0287",
+    "vehicle_id": "veh_0287",
+    "serial": "SN755568959",
+    "firmware": "2.0.1",
+    "last_seen_at": "2026-01-25T12:00:00Z",
+    "battery_pct": 41,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0288",
+    "vehicle_id": "veh_0288",
+    "serial": "SN809015667",
+    "firmware": "1.0.3",
+    "last_seen_at": "2026-04-24T19:53:54Z",
+    "battery_pct": 26,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0289",
+    "vehicle_id": "veh_0289",
+    "serial": "SN980268284",
+    "firmware": "3.2.1",
+    "last_seen_at": "2026-04-29T10:04:13Z",
+    "battery_pct": 72,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0290",
+    "vehicle_id": "veh_0290",
+    "serial": "SN270036116",
+    "firmware": "3.0.4",
+    "last_seen_at": "2026-02-10T12:00:00Z",
+    "battery_pct": 89,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0291",
+    "vehicle_id": "veh_0291",
+    "serial": "SN352555606",
+    "firmware": "2.9.9",
+    "last_seen_at": "2026-04-24T06:35:28Z",
+    "battery_pct": 96,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0292",
+    "vehicle_id": "veh_0292",
+    "serial": "SN257416872",
+    "firmware": "1.1.7",
+    "last_seen_at": "2026-04-30T05:28:19Z",
+    "battery_pct": 88,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0293",
+    "vehicle_id": "veh_0293",
+    "serial": "SN810265553",
+    "firmware": "3.0.1",
+    "last_seen_at": "2026-04-23T20:47:10Z",
+    "battery_pct": 71,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0294",
+    "vehicle_id": "veh_0294",
+    "serial": "SN426540001",
+    "firmware": "3.2.2",
+    "last_seen_at": "2026-04-29T00:58:37Z",
+    "battery_pct": 77,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0295",
+    "vehicle_id": "veh_0295",
+    "serial": "SN660435567",
+    "firmware": "3.3.9",
+    "last_seen_at": "2026-04-25T03:44:16Z",
+    "battery_pct": 84,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0296",
+    "vehicle_id": "veh_0296",
+    "serial": "SN569942271",
+    "firmware": "1.8.2",
+    "last_seen_at": "2026-05-26T12:00:00Z",
+    "battery_pct": 23,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0297",
+    "vehicle_id": "veh_0297",
+    "serial": "SN679922568",
+    "firmware": "1.6.7",
+    "last_seen_at": "2026-04-26T14:44:08Z",
+    "battery_pct": 80,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0298",
+    "vehicle_id": "veh_0298",
+    "serial": "SN989928641",
+    "firmware": "1.3.6",
+    "last_seen_at": "2026-04-23T15:53:22Z",
+    "battery_pct": 30,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0299",
+    "vehicle_id": "veh_0299",
+    "serial": "SN739606946",
+    "firmware": "2.1.1",
+    "last_seen_at": "2026-04-28T14:01:43Z",
+    "battery_pct": 85,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0300",
+    "vehicle_id": "veh_0300",
+    "serial": "SN824067553",
+    "firmware": "3.4.2",
+    "last_seen_at": "2026-04-25T08:39:15Z",
+    "battery_pct": 91,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0301",
+    "vehicle_id": "veh_0301",
+    "serial": "SN597528007",
+    "firmware": "3.6.9",
+    "last_seen_at": "2026-04-24T17:01:27Z",
+    "battery_pct": 26,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0302",
+    "vehicle_id": "veh_0302",
+    "serial": "SN146315523",
+    "firmware": "3.5.3",
+    "last_seen_at": "2026-04-29T01:39:19Z",
+    "battery_pct": 53,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0303",
+    "vehicle_id": "veh_0303",
+    "serial": "SN948381236",
+    "firmware": "3.6.1",
+    "last_seen_at": "2026-04-26T04:42:45Z",
+    "battery_pct": 74,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0304",
+    "vehicle_id": "veh_0304",
+    "serial": "SN630810146",
+    "firmware": "3.3.2",
+    "last_seen_at": "2026-04-24T14:00:13Z",
+    "battery_pct": 56,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0305",
+    "vehicle_id": "veh_0305",
+    "serial": "SN457885569",
+    "firmware": "3.6.5",
+    "last_seen_at": "2025-12-09T12:00:00Z",
+    "battery_pct": 78,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0306",
+    "vehicle_id": "veh_0306",
+    "serial": "SN295126001",
+    "firmware": "2.0.9",
+    "last_seen_at": "2026-04-25T09:11:27Z",
+    "battery_pct": 56,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0307",
+    "vehicle_id": "veh_0307",
+    "serial": "SN512027676",
+    "firmware": "3.3.4",
+    "last_seen_at": "2026-04-25T06:57:18Z",
+    "battery_pct": 23,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0308",
+    "vehicle_id": "veh_0308",
+    "serial": "SN586469216",
+    "firmware": "3.4.2",
+    "last_seen_at": "2026-04-29T17:08:15Z",
+    "battery_pct": 76,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0309",
+    "vehicle_id": "veh_0309",
+    "serial": "SN264228009",
+    "firmware": "3.5.1",
+    "last_seen_at": "2026-04-25T19:35:18Z",
+    "battery_pct": 38,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0310",
+    "vehicle_id": "veh_0310",
+    "serial": "SN481791843",
+    "firmware": "3.3.6",
+    "last_seen_at": "2026-04-27T03:50:14Z",
+    "battery_pct": 89,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0311",
+    "vehicle_id": "veh_0311",
+    "serial": "SN100368619",
+    "firmware": "3.9.3",
+    "last_seen_at": "2026-04-27T06:32:45Z",
+    "battery_pct": 88,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0312",
+    "vehicle_id": "veh_0312",
+    "serial": "SN671985962",
+    "firmware": "3.8.3",
+    "last_seen_at": "2026-04-30T00:01:57Z",
+    "battery_pct": 75,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0313",
+    "vehicle_id": "veh_0313",
+    "serial": "SN377596175",
+    "firmware": "2.7.2",
+    "last_seen_at": "2026-04-24T02:26:21Z",
+    "battery_pct": 76,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0314",
+    "vehicle_id": "veh_0314",
+    "serial": "SN556248404",
+    "firmware": "1.9.1",
+    "last_seen_at": "2026-04-29T10:01:27Z",
+    "battery_pct": 58,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0315",
+    "vehicle_id": "veh_0315",
+    "serial": "SN330265857",
+    "firmware": "1.9.3",
+    "last_seen_at": "2026-04-26T03:47:55Z",
+    "battery_pct": 96,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0316",
+    "vehicle_id": "veh_0316",
+    "serial": "SN981271946",
+    "firmware": "1.6.1",
+    "last_seen_at": "2026-04-27T16:14:10Z",
+    "battery_pct": 47,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0317",
+    "vehicle_id": "veh_0317",
+    "serial": "SN872787506",
+    "firmware": "2.0.5",
+    "last_seen_at": "2026-04-28T05:39:17Z",
+    "battery_pct": 51,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0318",
+    "vehicle_id": "veh_0318",
+    "serial": "SN373280749",
+    "firmware": "2.8.8",
+    "last_seen_at": "2026-04-29T08:30:20Z",
+    "battery_pct": 71,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0319",
+    "vehicle_id": "veh_0319",
+    "serial": "SN937259691",
+    "firmware": "3.0.2",
+    "last_seen_at": "2026-04-26T03:03:02Z",
+    "battery_pct": 55,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0320",
+    "vehicle_id": "veh_0320",
+    "serial": "SN632137816",
+    "firmware": "1.4.1",
+    "last_seen_at": "2026-04-29T07:38:30Z",
+    "battery_pct": 74,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0321",
+    "vehicle_id": "veh_0321",
+    "serial": "SN798239012",
+    "firmware": "1.3.4",
+    "last_seen_at": "2026-04-27T04:18:30Z",
+    "battery_pct": 23,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0322",
+    "vehicle_id": "veh_0322",
+    "serial": "SN531713735",
+    "firmware": "1.7.7",
+    "last_seen_at": "2026-04-29T16:58:13Z",
+    "battery_pct": 86,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0323",
+    "vehicle_id": "veh_0323",
+    "serial": "SN851828237",
+    "firmware": "2.9.8",
+    "last_seen_at": "2026-04-23T13:02:00Z",
+    "battery_pct": 89,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0324",
+    "vehicle_id": "veh_0324",
+    "serial": "SN687019356",
+    "firmware": "3.0.6",
+    "last_seen_at": "2026-04-24T21:30:47Z",
+    "battery_pct": 90,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0325",
+    "vehicle_id": "veh_0325",
+    "serial": "SN204043553",
+    "firmware": "2.1.7",
+    "last_seen_at": "2026-04-27T05:06:13Z",
+    "battery_pct": 72,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0326",
+    "vehicle_id": "veh_0326",
+    "serial": "SN945332098",
+    "firmware": "1.5.9",
+    "last_seen_at": "2026-04-28T06:12:00Z",
+    "battery_pct": 70,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0327",
+    "vehicle_id": "veh_0327",
+    "serial": "SN384569985",
+    "firmware": "3.6.9",
+    "last_seen_at": "2026-04-23T23:10:43Z",
+    "battery_pct": 99,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0328",
+    "vehicle_id": "veh_0328",
+    "serial": "SN850417486",
+    "firmware": "3.6.9",
+    "last_seen_at": "2026-04-23T19:55:53Z",
+    "battery_pct": 76,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0329",
+    "vehicle_id": "veh_0329",
+    "serial": "SN644089873",
+    "firmware": "2.9.4",
+    "last_seen_at": "2025-12-31T12:00:00Z",
+    "battery_pct": 61,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0330",
+    "vehicle_id": "veh_0330",
+    "serial": "SN731738359",
+    "firmware": "2.5.0",
+    "last_seen_at": "2026-04-29T03:46:20Z",
+    "battery_pct": 35,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0331",
+    "vehicle_id": "veh_0331",
+    "serial": "SN875651322",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-24T16:50:36Z",
+    "battery_pct": 66,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0332",
+    "vehicle_id": "veh_0332",
+    "serial": "SN848388271",
+    "firmware": "2.0.5",
+    "last_seen_at": "2026-04-29T02:58:24Z",
+    "battery_pct": 29,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0333",
+    "vehicle_id": "veh_0333",
+    "serial": "SN184402899",
+    "firmware": "2.0.3",
+    "last_seen_at": "2026-04-23T23:20:58Z",
+    "battery_pct": 91,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0334",
+    "vehicle_id": "veh_0334",
+    "serial": "SN322416531",
+    "firmware": "2.5.3",
+    "last_seen_at": "2025-11-15T12:00:00Z",
+    "battery_pct": 36,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0335",
+    "vehicle_id": "veh_0335",
+    "serial": "SN652620325",
+    "firmware": "3.4.5",
+    "last_seen_at": "2026-04-25T23:32:03Z",
+    "battery_pct": 96,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0336",
+    "vehicle_id": "veh_0336",
+    "serial": "SN506929818",
+    "firmware": "2.0.0",
+    "last_seen_at": "2026-03-24T12:00:00Z",
+    "battery_pct": 96,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0337",
+    "vehicle_id": "veh_0337",
+    "serial": "SN966502737",
+    "firmware": "1.4.8",
+    "last_seen_at": "2026-05-23T12:00:00Z",
+    "battery_pct": 42,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0338",
+    "vehicle_id": "veh_0338",
+    "serial": "SN414947114",
+    "firmware": "2.6.4",
+    "last_seen_at": "2025-12-28T12:00:00Z",
+    "battery_pct": 98,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0339",
+    "vehicle_id": "veh_0339",
+    "serial": "SN563147801",
+    "firmware": "2.6.0",
+    "last_seen_at": "2026-04-26T12:47:28Z",
+    "battery_pct": 75,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0340",
+    "vehicle_id": "veh_0340",
+    "serial": "SN273762867",
+    "firmware": "1.4.5",
+    "last_seen_at": "2026-04-25T08:37:13Z",
+    "battery_pct": 66,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0341",
+    "vehicle_id": "veh_0341",
+    "serial": "SN912034755",
+    "firmware": "2.5.8",
+    "last_seen_at": "2026-04-30T03:29:59Z",
+    "battery_pct": 93,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0342",
+    "vehicle_id": "veh_0342",
+    "serial": "SN940221054",
+    "firmware": "2.5.3",
+    "last_seen_at": "2026-04-28T03:59:32Z",
+    "battery_pct": 84,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0343",
+    "vehicle_id": "veh_0343",
+    "serial": "SN556502904",
+    "firmware": "1.3.5",
+    "last_seen_at": "2026-04-27T08:49:35Z",
+    "battery_pct": 71,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0344",
+    "vehicle_id": "veh_0344",
+    "serial": "SN941039537",
+    "firmware": "1.2.6",
+    "last_seen_at": "2026-04-26T09:59:07Z",
+    "battery_pct": 57,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0345",
+    "vehicle_id": "veh_0345",
+    "serial": "SN216392212",
+    "firmware": "2.5.9",
+    "last_seen_at": "2026-04-26T06:55:20Z",
+    "battery_pct": 49,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0346",
+    "vehicle_id": "veh_0346",
+    "serial": "SN109831282",
+    "firmware": "3.6.2",
+    "last_seen_at": "2026-04-28T05:36:31Z",
+    "battery_pct": 35,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0347",
+    "vehicle_id": "veh_0347",
+    "serial": "SN263376073",
+    "firmware": "2.2.7",
+    "last_seen_at": "2026-04-25T07:16:59Z",
+    "battery_pct": 81,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0348",
+    "vehicle_id": "veh_0348",
+    "serial": "SN433521676",
+    "firmware": "2.2.5",
+    "last_seen_at": "2026-04-29T16:23:17Z",
+    "battery_pct": 69,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0349",
+    "vehicle_id": "veh_0349",
+    "serial": "SN211300111",
+    "firmware": "1.2.4",
+    "last_seen_at": "2026-04-29T06:53:52Z",
+    "battery_pct": 31,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0350",
+    "vehicle_id": "veh_0350",
+    "serial": "SN640479208",
+    "firmware": "2.8.8",
+    "last_seen_at": "2026-04-25T18:54:56Z",
+    "battery_pct": 27,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0351",
+    "vehicle_id": "veh_0351",
+    "serial": "SN916573079",
+    "firmware": "3.0.1",
+    "last_seen_at": "2026-04-24T17:46:02Z",
+    "battery_pct": 95,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0352",
+    "vehicle_id": "veh_0352",
+    "serial": "SN616684946",
+    "firmware": "3.7.8",
+    "last_seen_at": "2026-04-28T22:45:38Z",
+    "battery_pct": 45,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0353",
+    "vehicle_id": "veh_0353",
+    "serial": "SN285638316",
+    "firmware": "3.9.5",
+    "last_seen_at": "2026-04-25T02:39:00Z",
+    "battery_pct": 21,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0354",
+    "vehicle_id": "veh_0354",
+    "serial": "SN579012732",
+    "firmware": "1.6.4",
+    "last_seen_at": "2026-03-17T12:00:00Z",
+    "battery_pct": 74,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0355",
+    "vehicle_id": "veh_0355",
+    "serial": "SN258135051",
+    "firmware": "3.1.2",
+    "last_seen_at": "2026-04-29T20:25:32Z",
+    "battery_pct": 46,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0356",
+    "vehicle_id": "veh_0356",
+    "serial": "SN345680253",
+    "firmware": "3.7.5",
+    "last_seen_at": "2026-04-27T17:35:50Z",
+    "battery_pct": 75,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0357",
+    "vehicle_id": "veh_0357",
+    "serial": "SN847790627",
+    "firmware": "3.6.8",
+    "last_seen_at": "2026-04-29T21:59:31Z",
+    "battery_pct": 79,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0358",
+    "vehicle_id": "veh_0358",
+    "serial": "SN979395613",
+    "firmware": "3.2.5",
+    "last_seen_at": "2026-04-27T06:53:34Z",
+    "battery_pct": 85,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0359",
+    "vehicle_id": "veh_0359",
+    "serial": "SN432605434",
+    "firmware": "1.1.8",
+    "last_seen_at": "2026-04-27T16:15:43Z",
+    "battery_pct": 84,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0360",
+    "vehicle_id": "veh_0360",
+    "serial": "SN371890543",
+    "firmware": "2.4.0",
+    "last_seen_at": "2026-04-30T02:50:38Z",
+    "battery_pct": 74,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0361",
+    "vehicle_id": "veh_0361",
+    "serial": "SN428031438",
+    "firmware": "3.5.4",
+    "last_seen_at": "2026-04-24T19:54:41Z",
+    "battery_pct": 63,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0362",
+    "vehicle_id": "veh_0362",
+    "serial": "SN311322403",
+    "firmware": "1.1.2",
+    "last_seen_at": "2026-04-28T03:37:30Z",
+    "battery_pct": 39,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0363",
+    "vehicle_id": "veh_0363",
+    "serial": "SN406516742",
+    "firmware": "3.9.7",
+    "last_seen_at": "2026-04-29T11:16:51Z",
+    "battery_pct": 77,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0364",
+    "vehicle_id": "veh_0364",
+    "serial": "SN930596908",
+    "firmware": "2.3.3",
+    "last_seen_at": "2026-04-26T22:31:15Z",
+    "battery_pct": 41,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0365",
+    "vehicle_id": "veh_0365",
+    "serial": "SN282236581",
+    "firmware": "1.3.8",
+    "last_seen_at": "2026-04-23T23:02:07Z",
+    "battery_pct": 68,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0366",
+    "vehicle_id": "veh_0366",
+    "serial": "SN980090070",
+    "firmware": "1.7.5",
+    "last_seen_at": "2026-04-30T08:19:32Z",
+    "battery_pct": 89,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0367",
+    "vehicle_id": "veh_0367",
+    "serial": "SN960277776",
+    "firmware": "1.9.6",
+    "last_seen_at": "2026-04-27T12:04:27Z",
+    "battery_pct": 25,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0368",
+    "vehicle_id": "veh_0368",
+    "serial": "SN453208783",
+    "firmware": "3.3.0",
+    "last_seen_at": "2026-01-21T12:00:00Z",
+    "battery_pct": 97,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0369",
+    "vehicle_id": "veh_0369",
+    "serial": "SN448965783",
+    "firmware": "3.8.8",
+    "last_seen_at": "2026-04-28T17:48:59Z",
+    "battery_pct": 54,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0370",
+    "vehicle_id": "veh_0370",
+    "serial": "SN455434392",
+    "firmware": "1.4.0",
+    "last_seen_at": "2026-04-30T01:34:59Z",
+    "battery_pct": 33,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0371",
+    "vehicle_id": "veh_0371",
+    "serial": "SN867892241",
+    "firmware": "2.7.7",
+    "last_seen_at": "2026-04-24T08:51:46Z",
+    "battery_pct": 56,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0372",
+    "vehicle_id": "veh_0372",
+    "serial": "SN556323792",
+    "firmware": "2.2.4",
+    "last_seen_at": "2025-12-12T12:00:00Z",
+    "battery_pct": 52,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0373",
+    "vehicle_id": "veh_0373",
+    "serial": "SN380947516",
+    "firmware": "2.6.0",
+    "last_seen_at": "2026-04-24T01:07:14Z",
+    "battery_pct": 46,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0374",
+    "vehicle_id": "veh_0374",
+    "serial": "SN839200409",
+    "firmware": "1.7.9",
+    "last_seen_at": "2026-04-27T20:39:55Z",
+    "battery_pct": 77,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0375",
+    "vehicle_id": "veh_0375",
+    "serial": "SN116717723",
+    "firmware": "3.5.3",
+    "last_seen_at": "2026-04-29T00:04:37Z",
+    "battery_pct": 38,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0376",
+    "vehicle_id": "veh_0376",
+    "serial": "SN639382632",
+    "firmware": "3.4.8",
+    "last_seen_at": "2026-03-15T12:00:00Z",
+    "battery_pct": 99,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0377",
+    "vehicle_id": "veh_0377",
+    "serial": "SN729562581",
+    "firmware": "3.8.2",
+    "last_seen_at": "2026-04-29T18:15:20Z",
+    "battery_pct": 59,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0378",
+    "vehicle_id": "veh_0378",
+    "serial": "SN616728439",
+    "firmware": "3.2.7",
+    "last_seen_at": "2026-04-29T05:31:03Z",
+    "battery_pct": 55,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0379",
+    "vehicle_id": "veh_0379",
+    "serial": "SN831243679",
+    "firmware": "1.4.6",
+    "last_seen_at": "2026-04-27T16:15:53Z",
+    "battery_pct": 24,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0380",
+    "vehicle_id": "veh_0380",
+    "serial": "SN882649759",
+    "firmware": "3.8.6",
+    "last_seen_at": "2026-04-27T10:24:55Z",
+    "battery_pct": 42,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0381",
+    "vehicle_id": "veh_0381",
+    "serial": "SN241949922",
+    "firmware": "1.8.3",
+    "last_seen_at": "2026-04-25T01:03:54Z",
+    "battery_pct": 40,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0382",
+    "vehicle_id": "veh_0382",
+    "serial": "SN355837418",
+    "firmware": "3.1.2",
+    "last_seen_at": "2026-04-29T03:09:55Z",
+    "battery_pct": 90,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0383",
+    "vehicle_id": "veh_0383",
+    "serial": "SN132301980",
+    "firmware": "2.2.9",
+    "last_seen_at": "2026-04-27T22:48:25Z",
+    "battery_pct": 42,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0384",
+    "vehicle_id": "veh_0384",
+    "serial": "SN864172053",
+    "firmware": "3.8.3",
+    "last_seen_at": "2026-04-28T11:07:47Z",
+    "battery_pct": 38,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0385",
+    "vehicle_id": "veh_0385",
+    "serial": "SN148084413",
+    "firmware": "1.0.2",
+    "last_seen_at": "2026-04-27T17:00:08Z",
+    "battery_pct": 42,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0386",
+    "vehicle_id": "veh_0386",
+    "serial": "SN117477783",
+    "firmware": "1.8.6",
+    "last_seen_at": "2026-05-14T12:00:00Z",
+    "battery_pct": 75,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0387",
+    "vehicle_id": "veh_0387",
+    "serial": "SN223066202",
+    "firmware": "1.0.8",
+    "last_seen_at": "2026-04-23T17:26:21Z",
+    "battery_pct": 81,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0388",
+    "vehicle_id": "veh_0388",
+    "serial": "SN230677293",
+    "firmware": "1.8.1",
+    "last_seen_at": "2026-04-26T21:56:16Z",
+    "battery_pct": 44,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0389",
+    "vehicle_id": "veh_0389",
+    "serial": "SN512011800",
+    "firmware": "1.4.0",
+    "last_seen_at": "2026-04-27T15:29:02Z",
+    "battery_pct": 90,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0390",
+    "vehicle_id": "veh_0390",
+    "serial": "SN442872280",
+    "firmware": "3.3.1",
+    "last_seen_at": "2026-04-24T07:21:16Z",
+    "battery_pct": 26,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0391",
+    "vehicle_id": "veh_0391",
+    "serial": "SN396743138",
+    "firmware": "2.8.2",
+    "last_seen_at": "2026-04-28T03:12:21Z",
+    "battery_pct": 60,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0392",
+    "vehicle_id": "veh_0392",
+    "serial": "SN538803961",
+    "firmware": "3.5.1",
+    "last_seen_at": "2026-04-30T01:50:37Z",
+    "battery_pct": 20,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0393",
+    "vehicle_id": "veh_0393",
+    "serial": "SN887412724",
+    "firmware": "1.7.6",
+    "last_seen_at": "2026-04-28T06:52:42Z",
+    "battery_pct": 20,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0394",
+    "vehicle_id": "veh_0394",
+    "serial": "SN977644069",
+    "firmware": "2.5.9",
+    "last_seen_at": "2026-04-25T21:33:12Z",
+    "battery_pct": 76,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0395",
+    "vehicle_id": "veh_0395",
+    "serial": "SN455846034",
+    "firmware": "1.0.6",
+    "last_seen_at": "2026-04-25T05:55:24Z",
+    "battery_pct": 69,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0396",
+    "vehicle_id": "veh_0396",
+    "serial": "SN388484957",
+    "firmware": "1.1.0",
+    "last_seen_at": "2026-04-25T17:32:03Z",
+    "battery_pct": 67,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0397",
+    "vehicle_id": "veh_0397",
+    "serial": "SN192923494",
+    "firmware": "3.1.3",
+    "last_seen_at": "2026-04-27T01:48:20Z",
+    "battery_pct": 20,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0398",
+    "vehicle_id": "veh_0398",
+    "serial": "SN681596390",
+    "firmware": "2.1.6",
+    "last_seen_at": "2026-04-27T05:41:16Z",
+    "battery_pct": 99,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0399",
+    "vehicle_id": "veh_0399",
+    "serial": "SN145051700",
+    "firmware": "3.9.0",
+    "last_seen_at": "2026-04-26T01:01:15Z",
+    "battery_pct": 91,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0400",
+    "vehicle_id": "veh_0400",
+    "serial": "SN561597861",
+    "firmware": "2.8.3",
+    "last_seen_at": "2026-04-26T22:18:28Z",
+    "battery_pct": 90,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0401",
+    "vehicle_id": "veh_0401",
+    "serial": "SN505789203",
+    "firmware": "3.9.9",
+    "last_seen_at": "2026-04-25T13:57:38Z",
+    "battery_pct": 40,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0402",
+    "vehicle_id": "veh_0402",
+    "serial": "SN751689611",
+    "firmware": "2.0.8",
+    "last_seen_at": "2026-04-27T15:49:10Z",
+    "battery_pct": 89,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0403",
+    "vehicle_id": "veh_0403",
+    "serial": "SN699180220",
+    "firmware": "3.8.9",
+    "last_seen_at": "2026-04-29T01:32:20Z",
+    "battery_pct": 80,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0404",
+    "vehicle_id": "veh_0404",
+    "serial": "SN939225097",
+    "firmware": "3.1.5",
+    "last_seen_at": "2026-04-30T03:04:38Z",
+    "battery_pct": 67,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0405",
+    "vehicle_id": "veh_0405",
+    "serial": "SN293928606",
+    "firmware": "2.7.1",
+    "last_seen_at": "2026-04-23T14:09:54Z",
+    "battery_pct": 78,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0406",
+    "vehicle_id": "veh_0406",
+    "serial": "SN125097245",
+    "firmware": "3.9.3",
+    "last_seen_at": "2026-04-28T23:09:11Z",
+    "battery_pct": 22,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0407",
+    "vehicle_id": "veh_0407",
+    "serial": "SN242486665",
+    "firmware": "2.5.7",
+    "last_seen_at": "2026-04-24T03:57:48Z",
+    "battery_pct": 93,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0408",
+    "vehicle_id": "veh_0408",
+    "serial": "SN508172677",
+    "firmware": "1.4.1",
+    "last_seen_at": "2026-04-23T18:50:28Z",
+    "battery_pct": 20,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0409",
+    "vehicle_id": "veh_0409",
+    "serial": "SN249465081",
+    "firmware": "1.7.5",
+    "last_seen_at": "2026-04-26T10:14:43Z",
+    "battery_pct": 85,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0410",
+    "vehicle_id": "veh_0410",
+    "serial": "SN226463759",
+    "firmware": "2.7.7",
+    "last_seen_at": "2026-04-26T23:18:08Z",
+    "battery_pct": 31,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0411",
+    "vehicle_id": "veh_0411",
+    "serial": "SN624284242",
+    "firmware": "2.6.9",
+    "last_seen_at": "2026-04-28T06:09:02Z",
+    "battery_pct": 29,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0412",
+    "vehicle_id": "veh_0412",
+    "serial": "SN681764768",
+    "firmware": "3.8.2",
+    "last_seen_at": "2026-04-27T02:20:52Z",
+    "battery_pct": 31,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0413",
+    "vehicle_id": "veh_0413",
+    "serial": "SN247930241",
+    "firmware": "2.4.2",
+    "last_seen_at": "2026-04-28T12:36:17Z",
+    "battery_pct": 38,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0414",
+    "vehicle_id": "veh_0414",
+    "serial": "SN458916917",
+    "firmware": "3.9.1",
+    "last_seen_at": "2026-04-25T01:08:17Z",
+    "battery_pct": 26,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0415",
+    "vehicle_id": "veh_0415",
+    "serial": "SN874174394",
+    "firmware": "3.5.4",
+    "last_seen_at": "2026-04-28T21:35:03Z",
+    "battery_pct": 33,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0416",
+    "vehicle_id": "veh_0416",
+    "serial": "SN831234560",
+    "firmware": "2.5.7",
+    "last_seen_at": "2026-04-29T22:47:05Z",
+    "battery_pct": 60,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0417",
+    "vehicle_id": "veh_0417",
+    "serial": "SN936984208",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-28T18:46:29Z",
+    "battery_pct": 36,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0418",
+    "vehicle_id": "veh_0418",
+    "serial": "SN633590589",
+    "firmware": "1.9.0",
+    "last_seen_at": "2026-04-29T21:30:01Z",
+    "battery_pct": 28,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0419",
+    "vehicle_id": "veh_0419",
+    "serial": "SN335747842",
+    "firmware": "3.5.6",
+    "last_seen_at": "2026-04-27T03:52:08Z",
+    "battery_pct": 26,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0420",
+    "vehicle_id": "veh_0420",
+    "serial": "SN284336848",
+    "firmware": "1.2.4",
+    "last_seen_at": "2026-04-24T19:06:07Z",
+    "battery_pct": 42,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0421",
+    "vehicle_id": "veh_0421",
+    "serial": "SN701284690",
+    "firmware": "3.5.4",
+    "last_seen_at": "2026-05-28T12:00:00Z",
+    "battery_pct": 27,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0422",
+    "vehicle_id": "veh_0422",
+    "serial": "SN621274614",
+    "firmware": "3.8.2",
+    "last_seen_at": "2026-04-28T13:07:46Z",
+    "battery_pct": 53,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0423",
+    "vehicle_id": "veh_0423",
+    "serial": "SN358095832",
+    "firmware": "1.2.6",
+    "last_seen_at": "2026-04-29T14:53:11Z",
+    "battery_pct": 69,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0424",
+    "vehicle_id": "veh_0424",
+    "serial": "SN106707662",
+    "firmware": "2.1.0",
+    "last_seen_at": "2026-04-26T05:38:17Z",
+    "battery_pct": 91,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0425",
+    "vehicle_id": "veh_0425",
+    "serial": "SN198211758",
+    "firmware": "1.9.5",
+    "last_seen_at": "2026-04-30T11:42:05Z",
+    "battery_pct": 98,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0426",
+    "vehicle_id": "veh_0426",
+    "serial": "SN598024924",
+    "firmware": "1.1.5",
+    "last_seen_at": "2026-02-14T12:00:00Z",
+    "battery_pct": 74,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0427",
+    "vehicle_id": "veh_0427",
+    "serial": "SN902655870",
+    "firmware": "1.5.3",
+    "last_seen_at": "2026-04-25T03:40:10Z",
+    "battery_pct": 26,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0428",
+    "vehicle_id": "veh_0428",
+    "serial": "SN314329144",
+    "firmware": "1.0.7",
+    "last_seen_at": "2026-04-29T15:21:17Z",
+    "battery_pct": 75,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0429",
+    "vehicle_id": "veh_0429",
+    "serial": "SN830665669",
+    "firmware": "1.0.7",
+    "last_seen_at": "2026-04-27T09:18:39Z",
+    "battery_pct": 31,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0430",
+    "vehicle_id": "veh_0430",
+    "serial": "SN703200643",
+    "firmware": "3.5.4",
+    "last_seen_at": "2026-04-27T17:52:50Z",
+    "battery_pct": 38,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0431",
+    "vehicle_id": "veh_0431",
+    "serial": "SN543674807",
+    "firmware": "3.8.9",
+    "last_seen_at": "2026-04-27T21:51:39Z",
+    "battery_pct": 72,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0432",
+    "vehicle_id": "veh_0432",
+    "serial": "SN241202487",
+    "firmware": "3.4.4",
+    "last_seen_at": "2026-04-24T18:27:25Z",
+    "battery_pct": 34,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0433",
+    "vehicle_id": "veh_0433",
+    "serial": "SN998005043",
+    "firmware": "3.1.9",
+    "last_seen_at": "2026-05-03T12:00:00Z",
+    "battery_pct": 38,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0434",
+    "vehicle_id": "veh_0434",
+    "serial": "SN317094040",
+    "firmware": "2.8.1",
+    "last_seen_at": "2026-01-25T12:00:00Z",
+    "battery_pct": 29,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0435",
+    "vehicle_id": "veh_0435",
+    "serial": "SN376828821",
+    "firmware": "2.0.2",
+    "last_seen_at": "2026-04-26T05:31:57Z",
+    "battery_pct": 91,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0436",
+    "vehicle_id": "veh_0436",
+    "serial": "SN338133430",
+    "firmware": "3.2.1",
+    "last_seen_at": "2026-04-24T19:36:22Z",
+    "battery_pct": 57,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0437",
+    "vehicle_id": "veh_0437",
+    "serial": "SN941460924",
+    "firmware": "3.5.7",
+    "last_seen_at": "2026-04-27T09:25:30Z",
+    "battery_pct": 87,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0438",
+    "vehicle_id": "veh_0438",
+    "serial": "SN462275233",
+    "firmware": "1.6.8",
+    "last_seen_at": "2026-04-29T18:23:07Z",
+    "battery_pct": 71,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0439",
+    "vehicle_id": "veh_0439",
+    "serial": "SN685908727",
+    "firmware": "2.0.6",
+    "last_seen_at": "2026-04-25T01:34:03Z",
+    "battery_pct": 44,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0440",
+    "vehicle_id": "veh_0440",
+    "serial": "SN870675831",
+    "firmware": "2.4.8",
+    "last_seen_at": "2026-04-24T09:22:48Z",
+    "battery_pct": 44,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0441",
+    "vehicle_id": "veh_0441",
+    "serial": "SN289919958",
+    "firmware": "2.3.6",
+    "last_seen_at": "2026-04-26T21:13:34Z",
+    "battery_pct": 71,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0442",
+    "vehicle_id": "veh_0442",
+    "serial": "SN680026872",
+    "firmware": "1.5.5",
+    "last_seen_at": "2026-04-29T20:32:29Z",
+    "battery_pct": 77,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0443",
+    "vehicle_id": "veh_0443",
+    "serial": "SN397104592",
+    "firmware": "3.0.6",
+    "last_seen_at": "2026-04-26T03:06:42Z",
+    "battery_pct": 77,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0444",
+    "vehicle_id": "veh_0444",
+    "serial": "SN478428730",
+    "firmware": "1.5.6",
+    "last_seen_at": "2026-04-28T13:33:19Z",
+    "battery_pct": 46,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0445",
+    "vehicle_id": "veh_0445",
+    "serial": "SN882958075",
+    "firmware": "1.9.0",
+    "last_seen_at": "2026-04-23T22:28:06Z",
+    "battery_pct": 62,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0446",
+    "vehicle_id": "veh_0446",
+    "serial": "SN215040841",
+    "firmware": "1.7.4",
+    "last_seen_at": "2026-04-30T03:58:26Z",
+    "battery_pct": 96,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0447",
+    "vehicle_id": "veh_0447",
+    "serial": "SN350794956",
+    "firmware": "1.1.1",
+    "last_seen_at": "2026-04-24T21:13:45Z",
+    "battery_pct": 84,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0448",
+    "vehicle_id": "veh_0448",
+    "serial": "SN201742108",
+    "firmware": "3.0.2",
+    "last_seen_at": "2026-04-26T12:18:28Z",
+    "battery_pct": 57,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0449",
+    "vehicle_id": "veh_0449",
+    "serial": "SN832267407",
+    "firmware": "2.0.2",
+    "last_seen_at": "2026-04-28T11:00:40Z",
+    "battery_pct": 23,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0450",
+    "vehicle_id": "veh_0450",
+    "serial": "SN869966041",
+    "firmware": "3.5.3",
+    "last_seen_at": "2026-04-26T16:12:46Z",
+    "battery_pct": 54,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0451",
+    "vehicle_id": "veh_0451",
+    "serial": "SN832923209",
+    "firmware": "1.0.1",
+    "last_seen_at": "2026-04-28T20:36:38Z",
+    "battery_pct": 43,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0452",
+    "vehicle_id": "veh_0452",
+    "serial": "SN436883282",
+    "firmware": "3.5.0",
+    "last_seen_at": "2026-04-30T08:55:11Z",
+    "battery_pct": 40,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0453",
+    "vehicle_id": "veh_0453",
+    "serial": "SN915556899",
+    "firmware": "3.0.1",
+    "last_seen_at": "2026-04-26T14:56:13Z",
+    "battery_pct": 34,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0454",
+    "vehicle_id": "veh_0454",
+    "serial": "SN330423680",
+    "firmware": "3.2.5",
+    "last_seen_at": "2026-04-27T08:22:39Z",
+    "battery_pct": 76,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0455",
+    "vehicle_id": "veh_0455",
+    "serial": "SN134349664",
+    "firmware": "2.4.0",
+    "last_seen_at": "2026-04-24T12:36:13Z",
+    "battery_pct": 32,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0456",
+    "vehicle_id": "veh_0456",
+    "serial": "SN856112323",
+    "firmware": "1.2.7",
+    "last_seen_at": "2026-04-23T19:35:03Z",
+    "battery_pct": 26,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0457",
+    "vehicle_id": "veh_0457",
+    "serial": "SN860528097",
+    "firmware": "3.9.5",
+    "last_seen_at": "2026-04-30T03:49:48Z",
+    "battery_pct": 49,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0458",
+    "vehicle_id": "veh_0458",
+    "serial": "SN151694764",
+    "firmware": "1.6.4",
+    "last_seen_at": "2026-04-27T21:01:05Z",
+    "battery_pct": 58,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0459",
+    "vehicle_id": "veh_0459",
+    "serial": "SN318252453",
+    "firmware": "3.9.1",
+    "last_seen_at": "2025-11-30T12:00:00Z",
+    "battery_pct": 55,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0460",
+    "vehicle_id": "veh_0460",
+    "serial": "SN235352139",
+    "firmware": "1.3.6",
+    "last_seen_at": "2026-04-29T22:42:58Z",
+    "battery_pct": 84,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0461",
+    "vehicle_id": "veh_0461",
+    "serial": "SN169159137",
+    "firmware": "1.8.4",
+    "last_seen_at": "2026-04-29T08:40:49Z",
+    "battery_pct": 48,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0462",
+    "vehicle_id": "veh_0462",
+    "serial": "SN760752396",
+    "firmware": "3.2.8",
+    "last_seen_at": "2026-04-26T03:22:59Z",
+    "battery_pct": 64,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0463",
+    "vehicle_id": "veh_0463",
+    "serial": "SN501364498",
+    "firmware": "3.9.5",
+    "last_seen_at": "2025-12-04T12:00:00Z",
+    "battery_pct": 25,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0464",
+    "vehicle_id": "veh_0464",
+    "serial": "SN516528453",
+    "firmware": "1.0.0",
+    "last_seen_at": "2026-04-25T13:17:26Z",
+    "battery_pct": 82,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0465",
+    "vehicle_id": "veh_0465",
+    "serial": "SN791624301",
+    "firmware": "1.6.9",
+    "last_seen_at": "2025-12-07T12:00:00Z",
+    "battery_pct": 90,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0466",
+    "vehicle_id": "veh_0466",
+    "serial": "SN179121611",
+    "firmware": "3.6.7",
+    "last_seen_at": "2026-05-11T12:00:00Z",
+    "battery_pct": 53,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0467",
+    "vehicle_id": "veh_0467",
+    "serial": "SN935686725",
+    "firmware": "3.3.7",
+    "last_seen_at": "2026-04-24T10:05:12Z",
+    "battery_pct": 54,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0468",
+    "vehicle_id": "veh_0468",
+    "serial": "SN869503997",
+    "firmware": "1.3.9",
+    "last_seen_at": "2026-05-13T12:00:00Z",
+    "battery_pct": 59,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0469",
+    "vehicle_id": "veh_0469",
+    "serial": "SN341622302",
+    "firmware": "1.0.6",
+    "last_seen_at": "2026-04-24T13:03:04Z",
+    "battery_pct": 78,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0470",
+    "vehicle_id": "veh_0470",
+    "serial": "SN914715334",
+    "firmware": "1.5.5",
+    "last_seen_at": "2026-04-30T09:39:20Z",
+    "battery_pct": 47,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0471",
+    "vehicle_id": "veh_0471",
+    "serial": "SN779553060",
+    "firmware": "2.0.1",
+    "last_seen_at": "2026-04-24T12:20:11Z",
+    "battery_pct": 47,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0472",
+    "vehicle_id": "veh_0472",
+    "serial": "SN436192432",
+    "firmware": "2.2.6",
+    "last_seen_at": "2026-04-28T06:30:35Z",
+    "battery_pct": 56,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0473",
+    "vehicle_id": "veh_0473",
+    "serial": "SN593253917",
+    "firmware": "3.4.2",
+    "last_seen_at": "2026-04-29T18:11:22Z",
+    "battery_pct": 100,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0474",
+    "vehicle_id": "veh_0474",
+    "serial": "SN810271047",
+    "firmware": "3.2.3",
+    "last_seen_at": "2026-04-27T19:32:07Z",
+    "battery_pct": 59,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0475",
+    "vehicle_id": "veh_0475",
+    "serial": "SN202272739",
+    "firmware": "1.0.0",
+    "last_seen_at": "2026-04-23T13:35:30Z",
+    "battery_pct": 25,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0476",
+    "vehicle_id": "veh_0476",
+    "serial": "SN826672921",
+    "firmware": "1.5.3",
+    "last_seen_at": "2026-04-30T10:21:49Z",
+    "battery_pct": 89,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0477",
+    "vehicle_id": "veh_0477",
+    "serial": "SN648077283",
+    "firmware": "2.3.0",
+    "last_seen_at": "2025-12-10T12:00:00Z",
+    "battery_pct": 34,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0478",
+    "vehicle_id": "veh_0478",
+    "serial": "SN512344873",
+    "firmware": "2.7.3",
+    "last_seen_at": "2026-04-28T20:21:49Z",
+    "battery_pct": 98,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0479",
+    "vehicle_id": "veh_0479",
+    "serial": "SN402354833",
+    "firmware": "3.5.7",
+    "last_seen_at": "2025-12-19T12:00:00Z",
+    "battery_pct": 92,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0480",
+    "vehicle_id": "veh_0480",
+    "serial": "SN447116699",
+    "firmware": "3.2.1",
+    "last_seen_at": "2026-04-28T10:11:42Z",
+    "battery_pct": 95,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0481",
+    "vehicle_id": "veh_0481",
+    "serial": "SN434669082",
+    "firmware": "1.6.0",
+    "last_seen_at": "2026-04-27T16:43:57Z",
+    "battery_pct": 50,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0482",
+    "vehicle_id": "veh_0482",
+    "serial": "SN820519918",
+    "firmware": "1.0.2",
+    "last_seen_at": "2026-04-24T22:43:20Z",
+    "battery_pct": 67,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0483",
+    "vehicle_id": "veh_0483",
+    "serial": "SN659055230",
+    "firmware": "1.1.4",
+    "last_seen_at": "2026-04-24T21:26:57Z",
+    "battery_pct": 79,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0484",
+    "vehicle_id": "veh_0484",
+    "serial": "SN846146468",
+    "firmware": "3.2.0",
+    "last_seen_at": "2026-04-25T02:24:31Z",
+    "battery_pct": 34,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0485",
+    "vehicle_id": "veh_0485",
+    "serial": "SN960231593",
+    "firmware": "2.2.3",
+    "last_seen_at": "2026-04-23T19:35:17Z",
+    "battery_pct": 20,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0486",
+    "vehicle_id": "veh_0486",
+    "serial": "SN302985659",
+    "firmware": "2.2.1",
+    "last_seen_at": "2026-05-29T12:00:00Z",
+    "battery_pct": 28,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0487",
+    "vehicle_id": "veh_0487",
+    "serial": "SN663105566",
+    "firmware": "1.8.9",
+    "last_seen_at": "2026-04-24T13:37:02Z",
+    "battery_pct": 20,
+    "signal_strength": "fair"
+  },
+  {
+    "id": "dev_0488",
+    "vehicle_id": "veh_0488",
+    "serial": "SN707247598",
+    "firmware": "1.6.1",
+    "last_seen_at": "2026-04-29T03:21:32Z",
+    "battery_pct": 84,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0489",
+    "vehicle_id": "veh_0489",
+    "serial": "SN327027678",
+    "firmware": "3.5.5",
+    "last_seen_at": "2026-04-23T19:43:54Z",
+    "battery_pct": 90,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0490",
+    "vehicle_id": "veh_0490",
+    "serial": "SN884185895",
+    "firmware": "3.5.9",
+    "last_seen_at": "2026-04-24T20:55:23Z",
+    "battery_pct": 80,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0491",
+    "vehicle_id": "veh_0491",
+    "serial": "SN855890305",
+    "firmware": "3.1.6",
+    "last_seen_at": "2026-04-23T18:02:59Z",
+    "battery_pct": 86,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0492",
+    "vehicle_id": "veh_0492",
+    "serial": "SN861100122",
+    "firmware": "1.5.3",
+    "last_seen_at": "2026-04-24T16:33:15Z",
+    "battery_pct": 88,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0493",
+    "vehicle_id": "veh_0493",
+    "serial": "SN172121887",
+    "firmware": "3.6.9",
+    "last_seen_at": "2026-04-28T14:58:39Z",
+    "battery_pct": 85,
+    "signal_strength": "poor"
+  },
+  {
+    "id": "dev_0494",
+    "vehicle_id": "veh_0494",
+    "serial": "SN285089731",
+    "firmware": "3.4.5",
+    "last_seen_at": "2026-04-26T17:25:02Z",
+    "battery_pct": 26,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0495",
+    "vehicle_id": "veh_0495",
+    "serial": "SN651810560",
+    "firmware": "1.2.7",
+    "last_seen_at": "2026-04-28T12:39:53Z",
+    "battery_pct": 20,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0496",
+    "vehicle_id": "veh_0496",
+    "serial": "SN290731191",
+    "firmware": "3.3.9",
+    "last_seen_at": "2026-04-26T22:12:27Z",
+    "battery_pct": 88,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0497",
+    "vehicle_id": "veh_0497",
+    "serial": "SN771380753",
+    "firmware": "1.2.2",
+    "last_seen_at": "2026-04-29T18:46:07Z",
+    "battery_pct": 52,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0498",
+    "vehicle_id": "veh_0498",
+    "serial": "SN397882085",
+    "firmware": "2.7.4",
+    "last_seen_at": "2026-04-27T22:25:08Z",
+    "battery_pct": 36,
+    "signal_strength": "excellent"
+  },
+  {
+    "id": "dev_0499",
+    "vehicle_id": "veh_0499",
+    "serial": "SN170908827",
+    "firmware": "2.5.9",
+    "last_seen_at": "2026-04-28T02:49:43Z",
+    "battery_pct": 21,
+    "signal_strength": "good"
+  },
+  {
+    "id": "dev_0500",
+    "vehicle_id": "veh_0500",
+    "serial": "SN889972571",
+    "firmware": "3.0.2",
+    "last_seen_at": "2026-04-30T01:28:50Z",
+    "battery_pct": 46,
+    "signal_strength": "excellent"
+  }
+]

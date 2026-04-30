@@ -1,0 +1,7942 @@
+[
+  {
+    "id": "veh_0001",
+    "account_id": "acc_0015",
+    "vin": "GZ0HUR4BUBMUWYZAM",
+    "plate": "5LDS619",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0001",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.105731,
+      "lng": -86.566031,
+      "recorded_at": "2026-04-29T15:43:55Z"
+    }
+  },
+  {
+    "id": "veh_0002",
+    "account_id": "acc_0011",
+    "vin": "0WXFDKLDFU54853UP",
+    "plate": "1CXQ320",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0002",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.028666,
+      "lng": -98.14219,
+      "recorded_at": "2026-04-27T01:29:55Z"
+    }
+  },
+  {
+    "id": "veh_0003",
+    "account_id": "acc_0004",
+    "vin": "APWPJTVXHA84MJ1R9",
+    "plate": "8QVJ146",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0003",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.292442,
+      "lng": -67.886597,
+      "recorded_at": "2026-04-29T23:40:43Z"
+    }
+  },
+  {
+    "id": "veh_0004",
+    "account_id": "acc_0041",
+    "vin": "3VH2BXL60F4GS42F2",
+    "plate": "1OCK689",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0004",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0005",
+    "account_id": "acc_0023",
+    "vin": "ZKSGKTNMKEM865XXK",
+    "plate": "2QUD643",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2013,
+    "device_id": "dev_0005",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.238849,
+      "lng": -72.362404,
+      "recorded_at": "2026-04-26T19:47:50Z"
+    }
+  },
+  {
+    "id": "veh_0006",
+    "account_id": "acc_0024",
+    "vin": "VEF916C5NX79KD5GY",
+    "plate": "1LQC417",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2020,
+    "device_id": "dev_0006",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 36.08182,
+      "lng": -121.856387,
+      "recorded_at": "2026-04-30T00:35:57Z"
+    }
+  },
+  {
+    "id": "veh_0007",
+    "account_id": "acc_0019",
+    "vin": "13YDYEYG1VTKYFKZW",
+    "plate": "8OQQ724",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0007",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.809909,
+      "lng": -102.747437,
+      "recorded_at": "2026-04-29T11:19:26Z"
+    }
+  },
+  {
+    "id": "veh_0008",
+    "account_id": "acc_0048",
+    "vin": "F490B0WMPY8NRJKEV",
+    "plate": "9MUZ436",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2020,
+    "device_id": "dev_0008",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.516435,
+      "lng": -85.803365,
+      "recorded_at": "2026-04-24T02:38:12Z"
+    }
+  },
+  {
+    "id": "veh_0009",
+    "account_id": "acc_0045",
+    "vin": "L5C30S5V5RSW7N056",
+    "plate": "6YTE711",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2024,
+    "device_id": "dev_0009",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.041277,
+      "lng": -114.751909,
+      "recorded_at": "2026-04-24T02:21:59Z"
+    }
+  },
+  {
+    "id": "veh_0010",
+    "account_id": "acc_0031",
+    "vin": "0GHVFLU59K4FR5ZB3",
+    "plate": "3GZT241",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2018,
+    "device_id": "dev_0010",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.952046,
+      "lng": -121.025751,
+      "recorded_at": "2026-04-27T15:19:29Z"
+    }
+  },
+  {
+    "id": "veh_0011",
+    "account_id": "acc_0042",
+    "vin": "YKJCV7J75AFBTPK4H",
+    "plate": "2LHA426",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2015,
+    "device_id": "dev_0011",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.339822,
+      "lng": -76.166952,
+      "recorded_at": "2026-04-29T22:05:32Z"
+    }
+  },
+  {
+    "id": "veh_0012",
+    "account_id": "acc_0032",
+    "vin": "B9SKV4AZS3MF0E99B",
+    "plate": "7UZT568",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0012",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.507372,
+      "lng": -76.3088,
+      "recorded_at": "2026-04-25T19:18:46Z"
+    }
+  },
+  {
+    "id": "veh_0013",
+    "account_id": "acc_0043",
+    "vin": "GYJCZYM67MJE6CVNC",
+    "plate": "5XAL907",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2012,
+    "device_id": "dev_0013",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.621429,
+      "lng": -110.255822,
+      "recorded_at": "2026-04-26T17:41:02Z"
+    }
+  },
+  {
+    "id": "veh_0014",
+    "account_id": "acc_0023",
+    "vin": "DYUH04251YM880UF4",
+    "plate": "7RPI137",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0014",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.078982,
+      "lng": -113.107104,
+      "recorded_at": "2026-04-28T07:26:18Z"
+    }
+  },
+  {
+    "id": "veh_0015",
+    "account_id": "acc_0039",
+    "vin": "4L5Z5CZ4UDE209LBK",
+    "plate": "5kdc435",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0015",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.862061,
+      "lng": -106.529736,
+      "recorded_at": "2026-04-27T15:15:41Z"
+    }
+  },
+  {
+    "id": "veh_0016",
+    "account_id": "acc_0024",
+    "vin": "05EJ02XUSHBM81HTT",
+    "plate": "6MSB719",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2015,
+    "device_id": "dev_0016",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 28.682516,
+      "lng": -98.354414,
+      "recorded_at": "2026-04-27T00:49:11Z"
+    }
+  },
+  {
+    "id": "veh_0017",
+    "account_id": "acc_0006",
+    "vin": "XZEVWLM09RHNJS8B0",
+    "plate": "4DEC562",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2019,
+    "device_id": "dev_0017",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.143753,
+      "lng": -83.337916,
+      "recorded_at": "2026-04-23T19:19:17Z"
+    }
+  },
+  {
+    "id": "veh_0018",
+    "account_id": "acc_0050",
+    "vin": "3EJXE56ZJMJ49DHKW",
+    "plate": "2CJM834",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2014,
+    "device_id": "dev_0018",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.252872,
+      "lng": -94.035348,
+      "recorded_at": "2026-04-27T18:19:38Z"
+    }
+  },
+  {
+    "id": "veh_0019",
+    "account_id": "acc_0009",
+    "vin": "WF9LKLYCBFCTP3B8V",
+    "plate": "9JCI301",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0019",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.24137,
+      "lng": -92.602039,
+      "recorded_at": "2026-04-25T13:43:02Z"
+    }
+  },
+  {
+    "id": "veh_0020",
+    "account_id": "acc_0014",
+    "vin": "YKXXZ2J09GXS6HU5S",
+    "plate": "8CWB261",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2013,
+    "device_id": "dev_0020",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.550532,
+      "lng": -96.397686,
+      "recorded_at": "2026-04-25T20:06:30Z"
+    }
+  },
+  {
+    "id": "veh_0021",
+    "account_id": "acc_0011",
+    "vin": "8968W8BF296SPZDDV",
+    "plate": "7HFK691",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0021",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 42.307082,
+      "lng": -113.179456,
+      "recorded_at": "2026-04-24T18:55:54Z"
+    }
+  },
+  {
+    "id": "veh_0022",
+    "account_id": "acc_0049",
+    "vin": "20C2DN0VE195UHJG2",
+    "plate": "9ADN237",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0022",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 46.178938,
+      "lng": -82.53204,
+      "recorded_at": "2026-04-23T17:31:11Z"
+    }
+  },
+  {
+    "id": "veh_0023",
+    "account_id": "acc_0009",
+    "vin": "Y76K9JXXL2WY998W7X",
+    "plate": "3GTQ511",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2017,
+    "device_id": "dev_0023",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.00187,
+      "lng": -121.417709,
+      "recorded_at": "2026-04-29T04:04:32Z"
+    }
+  },
+  {
+    "id": "veh_0024",
+    "account_id": "acc_0042",
+    "vin": "RD7L1KSCHNB5X3K3P",
+    "plate": "5ZXW744",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2020,
+    "device_id": "dev_0024",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.639532,
+      "lng": -96.948358,
+      "recorded_at": "2026-04-24T18:38:06Z"
+    }
+  },
+  {
+    "id": "veh_0025",
+    "account_id": "acc_0025",
+    "vin": "XM6YZT7NSUWRWVP8X",
+    "plate": "3QGR432",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2017,
+    "device_id": "dev_0025",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 48.954949,
+      "lng": -96.732854,
+      "recorded_at": "2026-04-27T04:20:59Z"
+    }
+  },
+  {
+    "id": "veh_0026",
+    "account_id": "acc_0023",
+    "vin": "KVCVFZ5T7PNUUJGSS",
+    "plate": "2SVR488",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2022,
+    "device_id": "dev_0026",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 46.498251,
+      "lng": -101.51165,
+      "recorded_at": "2026-04-27T18:16:07Z"
+    }
+  },
+  {
+    "id": "veh_0027",
+    "account_id": "acc_0009",
+    "vin": "AL377NVXVDFRCM3MC",
+    "plate": "1DNK834",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0027",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.337694,
+      "lng": -85.172057,
+      "recorded_at": "2026-04-26T23:41:12Z"
+    }
+  },
+  {
+    "id": "veh_0028",
+    "account_id": "acc_0030",
+    "vin": "8J96UNHYL6TMAYVNM",
+    "plate": "1JST209",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2025,
+    "device_id": "dev_0028",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 47.282916,
+      "lng": -104.9026,
+      "recorded_at": "2026-04-25T13:53:33Z"
+    }
+  },
+  {
+    "id": "veh_0029",
+    "account_id": "acc_0031",
+    "vin": "XSAT1S5UYWAT0SDH6",
+    "plate": "9KCM785",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2014,
+    "device_id": "dev_0029",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.289243,
+      "lng": -68.043944,
+      "recorded_at": "2026-04-24T09:37:50Z"
+    }
+  },
+  {
+    "id": "veh_0030",
+    "account_id": "acc_0031",
+    "vin": "K6037PSF50EHD9NKL",
+    "plate": "2UJL729",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2025,
+    "device_id": "dev_9999",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.300382,
+      "lng": -69.430449,
+      "recorded_at": "2026-04-29T02:08:34Z"
+    }
+  },
+  {
+    "id": "veh_0031",
+    "account_id": "acc_0027",
+    "vin": "6D6WB2TAPEC4ZEDE7",
+    "plate": "8CQO928",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2016,
+    "device_id": "dev_0031",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 26.335259,
+      "lng": -116.479173,
+      "recorded_at": "2026-04-28T20:33:13Z"
+    }
+  },
+  {
+    "id": "veh_0032",
+    "account_id": "acc_0035",
+    "vin": "JZHM2JRABW641RS6Z",
+    "plate": "6MOM484",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0032",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.926,
+      "lng": -69.043771,
+      "recorded_at": "2026-04-29T03:07:54Z"
+    }
+  },
+  {
+    "id": "veh_0033",
+    "account_id": "acc_0003",
+    "vin": "5DSC25RPDJ9VRXXSW",
+    "plate": "7TYA346",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2022,
+    "device_id": "dev_0033",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.945959,
+      "lng": -118.248887,
+      "recorded_at": "2026-04-25T11:32:31Z"
+    }
+  },
+  {
+    "id": "veh_0034",
+    "account_id": "acc_0028",
+    "vin": "8DZ1X33KW1M7SRWK6",
+    "plate": "5BRS852",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2020,
+    "device_id": "dev_0034",
+    "status": "active",
+    "last_known_location": {
+      "lat": 46.877864,
+      "lng": -88.318391,
+      "recorded_at": "2026-04-25T10:41:00Z"
+    }
+  },
+  {
+    "id": "veh_0035",
+    "account_id": "acc_0029",
+    "vin": "0FNDU1CENP7PYWAPN",
+    "plate": "9EMH361",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0035",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 29.880082,
+      "lng": -87.137766,
+      "recorded_at": "2026-04-24T16:30:16Z"
+    }
+  },
+  {
+    "id": "veh_0036",
+    "account_id": "acc_0035",
+    "vin": "ZWT0986G7XP0X3CRK",
+    "plate": "4MHR429",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2016,
+    "device_id": "dev_0036",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.612333,
+      "lng": -102.302281,
+      "recorded_at": "2026-04-25T10:22:18Z"
+    }
+  },
+  {
+    "id": "veh_0037",
+    "account_id": "acc_0036",
+    "vin": "YT886LZLJ8MDCEDA3",
+    "plate": "3GKH488",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0037",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.674948,
+      "lng": -109.993389,
+      "recorded_at": "2026-04-29T16:12:11Z"
+    }
+  },
+  {
+    "id": "veh_0038",
+    "account_id": "acc_0040",
+    "vin": "78BA3ABUVB94MGGKS",
+    "plate": "1GQO482",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2021,
+    "device_id": "dev_0038",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.450803,
+      "lng": -87.64947,
+      "recorded_at": "2026-04-26T04:45:42Z"
+    }
+  },
+  {
+    "id": "veh_0039",
+    "account_id": "acc_0015",
+    "vin": "WFCF2117DALF84YGC",
+    "plate": "7CLM570",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2015,
+    "device_id": "dev_0039",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 38.560052,
+      "lng": -67.556717,
+      "recorded_at": "2026-04-23T14:54:44Z"
+    }
+  },
+  {
+    "id": "veh_0040",
+    "account_id": "acc_0003",
+    "vin": "MXBPK2EWLS1Y1JF9Z",
+    "plate": "5BCV387",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0040",
+    "status": "active",
+    "last_known_location": {
+      "lat": 46.58348,
+      "lng": -91.879938,
+      "recorded_at": "2026-04-29T13:51:30Z"
+    }
+  },
+  {
+    "id": "veh_0041",
+    "account_id": "acc_0032",
+    "vin": "RZ14M1FVSEFUK1K1X",
+    "plate": "7YKA749",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2013,
+    "device_id": "dev_0041",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.559849,
+      "lng": -67.422605,
+      "recorded_at": "2026-04-26T18:12:39Z"
+    }
+  },
+  {
+    "id": "veh_0042",
+    "account_id": "acc_0036",
+    "vin": "93GBFZFX1AV31FSL1",
+    "plate": "6YID235",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2014,
+    "device_id": "dev_0042",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.095134,
+      "lng": -99.434168,
+      "recorded_at": "2026-04-27T05:49:16Z"
+    }
+  },
+  {
+    "id": "veh_0043",
+    "account_id": "acc_0005",
+    "vin": "0TS8N6GJWA2Y1Y5Y4",
+    "plate": "3CFN382",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0043",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.106456,
+      "lng": -96.398815,
+      "recorded_at": "2026-04-28T01:29:52Z"
+    }
+  },
+  {
+    "id": "veh_0044",
+    "account_id": "acc_0037",
+    "vin": "SX1U20HNMB6P5VE38",
+    "plate": "6FMK398",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2022,
+    "device_id": "dev_0044",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.636985,
+      "lng": -87.92456,
+      "recorded_at": "2026-04-27T10:24:05Z"
+    }
+  },
+  {
+    "id": "veh_0045",
+    "account_id": "acc_0026",
+    "vin": "93C0FGSZLC2Y4GAGT",
+    "plate": "7ZMC559",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0045",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 48.776815,
+      "lng": -96.683622,
+      "recorded_at": "2026-04-23T17:28:22Z"
+    }
+  },
+  {
+    "id": "veh_0046",
+    "account_id": "acc_0033",
+    "vin": "KZB7GV3FHKZWY6P7Z",
+    "plate": "4OLM574",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0046",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.536214,
+      "lng": -90.450372,
+      "recorded_at": "2026-04-25T00:12:55Z"
+    }
+  },
+  {
+    "id": "veh_0047",
+    "account_id": "acc_0042",
+    "vin": "GLSMLY46R2MM42BN5",
+    "plate": "2JBZ827",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "device_id": "dev_0047",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.762046,
+      "lng": -75.59674,
+      "recorded_at": "2026-04-27T21:26:10Z"
+    }
+  },
+  {
+    "id": "veh_0048",
+    "account_id": "acc_0035",
+    "vin": "M0XN6HT8X12HZZ6MW",
+    "plate": "5YWZ915",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0048",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.50153,
+      "lng": -118.200133,
+      "recorded_at": "2026-04-29T01:40:14Z"
+    }
+  },
+  {
+    "id": "veh_0049",
+    "account_id": "acc_0039",
+    "vin": "J14M8ML8VJMX5DZA8",
+    "plate": "5DFL810",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0049",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.392605,
+      "lng": -101.857594,
+      "recorded_at": "2026-04-23T16:25:39Z"
+    }
+  },
+  {
+    "id": "veh_0050",
+    "account_id": "acc_0011",
+    "vin": "FBRVCURVL689HHU0C",
+    "plate": "8NVP525",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2020,
+    "device_id": "dev_0050",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.043417,
+      "lng": -98.700451,
+      "recorded_at": "2026-04-25T08:09:53Z"
+    }
+  },
+  {
+    "id": "veh_0051",
+    "account_id": "acc_0029",
+    "vin": "HSPZ4LJPPDZULXVVU",
+    "plate": "4JBO369",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2022,
+    "device_id": "dev_0051",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.365847,
+      "lng": -77.446471,
+      "recorded_at": "2026-04-28T20:30:25Z"
+    }
+  },
+  {
+    "id": "veh_0052",
+    "account_id": "acc_0046",
+    "vin": "XS28KU315EF29U068",
+    "plate": "1IUE818",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2021,
+    "device_id": "dev_0052",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.785891,
+      "lng": -109.768397,
+      "recorded_at": "2026-04-29T08:52:14Z"
+    }
+  },
+  {
+    "id": "veh_0053",
+    "account_id": "acc_0014",
+    "vin": "8UXVYJ8YDCG6BHL56",
+    "plate": "6CZR507",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2018,
+    "device_id": "dev_0053",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.227918,
+      "lng": -99.510343,
+      "recorded_at": "2026-04-28T21:34:40Z"
+    }
+  },
+  {
+    "id": "veh_0054",
+    "account_id": "acc_0042",
+    "vin": "LD2WR4FGAP7EJR5AA",
+    "plate": "3ICU469",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2025,
+    "device_id": "dev_0054",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.009343,
+      "lng": -102.804905,
+      "recorded_at": "2026-04-25T08:59:32Z"
+    }
+  },
+  {
+    "id": "veh_0055",
+    "account_id": "acc_0021",
+    "vin": "0WJ1JKEAL5ZPK35PF",
+    "plate": "8CHM191",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2014,
+    "device_id": "dev_0055",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 42.538321,
+      "lng": -118.161651,
+      "recorded_at": "2026-04-25T20:08:34Z"
+    }
+  },
+  {
+    "id": "veh_0056",
+    "account_id": "acc_0036",
+    "vin": "VBWP9N2VDS81HS8EA",
+    "plate": "7KZE353",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0056",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.647224,
+      "lng": -119.197823,
+      "recorded_at": "2026-04-23T14:26:50Z"
+    }
+  },
+  {
+    "id": "veh_0057",
+    "account_id": "acc_0005",
+    "vin": "BEATPCD29V9342FKU",
+    "plate": "6RVF881",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0057",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.304351,
+      "lng": -67.720123,
+      "recorded_at": "2026-04-28T00:48:52Z"
+    }
+  },
+  {
+    "id": "veh_0058",
+    "account_id": "acc_0042",
+    "vin": "EW4SDSF4H6DWMHAJA",
+    "plate": "9KMS749",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2019,
+    "device_id": "dev_0058",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 43.317379,
+      "lng": -86.959147,
+      "recorded_at": "2026-04-24T03:39:50Z"
+    }
+  },
+  {
+    "id": "veh_0059",
+    "account_id": "acc_0008",
+    "vin": "BY4UETE8690D8L0LT",
+    "plate": "5FLE867",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0059",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.746976,
+      "lng": -108.680424,
+      "recorded_at": "2026-04-29T02:24:24Z"
+    }
+  },
+  {
+    "id": "veh_0060",
+    "account_id": "acc_0010",
+    "vin": "MC3RXS3XUE0H9DMRC",
+    "plate": "9ABA350",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2013,
+    "device_id": "dev_0060",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 26.103557,
+      "lng": -103.25334,
+      "recorded_at": "2026-04-27T01:46:20Z"
+    }
+  },
+  {
+    "id": "veh_0061",
+    "account_id": "acc_0020",
+    "vin": "S608NSKA3BRZAYA1W",
+    "plate": "6CRO108",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2015,
+    "device_id": "dev_0061",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.854065,
+      "lng": -107.37908,
+      "recorded_at": "2026-04-27T14:37:44Z"
+    }
+  },
+  {
+    "id": "veh_0062",
+    "account_id": "acc_0034",
+    "vin": "306FG9J2ED4JSVTX2",
+    "plate": "8BEW386",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2017,
+    "device_id": "dev_0062",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.232639,
+      "lng": -71.487359,
+      "recorded_at": "2026-04-27T15:57:21Z"
+    }
+  },
+  {
+    "id": "veh_0063",
+    "account_id": "acc_0029",
+    "vin": "6X3HZP5W6THFLWCPX",
+    "plate": "4EYY698",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2013,
+    "device_id": "dev_0063",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 27.615348,
+      "lng": -117.977508,
+      "recorded_at": "2026-04-26T04:22:57Z"
+    }
+  },
+  {
+    "id": "veh_0064",
+    "account_id": "acc_0026",
+    "vin": "5SG6GJHADRJN20FTE",
+    "plate": "9BVJ366",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0064",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.682151,
+      "lng": -114.089539,
+      "recorded_at": "2026-04-25T02:50:29Z"
+    }
+  },
+  {
+    "id": "veh_0065",
+    "account_id": "acc_0037",
+    "vin": "428B14MZPMUU5KCSV",
+    "plate": "2ZKD143",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2018,
+    "device_id": "dev_0065",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 47.614736,
+      "lng": -121.113651,
+      "recorded_at": "2026-04-24T16:28:20Z"
+    }
+  },
+  {
+    "id": "veh_0066",
+    "account_id": "acc_0034",
+    "vin": "SB1Z78Z9X1UMBXRBU",
+    "plate": "  2IME529",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "device_id": "dev_0066",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 29.786987,
+      "lng": -73.574807,
+      "recorded_at": "2026-04-24T01:47:31Z"
+    }
+  },
+  {
+    "id": "veh_0067",
+    "account_id": "acc_0048",
+    "vin": "DR1ZMMSXZBZKN8WM8",
+    "plate": "4FDH772",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2013,
+    "device_id": "dev_0067",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.787667,
+      "lng": -93.579695,
+      "recorded_at": "2026-04-27T20:16:03Z"
+    }
+  },
+  {
+    "id": "veh_0068",
+    "account_id": "acc_0046",
+    "vin": "MXDBKKH0E02GYWXJL",
+    "plate": "9PAK728",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2018,
+    "device_id": "dev_0068",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.835145,
+      "lng": -116.562096,
+      "recorded_at": "2026-04-24T14:05:34Z"
+    }
+  },
+  {
+    "id": "veh_0069",
+    "account_id": "acc_0038",
+    "vin": "M1WVJMA2CMXRG8KYE",
+    "plate": "3WRW728",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2017,
+    "device_id": "dev_0069",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 43.887803,
+      "lng": -111.275479,
+      "recorded_at": "2026-04-28T11:05:58Z"
+    }
+  },
+  {
+    "id": "veh_0070",
+    "account_id": "acc_0017",
+    "vin": "GAD153L381Z1G7RL5",
+    "plate": "6OAI314",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "device_id": "dev_0070",
+    "status": "decommissioned",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0071",
+    "account_id": "acc_0047",
+    "vin": "EFY7B4L4LDGYPN3TV",
+    "plate": "6IDC450",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2015,
+    "device_id": "dev_0071",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.082525,
+      "lng": -102.598901,
+      "recorded_at": "2026-04-25T17:33:33Z"
+    }
+  },
+  {
+    "id": "veh_0072",
+    "account_id": "acc_0043",
+    "vin": "7NGBPLVF7HW278TF1",
+    "plate": "9PEB469",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0072",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 25.091574,
+      "lng": -119.005184,
+      "recorded_at": "2026-04-26T00:24:15Z"
+    }
+  },
+  {
+    "id": "veh_0073",
+    "account_id": "acc_0037",
+    "vin": "DKGFZ3RD137S7WF2C",
+    "plate": "8BIO576",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0073",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 31.321619,
+      "lng": -76.286511,
+      "recorded_at": "2026-04-25T01:12:28Z"
+    }
+  },
+  {
+    "id": "veh_0074",
+    "account_id": "acc_0044",
+    "vin": "4NKTXEF12XU6A3H3K",
+    "plate": "3GZG229",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2021,
+    "device_id": "dev_0074",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.024222,
+      "lng": -119.532994,
+      "recorded_at": "2026-04-29T06:48:49Z"
+    }
+  },
+  {
+    "id": "veh_0075",
+    "account_id": "acc_0042",
+    "vin": "87CMU2K2C2YSD7U0B",
+    "plate": "2ZJR452",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2025,
+    "device_id": "dev_0075",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.069446,
+      "lng": -108.944212,
+      "recorded_at": "2026-04-26T17:25:47Z"
+    }
+  },
+  {
+    "id": "veh_0076",
+    "account_id": "acc_0048",
+    "vin": "5XU3FN5P380D9LEW9",
+    "plate": "8WVD989",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2014,
+    "device_id": "dev_0076",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.470978,
+      "lng": -106.872614,
+      "recorded_at": "2026-04-24T03:17:27Z"
+    }
+  },
+  {
+    "id": "veh_0077",
+    "account_id": "acc_0004",
+    "vin": "0NU0692HBS085M7ZZ",
+    "plate": "1FGG957",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0077",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.38306,
+      "lng": -122.11495,
+      "recorded_at": "2026-04-29T09:40:18Z"
+    }
+  },
+  {
+    "id": "veh_0078",
+    "account_id": "acc_0015",
+    "vin": "RPU39BA7JMARTWU41",
+    "plate": "1MBF974",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0078",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.734193,
+      "lng": -68.999696,
+      "recorded_at": "2026-04-24T20:03:52Z"
+    }
+  },
+  {
+    "id": "veh_0079",
+    "account_id": "acc_0024",
+    "vin": "VWG7EYUXUTWNKSD2X",
+    "plate": "9TMS204",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2023,
+    "device_id": "dev_0079",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.176342,
+      "lng": -67.032525,
+      "recorded_at": "2026-04-24T11:07:47Z"
+    }
+  },
+  {
+    "id": "veh_0080",
+    "account_id": "acc_0037",
+    "vin": "NYR7Z9WLMVG7JTMYF",
+    "plate": "5NMM854",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2017,
+    "device_id": "dev_0080",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.847656,
+      "lng": -83.640069,
+      "recorded_at": "2026-04-26T18:33:18Z"
+    }
+  },
+  {
+    "id": "veh_0081",
+    "account_id": "acc_0004",
+    "vin": "E7N9H1W3DKJNY36KX",
+    "plate": "6LIS401",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2024,
+    "device_id": "dev_0081",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.130255,
+      "lng": -117.286456,
+      "recorded_at": "2026-04-26T11:06:53Z"
+    }
+  },
+  {
+    "id": "veh_0082",
+    "account_id": "acc_0011",
+    "vin": "L8FJ442471ACN0AXN",
+    "plate": "6UBA562",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0082",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.564669,
+      "lng": -80.611983,
+      "recorded_at": "2026-04-27T11:31:31Z"
+    }
+  },
+  {
+    "id": "veh_0083",
+    "account_id": "acc_0005",
+    "vin": "CWV6Y4JY8ZNL2BRRJ",
+    "plate": "6JED492",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2023,
+    "device_id": "dev_0083",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.080075,
+      "lng": -106.55144,
+      "recorded_at": "2026-04-24T09:00:54Z"
+    }
+  },
+  {
+    "id": "veh_0084",
+    "account_id": "acc_0017",
+    "vin": "DDGBDH351HT7KPAW3",
+    "plate": "2LWU911",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0084",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 25.896722,
+      "lng": -74.036984,
+      "recorded_at": "2026-04-28T20:02:54Z"
+    }
+  },
+  {
+    "id": "veh_0085",
+    "account_id": "acc_0032",
+    "vin": "NNTNZ3VLC8P7YSAAF",
+    "plate": "2QXT220",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2025,
+    "device_id": "dev_0085",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 31.784962,
+      "lng": -79.268676,
+      "recorded_at": "2026-04-24T12:04:55Z"
+    }
+  },
+  {
+    "id": "veh_0086",
+    "account_id": "acc_0042",
+    "vin": "R6VT6DGMCV0X4HGCA",
+    "plate": "2YQC840",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0086",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 42.36583,
+      "lng": -72.427575,
+      "recorded_at": "2026-04-26T12:16:15Z"
+    }
+  },
+  {
+    "id": "veh_0087",
+    "account_id": "acc_0008",
+    "vin": "226U173LHJDLG375M",
+    "plate": "8TIX195",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0087",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.942932,
+      "lng": -104.464805,
+      "recorded_at": "2026-04-30T03:36:24Z"
+    }
+  },
+  {
+    "id": "veh_0088",
+    "account_id": "acc_0021",
+    "vin": "ARYG4S7Z1KDAL978L",
+    "plate": "8PDN551",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2024,
+    "device_id": "dev_0088",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.103336,
+      "lng": -109.088067,
+      "recorded_at": "2026-04-27T13:50:07Z"
+    }
+  },
+  {
+    "id": "veh_0089",
+    "account_id": "acc_0016",
+    "vin": "F655F85XH8BG23CAF",
+    "plate": "5BQH663",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2020,
+    "device_id": "dev_0089",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 40.439616,
+      "lng": -101.013211,
+      "recorded_at": "2026-04-24T23:07:12Z"
+    }
+  },
+  {
+    "id": "veh_0090",
+    "account_id": "acc_0031",
+    "vin": "05HGRAYZV0GCL8J3G",
+    "plate": "6BHO439",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2021,
+    "device_id": "dev_0090",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.44362,
+      "lng": -88.673796,
+      "recorded_at": "2026-04-29T00:49:49Z"
+    }
+  },
+  {
+    "id": "veh_0091",
+    "account_id": "acc_0003",
+    "vin": "H569J8AD479MMJG1X",
+    "plate": "4OZG833",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2018,
+    "device_id": "dev_0091",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 33.110405,
+      "lng": -80.842488,
+      "recorded_at": "2026-04-27T11:41:43Z"
+    }
+  },
+  {
+    "id": "veh_0092",
+    "account_id": "acc_0045",
+    "vin": "9WXPNPVZJM9XHZ73V",
+    "plate": "7KJO924",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0092",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0093",
+    "account_id": "acc_0011",
+    "vin": "VTKDVPCZ5GR1S9VD1",
+    "plate": "7EBV157",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2018,
+    "device_id": "dev_0093",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 29.797658,
+      "lng": -81.239454,
+      "recorded_at": "2026-04-26T16:55:59Z"
+    }
+  },
+  {
+    "id": "veh_0094",
+    "account_id": "acc_0029",
+    "vin": "R0NNV5MEMM9H1C4UT",
+    "plate": "1AXI307",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2014,
+    "device_id": "dev_0094",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.893481,
+      "lng": -79.487281,
+      "recorded_at": "2026-04-27T09:43:17Z"
+    }
+  },
+  {
+    "id": "veh_0095",
+    "account_id": "acc_0004",
+    "vin": "W8ZEXRME9L32FZRPY",
+    "plate": "6OWE140",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2017,
+    "device_id": "dev_0095",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.688881,
+      "lng": -105.610088,
+      "recorded_at": "2026-04-24T01:28:52Z"
+    }
+  },
+  {
+    "id": "veh_0096",
+    "account_id": "acc_0042",
+    "vin": "SCX1H1TVB09958CVN",
+    "plate": "9YUA217",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2020,
+    "device_id": "dev_0096",
+    "status": "active",
+    "last_known_location": {
+      "lat": 41.054523,
+      "lng": -98.596967,
+      "recorded_at": "2026-04-29T08:03:03Z"
+    }
+  },
+  {
+    "id": "veh_0097",
+    "account_id": "acc_0014",
+    "vin": "4GP4EKB6YCFEDMTER",
+    "plate": "9RAU167",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2018,
+    "device_id": "dev_0097",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.058755,
+      "lng": -88.117674,
+      "recorded_at": "2026-04-25T14:11:46Z"
+    }
+  },
+  {
+    "id": "veh_0098",
+    "account_id": "acc_0040",
+    "vin": "ECEZ9GVWFV512B7LR",
+    "plate": "6AMV221",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2023,
+    "device_id": "dev_0098",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 37.836025,
+      "lng": -87.438903,
+      "recorded_at": "2026-04-23T21:02:47Z"
+    }
+  },
+  {
+    "id": "veh_0099",
+    "account_id": "acc_0001",
+    "vin": "KHCA2FWPZP39KLMRT",
+    "plate": "3JVZ987",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2013,
+    "device_id": "dev_0099",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.50379,
+      "lng": -102.731561,
+      "recorded_at": "2026-04-23T14:45:51Z"
+    }
+  },
+  {
+    "id": "veh_0100",
+    "account_id": "acc_0007",
+    "vin": "N8YZJSGVENX85YWK0",
+    "plate": "9OUR174",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2018,
+    "device_id": "dev_0100",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.975664,
+      "lng": -120.160323,
+      "recorded_at": "2026-04-26T16:46:11Z"
+    }
+  },
+  {
+    "id": "veh_0101",
+    "account_id": "acc_0044",
+    "vin": "Y765ZW8GMFUJNTEEB",
+    "plate": "4WXU546",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2025,
+    "device_id": "dev_0101",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 31.640316,
+      "lng": -103.509298,
+      "recorded_at": "2026-04-25T13:59:46Z"
+    }
+  },
+  {
+    "id": "veh_0102",
+    "account_id": "acc_0042",
+    "vin": "K02RVJ699F209ASL9",
+    "plate": "4BRI656",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0102",
+    "status": "active",
+    "last_known_location": {
+      "lat": 46.455662,
+      "lng": -93.238404,
+      "recorded_at": "2026-04-23T15:02:12Z"
+    }
+  },
+  {
+    "id": "veh_0103",
+    "account_id": "acc_0015",
+    "vin": "ET0RCP0176CCXGUTM",
+    "plate": "3XXP467",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "device_id": "dev_0103",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.970076,
+      "lng": -80.596074,
+      "recorded_at": "2026-04-29T13:19:42Z"
+    }
+  },
+  {
+    "id": "veh_0104",
+    "account_id": "acc_0032",
+    "vin": "7A9J5LRE9UPKML0HR",
+    "plate": "5MHQ515",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0104",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.469552,
+      "lng": -74.539993,
+      "recorded_at": "2026-04-29T02:59:16Z"
+    }
+  },
+  {
+    "id": "veh_0105",
+    "account_id": "acc_0016",
+    "vin": "CJLJ9CKDLTM2BVFP5",
+    "plate": "8PGS265",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2025,
+    "device_id": "dev_0105",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.534222,
+      "lng": -100.578745,
+      "recorded_at": "2026-04-27T20:06:21Z"
+    }
+  },
+  {
+    "id": "veh_0106",
+    "account_id": "acc_0011",
+    "vin": "Y6ER11JGBN93KGM7C",
+    "plate": "3ZSY286",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0106",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 39.957082,
+      "lng": -94.88412,
+      "recorded_at": "2026-04-28T22:02:21Z"
+    }
+  },
+  {
+    "id": "veh_0107",
+    "account_id": "acc_0003",
+    "vin": "4R71ZG4JT7RFV3TNA",
+    "plate": "9AYV764",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0107",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.355924,
+      "lng": -100.021011,
+      "recorded_at": "2026-04-24T04:36:31Z"
+    }
+  },
+  {
+    "id": "veh_0108",
+    "account_id": "acc_0010",
+    "vin": "4TT40U2P37M07TWZ2",
+    "plate": "7UGW923",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2014,
+    "device_id": "dev_0108",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 32.581641,
+      "lng": -103.350622,
+      "recorded_at": "2026-04-29T01:18:50Z"
+    }
+  },
+  {
+    "id": "veh_0109",
+    "account_id": "acc_0022",
+    "vin": "DL1AFK74FETR0FC12",
+    "plate": "8ZWF202",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2023,
+    "device_id": "dev_0109",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 30.146995,
+      "lng": -101.168028,
+      "recorded_at": "2026-04-29T19:15:46Z"
+    }
+  },
+  {
+    "id": "veh_0110",
+    "account_id": "acc_0019",
+    "vin": "NC9RLC0SALFU2Z22N",
+    "plate": "8OAG970",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2023,
+    "device_id": "dev_0110",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 40.765221,
+      "lng": -78.177135,
+      "recorded_at": "2026-04-29T09:44:15Z"
+    }
+  },
+  {
+    "id": "veh_0111",
+    "account_id": "acc_0015",
+    "vin": "N62ATM39GE9VYH9TT",
+    "plate": "5XRS456",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0111",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.339402,
+      "lng": -77.515652,
+      "recorded_at": "2026-04-27T13:08:30Z"
+    }
+  },
+  {
+    "id": "veh_0112",
+    "account_id": "acc_0005",
+    "vin": "1RRX3ZATSVF2YEM7X",
+    "plate": "8VOS982",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2015,
+    "device_id": "dev_0112",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 25.656417,
+      "lng": -117.372707,
+      "recorded_at": "2026-04-27T05:37:34Z"
+    }
+  },
+  {
+    "id": "veh_0113",
+    "account_id": "acc_0014",
+    "vin": "RNSZKGHF8AC70X8U8",
+    "plate": "4PXG340",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2024,
+    "device_id": "dev_0113",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 42.650298,
+      "lng": -74.253678,
+      "recorded_at": "2026-04-27T02:22:00Z"
+    }
+  },
+  {
+    "id": "veh_0114",
+    "account_id": "acc_0035",
+    "vin": "C9Z2M6H6XAAP1GX0T",
+    "plate": "4YSE155",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2020,
+    "device_id": "dev_0114",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.617651,
+      "lng": -99.878976,
+      "recorded_at": "2026-04-27T05:31:45Z"
+    }
+  },
+  {
+    "id": "veh_0115",
+    "account_id": "acc_0024",
+    "vin": "02U5MJRGUS41NKK7A",
+    "plate": "6LFP534",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2018,
+    "device_id": "dev_0115",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.05278,
+      "lng": -84.05938,
+      "recorded_at": "2026-04-24T05:24:39Z"
+    }
+  },
+  {
+    "id": "veh_0116",
+    "account_id": "acc_0026",
+    "vin": "GLDPT7G5YT00TZB3H",
+    "plate": "6ZPJ356",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0116",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.491323,
+      "lng": -91.633432,
+      "recorded_at": "2026-04-28T02:02:58Z"
+    }
+  },
+  {
+    "id": "veh_0117",
+    "account_id": "acc_0050",
+    "vin": "5F1V6KLY32EFLYRXX",
+    "plate": "9FYJ463",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0117",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.802167,
+      "lng": -94.904662,
+      "recorded_at": "2026-04-25T16:48:56Z"
+    }
+  },
+  {
+    "id": "veh_0118",
+    "account_id": "acc_0011",
+    "vin": "MBJSTFPL2GGE7DB2F",
+    "plate": "8YLX701",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2016,
+    "device_id": "dev_0118",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 37.502457,
+      "lng": -98.333547,
+      "recorded_at": "2026-04-29T11:26:34Z"
+    }
+  },
+  {
+    "id": "veh_0119",
+    "account_id": "acc_0034",
+    "vin": "LBCZX76U5JM64WZ7R",
+    "plate": "5HHX390",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2019,
+    "device_id": "dev_0119",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.63585,
+      "lng": -116.794533,
+      "recorded_at": "2026-04-25T11:56:13Z"
+    }
+  },
+  {
+    "id": "veh_0120",
+    "account_id": "acc_0023",
+    "vin": "V7A87WA4VRA0N342S",
+    "plate": "3JAA635",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2023,
+    "device_id": "dev_0120",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.569115,
+      "lng": -75.66705,
+      "recorded_at": "2026-04-25T18:29:06Z"
+    }
+  },
+  {
+    "id": "veh_0121",
+    "account_id": "acc_0040",
+    "vin": "UVU3NEMJVH65U8NXB",
+    "plate": "4ICN740",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2012,
+    "device_id": "dev_0121",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 30.749484,
+      "lng": -80.421317,
+      "recorded_at": "2026-04-30T05:33:15Z"
+    }
+  },
+  {
+    "id": "veh_0122",
+    "account_id": "acc_0006",
+    "vin": "KA8PY3W806CYFKDU2",
+    "plate": "2JIE832",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0122",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.521999,
+      "lng": -123.532367,
+      "recorded_at": "2026-04-28T04:01:12Z"
+    }
+  },
+  {
+    "id": "veh_0123",
+    "account_id": "acc_0029",
+    "vin": "SCN6GP71WXLCHT7WN",
+    "plate": "7ADY831",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0123",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 30.975097,
+      "lng": -80.040156,
+      "recorded_at": "2026-04-27T20:33:53Z"
+    }
+  },
+  {
+    "id": "veh_0124",
+    "account_id": "acc_0008",
+    "vin": "2SAC7K0FSL8FYDDZK",
+    "plate": "4UNK115",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2020,
+    "device_id": "dev_0124",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.016649,
+      "lng": -108.262298,
+      "recorded_at": "2026-04-28T23:21:01Z"
+    }
+  },
+  {
+    "id": "veh_0125",
+    "account_id": "acc_0029",
+    "vin": "NB1ZJTC85V8NMZX6U",
+    "plate": "4KRZ760",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0125",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.160741,
+      "lng": -78.085054,
+      "recorded_at": "2026-04-25T01:06:27Z"
+    }
+  },
+  {
+    "id": "veh_0126",
+    "account_id": "acc_0047",
+    "vin": "MB0SXE1N8KVX3XHGE",
+    "plate": "5RLO100",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0126",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 43.62203,
+      "lng": -95.160409,
+      "recorded_at": "2026-04-28T07:58:04Z"
+    }
+  },
+  {
+    "id": "veh_0127",
+    "account_id": "acc_0025",
+    "vin": "8TD0REAP8F6D030DU",
+    "plate": "4DPG201",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2012,
+    "device_id": "dev_0127",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.763612,
+      "lng": -87.420155,
+      "recorded_at": "2026-04-26T19:28:53Z"
+    }
+  },
+  {
+    "id": "veh_0128",
+    "account_id": "acc_0013",
+    "vin": "SM3GZ64GLM29YL5ZX",
+    "plate": "4QDD842",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2017,
+    "device_id": "dev_0128",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 30.544432,
+      "lng": -102.036128,
+      "recorded_at": "2026-04-25T11:53:47Z"
+    }
+  },
+  {
+    "id": "veh_0129",
+    "account_id": "acc_0048",
+    "vin": "T0552ACVBJWAWRPXB",
+    "plate": "6THS658",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2020,
+    "device_id": "dev_0129",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 30.134275,
+      "lng": -80.354631,
+      "recorded_at": "2026-04-23T13:46:52Z"
+    }
+  },
+  {
+    "id": "veh_0130",
+    "account_id": "acc_0038",
+    "vin": "SRTWF2PEX7M8GWC1F",
+    "plate": "3DBO464",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0130",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.746571,
+      "lng": -108.895674,
+      "recorded_at": "2026-04-25T05:29:59Z"
+    }
+  },
+  {
+    "id": "veh_0131",
+    "account_id": "acc_0041",
+    "vin": "1DWCXKX9RKD259FR4",
+    "plate": "2YHX768",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2024,
+    "device_id": "dev_0131",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.387476,
+      "lng": -71.06677,
+      "recorded_at": "2026-04-28T21:29:50Z"
+    }
+  },
+  {
+    "id": "veh_0132",
+    "account_id": "acc_0026",
+    "vin": "94JJ7N82NSSEU4XFH",
+    "plate": "2PSX150",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "device_id": "dev_0132",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.155658,
+      "lng": -109.034195,
+      "recorded_at": "2026-04-28T04:30:58Z"
+    }
+  },
+  {
+    "id": "veh_0133",
+    "account_id": "acc_0040",
+    "vin": "5K5CRN0KFHDSKVAYH",
+    "plate": "6TUA888",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0133",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.315652,
+      "lng": -67.703841,
+      "recorded_at": "2026-04-26T11:20:03Z"
+    }
+  },
+  {
+    "id": "veh_0134",
+    "account_id": "acc_0040",
+    "vin": "KB1CTLDVNUD6AE1U0",
+    "plate": "9GGR635",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2012,
+    "device_id": "dev_0134",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.008524,
+      "lng": -92.718397,
+      "recorded_at": "2026-04-25T19:25:02Z"
+    }
+  },
+  {
+    "id": "veh_0135",
+    "account_id": "acc_0006",
+    "vin": "MN96BCSWY82LBZZZW",
+    "plate": "7QWD423",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0135",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.631892,
+      "lng": -89.964935,
+      "recorded_at": "2026-04-29T17:56:19Z"
+    }
+  },
+  {
+    "id": "veh_0136",
+    "account_id": "acc_0043",
+    "vin": "JF1R3SK4WY5JPJNJW",
+    "plate": "7ARI330",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2018,
+    "device_id": "dev_0136",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 28.640996,
+      "lng": -72.861007,
+      "recorded_at": "2026-04-28T17:43:17Z"
+    }
+  },
+  {
+    "id": "veh_0137",
+    "account_id": "acc_0021",
+    "vin": "KBX33W5UKNGJMBURR",
+    "plate": "3KCR645",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "device_id": "dev_0137",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.766438,
+      "lng": -117.251924,
+      "recorded_at": "2026-04-29T12:51:04Z"
+    }
+  },
+  {
+    "id": "veh_0138",
+    "account_id": "acc_0025",
+    "vin": "87JLNRC3AU3RNPEM5",
+    "plate": "3QTP829",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0138",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.589645,
+      "lng": -113.513341,
+      "recorded_at": "2026-04-24T22:43:50Z"
+    }
+  },
+  {
+    "id": "veh_0139",
+    "account_id": "acc_0021",
+    "vin": "2CG56CS2C1DNV52WV",
+    "plate": "7MYB722",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0139",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.647963,
+      "lng": -102.318672,
+      "recorded_at": "2026-04-29T20:06:44Z"
+    }
+  },
+  {
+    "id": "veh_0140",
+    "account_id": "acc_0050",
+    "vin": "J23X5BM6N6FTXLHFH",
+    "plate": "3OUO192",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "device_id": "dev_0140",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.343523,
+      "lng": -117.54922,
+      "recorded_at": "2026-04-24T03:25:38Z"
+    }
+  },
+  {
+    "id": "veh_0141",
+    "account_id": "acc_0022",
+    "vin": "KLKMD3WW5VMHJNATA",
+    "plate": "9TFM663",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2019,
+    "device_id": "dev_0141",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 34.134568,
+      "lng": -80.209162,
+      "recorded_at": "2026-04-23T21:41:38Z"
+    }
+  },
+  {
+    "id": "veh_0142",
+    "account_id": "acc_0006",
+    "vin": "ASUPDMKDZCKCWYFDG",
+    "plate": "8HGS775",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2014,
+    "device_id": "dev_0142",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.417088,
+      "lng": -100.621372,
+      "recorded_at": "2026-04-27T01:10:06Z"
+    }
+  },
+  {
+    "id": "veh_0143",
+    "account_id": "acc_0050",
+    "vin": "WX01E4EV7JHUY3PPD",
+    "plate": "9FOX692",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0143",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.644528,
+      "lng": -121.957118,
+      "recorded_at": "2026-04-24T01:56:00Z"
+    }
+  },
+  {
+    "id": "veh_0144",
+    "account_id": "acc_0039",
+    "vin": "XTZJ888MRVNAHB6HP",
+    "plate": "8XWT907",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2018,
+    "device_id": "dev_0144",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.670683,
+      "lng": -107.630324,
+      "recorded_at": "2026-04-26T10:46:34Z"
+    }
+  },
+  {
+    "id": "veh_0145",
+    "account_id": "acc_0017",
+    "vin": "EWW9XAHYY2BMNYY77",
+    "plate": "9ZUG111",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2022,
+    "device_id": "dev_0145",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.374839,
+      "lng": -84.669027,
+      "recorded_at": "2026-04-28T14:44:26Z"
+    }
+  },
+  {
+    "id": "veh_0146",
+    "account_id": "acc_0034",
+    "vin": "WXBPYZEKUBY1L1MHW",
+    "plate": "9KOZ933",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0146",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.934874,
+      "lng": -81.672675,
+      "recorded_at": "2026-04-25T11:27:07Z"
+    }
+  },
+  {
+    "id": "veh_0147",
+    "account_id": "acc_0020",
+    "vin": "MH0CNF59B79KNY7WX",
+    "plate": "8HLO949",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "device_id": "dev_0147",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 47.817442,
+      "lng": -111.680027,
+      "recorded_at": "2026-04-24T05:39:42Z"
+    }
+  },
+  {
+    "id": "veh_0148",
+    "account_id": "acc_0001",
+    "vin": "WCFY6CGWBWPXNNVUX",
+    "plate": "4XBO496",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2022,
+    "device_id": "dev_0148",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.128257,
+      "lng": -94.226342,
+      "recorded_at": "2026-04-28T16:30:26Z"
+    }
+  },
+  {
+    "id": "veh_0149",
+    "account_id": "acc_0023",
+    "vin": "XUKVSLEWY5DJB7DG1",
+    "plate": "5DAT673",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0149",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.337456,
+      "lng": -112.225089,
+      "recorded_at": "2026-04-28T07:52:03Z"
+    }
+  },
+  {
+    "id": "veh_0150",
+    "account_id": "acc_0043",
+    "vin": "F6JF6G6W67RRKT02M",
+    "plate": "8TLJ440",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0150",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 44.618607,
+      "lng": -83.364775,
+      "recorded_at": "2026-04-26T13:24:24Z"
+    }
+  },
+  {
+    "id": "veh_0151",
+    "account_id": "acc_0011",
+    "vin": "VZJ9G2GXEW623SSL7",
+    "plate": "8ACP215",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2013,
+    "device_id": "dev_0151",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.43458,
+      "lng": -97.709224,
+      "recorded_at": "2026-04-25T06:25:09Z"
+    }
+  },
+  {
+    "id": "veh_0152",
+    "account_id": "acc_0046",
+    "vin": "8H6XG5MW2EG1X8DFP",
+    "plate": "6RWH277",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0152",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 40.902694,
+      "lng": -119.560019,
+      "recorded_at": "2026-04-30T11:56:47Z"
+    }
+  },
+  {
+    "id": "veh_0153",
+    "account_id": "acc_0014",
+    "vin": "XWW4ZFA92JVD0DAZH",
+    "plate": "3ORJ499",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0153",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.773732,
+      "lng": -98.511893,
+      "recorded_at": "2026-04-25T06:15:14Z"
+    }
+  },
+  {
+    "id": "veh_0154",
+    "account_id": "acc_0014",
+    "vin": "M7JN103KVJJAEBK84",
+    "plate": "7UKW491",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0154",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.744784,
+      "lng": -99.194167,
+      "recorded_at": "2026-04-25T10:52:24Z"
+    }
+  },
+  {
+    "id": "veh_0155",
+    "account_id": "acc_0025",
+    "vin": "ZRM4A8S9U30CC70H7",
+    "plate": "7TFO621",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2014,
+    "device_id": "dev_0155",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 35.178992,
+      "lng": -77.255929,
+      "recorded_at": "2026-04-24T02:40:22Z"
+    }
+  },
+  {
+    "id": "veh_0156",
+    "account_id": "acc_0048",
+    "vin": "EWDYA7697Y3ZVVLCW",
+    "plate": "8QCQ724",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0156",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 27.122712,
+      "lng": -97.07026,
+      "recorded_at": "2026-04-28T10:45:08Z"
+    }
+  },
+  {
+    "id": "veh_0157",
+    "account_id": "acc_0006",
+    "vin": "J9EUTJUUTAHMK50MT",
+    "plate": "1VJZ855",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0157",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.983608,
+      "lng": -107.651508,
+      "recorded_at": "2026-04-24T02:23:13Z"
+    }
+  },
+  {
+    "id": "veh_0158",
+    "account_id": "acc_0027",
+    "vin": "1S5LPZDTHDL627W7R",
+    "plate": "6CET941",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2022,
+    "device_id": "dev_0158",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 28.699607,
+      "lng": -95.730948,
+      "recorded_at": "2026-04-24T17:45:57Z"
+    }
+  },
+  {
+    "id": "veh_0159",
+    "account_id": "acc_0044",
+    "vin": "XCGZ4UYUUGT26SNYM",
+    "plate": "3QNA395",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2020,
+    "device_id": "dev_0159",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.253341,
+      "lng": -98.417224,
+      "recorded_at": "2026-04-30T09:31:53Z"
+    }
+  },
+  {
+    "id": "veh_0160",
+    "account_id": "acc_0047",
+    "vin": "VTNCBFDPHHFJ1MHMT",
+    "plate": "1NDQ206",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2019,
+    "device_id": "dev_0160",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.451989,
+      "lng": -103.963564,
+      "recorded_at": "2026-04-29T13:56:48Z"
+    }
+  },
+  {
+    "id": "veh_0161",
+    "account_id": "acc_0011",
+    "vin": "EUD11YDTTM5E8N2M8",
+    "plate": "5YNW783",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2014,
+    "device_id": "dev_0161",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.477132,
+      "lng": -105.565965,
+      "recorded_at": "2026-04-25T06:23:18Z"
+    }
+  },
+  {
+    "id": "veh_0162",
+    "account_id": "acc_0047",
+    "vin": "T5B8KAC1UKY2A9874",
+    "plate": "2OWI205",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0162",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.836661,
+      "lng": -119.986497,
+      "recorded_at": "2026-04-29T15:34:56Z"
+    }
+  },
+  {
+    "id": "veh_0163",
+    "account_id": "acc_0035",
+    "vin": "ZYW2DF0YF6VNMC1NW",
+    "plate": "4AMW937",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0163",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.715917,
+      "lng": -117.091392,
+      "recorded_at": "2026-04-26T03:21:28Z"
+    }
+  },
+  {
+    "id": "veh_0164",
+    "account_id": "acc_0047",
+    "vin": "S81EW85BCYDYC2HP6",
+    "plate": "2UOX294",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2023,
+    "device_id": "dev_0164",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.358631,
+      "lng": -112.993715,
+      "recorded_at": "2026-04-29T15:01:08Z"
+    }
+  },
+  {
+    "id": "veh_0165",
+    "account_id": "acc_0016",
+    "vin": "JAMDWG6LEGH8REN4Y",
+    "plate": "3PUA582",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2022,
+    "device_id": "dev_0165",
+    "status": "active",
+    "last_known_location": {
+      "lat": 46.772293,
+      "lng": -88.752791,
+      "recorded_at": "2026-04-29T00:48:50Z"
+    }
+  },
+  {
+    "id": "veh_0166",
+    "account_id": "acc_0022",
+    "vin": "EHUK3L0L5SCJG1LB8",
+    "plate": "9EKZ318",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0166",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.341469,
+      "lng": -90.194141,
+      "recorded_at": "2026-04-29T10:02:09Z"
+    }
+  },
+  {
+    "id": "veh_0167",
+    "account_id": "acc_0014",
+    "vin": "KU53SMCM8FWZ3ASNH",
+    "plate": "5NWZ911",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0167",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 43.541505,
+      "lng": -84.535575,
+      "recorded_at": "2026-04-23T22:47:40Z"
+    }
+  },
+  {
+    "id": "veh_0168",
+    "account_id": "acc_0008",
+    "vin": "K78MLCD0VP4TY6CGD",
+    "plate": "4OYU775",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2014,
+    "device_id": "dev_0168",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.994609,
+      "lng": -120.975066,
+      "recorded_at": "2026-04-24T14:42:57Z"
+    }
+  },
+  {
+    "id": "veh_0169",
+    "account_id": "acc_0013",
+    "vin": "XRHXRGS3N1RE78D4K",
+    "plate": "2CHX555",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0169",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.22496,
+      "lng": -105.419578,
+      "recorded_at": "2026-04-25T19:10:55Z"
+    }
+  },
+  {
+    "id": "veh_0170",
+    "account_id": "acc_0022",
+    "vin": "JCDUJH663LYRVLLRF",
+    "plate": "3OXG747",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2025,
+    "device_id": "dev_0170",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.606164,
+      "lng": -108.627412,
+      "recorded_at": "2026-04-27T20:57:24Z"
+    }
+  },
+  {
+    "id": "veh_0171",
+    "account_id": "acc_0016",
+    "vin": "X4RKA3CC79C427G58",
+    "plate": "8OIA847",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0171",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 35.274649,
+      "lng": -74.261887,
+      "recorded_at": "2026-04-30T08:22:54Z"
+    }
+  },
+  {
+    "id": "veh_0172",
+    "account_id": "acc_0031",
+    "vin": "WL6B66J2M06AE1YCV",
+    "plate": "4ELJ344",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2024,
+    "device_id": "dev_0172",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.543365,
+      "lng": -118.828418,
+      "recorded_at": "2026-04-23T22:00:16Z"
+    }
+  },
+  {
+    "id": "veh_0173",
+    "account_id": "acc_0004",
+    "vin": "90DH106C00MEPJYSH",
+    "plate": "4ZVC735",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0173",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 46.140334,
+      "lng": -82.061635,
+      "recorded_at": "2026-04-27T22:53:36Z"
+    }
+  },
+  {
+    "id": "veh_0174",
+    "account_id": "acc_0024",
+    "vin": "Z589H7V50EN6FF2MV",
+    "plate": "6LIQ796",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0174",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.150299,
+      "lng": -120.89578,
+      "recorded_at": "2026-04-29T03:22:14Z"
+    }
+  },
+  {
+    "id": "veh_0175",
+    "account_id": "acc_0044",
+    "vin": "J7Z35BVNEBRY3YX85",
+    "plate": "8EGQ742",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2016,
+    "device_id": "dev_0175",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.544566,
+      "lng": -100.25741,
+      "recorded_at": "2026-04-26T18:43:37Z"
+    }
+  },
+  {
+    "id": "veh_0176",
+    "account_id": "acc_0023",
+    "vin": "V6LLVMMKLSHCXJ5T",
+    "plate": "5HPL395",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0176",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.473994,
+      "lng": -121.302821,
+      "recorded_at": "2026-04-30T01:53:46Z"
+    }
+  },
+  {
+    "id": "veh_0177",
+    "account_id": "acc_0008",
+    "vin": "B28K6XKA9YV7VK5YH",
+    "plate": "6ELO652",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0177",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.411176,
+      "lng": -93.582351,
+      "recorded_at": "2026-04-23T19:31:17Z"
+    }
+  },
+  {
+    "id": "veh_0178",
+    "account_id": "acc_0021",
+    "vin": "DNRUNBF5F92N8X9D0",
+    "plate": "5AMT961",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2014,
+    "device_id": "dev_0178",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.288755,
+      "lng": -103.628568,
+      "recorded_at": "2026-04-25T07:26:27Z"
+    }
+  },
+  {
+    "id": "veh_0179",
+    "account_id": "acc_0036",
+    "vin": "FP535VL43JFKPW7YE",
+    "plate": "7LAJ453",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2013,
+    "device_id": "dev_0179",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.432521,
+      "lng": -68.281153,
+      "recorded_at": "2026-04-27T04:23:14Z"
+    }
+  },
+  {
+    "id": "veh_0180",
+    "account_id": "acc_0012",
+    "vin": "1V8CWW86RBAKTW7HV",
+    "plate": "3ROW681",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2014,
+    "device_id": "dev_0180",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.12585,
+      "lng": -116.195159,
+      "recorded_at": "2026-04-27T12:42:41Z"
+    }
+  },
+  {
+    "id": "veh_0181",
+    "account_id": "acc_0031",
+    "vin": "4T7H09BTLDKX6JZLD",
+    "plate": "2YIP168",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2017,
+    "device_id": "dev_0181",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 39.373392,
+      "lng": -103.379708,
+      "recorded_at": "2026-04-26T04:18:44Z"
+    }
+  },
+  {
+    "id": "veh_0182",
+    "account_id": "acc_0012",
+    "vin": "GLXXWU0GZKAJV083Y",
+    "plate": "5JQU178",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2013,
+    "device_id": "dev_0182",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.332796,
+      "lng": -80.312781,
+      "recorded_at": "2026-04-24T09:22:45Z"
+    }
+  },
+  {
+    "id": "veh_0183",
+    "account_id": "acc_0035",
+    "vin": "H36EHJB7ZW0J5YMWB",
+    "plate": "4ZRT806",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0183",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.953988,
+      "lng": -94.037789,
+      "recorded_at": "2026-04-28T18:32:06Z"
+    }
+  },
+  {
+    "id": "veh_0184",
+    "account_id": "acc_0008",
+    "vin": "EB74CNGC9D7HTCEWA",
+    "plate": "5EGE180",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2024,
+    "device_id": "dev_0184",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.195322,
+      "lng": -80.50765,
+      "recorded_at": "2026-04-28T00:10:22Z"
+    }
+  },
+  {
+    "id": "veh_0185",
+    "account_id": "acc_0018",
+    "vin": "ZZL9S9EGAPNVLAGP9",
+    "plate": "4FVL129",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0185",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 27.178704,
+      "lng": -75.785893,
+      "recorded_at": "2026-04-28T06:04:42Z"
+    }
+  },
+  {
+    "id": "veh_0186",
+    "account_id": "acc_0008",
+    "vin": "XH6HJ80VCFX8H1V6W",
+    "plate": "2FLM534",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2015,
+    "device_id": "dev_0186",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.142576,
+      "lng": -111.02941,
+      "recorded_at": "2026-04-26T23:21:36Z"
+    }
+  },
+  {
+    "id": "veh_0187",
+    "account_id": "acc_0044",
+    "vin": "8G25FHK22GLE0NYN2",
+    "plate": "4CZP795",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2015,
+    "device_id": "dev_0187",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 33.818593,
+      "lng": -123.271207,
+      "recorded_at": "2026-04-24T10:37:26Z"
+    }
+  },
+  {
+    "id": "veh_0188",
+    "account_id": "acc_0043",
+    "vin": "289UK6GHT88RJBGDE",
+    "plate": "5YZZ759",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0188",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.637401,
+      "lng": -103.702454,
+      "recorded_at": "2026-04-28T07:50:05Z"
+    }
+  },
+  {
+    "id": "veh_0189",
+    "account_id": "acc_0049",
+    "vin": "86NV889TYBC4H15X1",
+    "plate": "6EJT738",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2019,
+    "device_id": "dev_0189",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.312007,
+      "lng": -119.638516,
+      "recorded_at": "2026-04-28T08:29:00Z"
+    }
+  },
+  {
+    "id": "veh_0190",
+    "account_id": "acc_0032",
+    "vin": "H877L9D2T81ZVXDBC",
+    "plate": "5WFP541",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0190",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.227718,
+      "lng": -83.203778,
+      "recorded_at": "2026-04-30T04:09:54Z"
+    }
+  },
+  {
+    "id": "veh_0191",
+    "account_id": "acc_0016",
+    "vin": "SSWFEWHYLBXC6493U",
+    "plate": "7DNL465",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2023,
+    "device_id": "dev_0191",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.88631,
+      "lng": -120.782393,
+      "recorded_at": "2026-04-30T05:31:24Z"
+    }
+  },
+  {
+    "id": "veh_0192",
+    "account_id": "acc_0045",
+    "vin": "PY89YLW04N8EPVTDW",
+    "plate": "7SMK686",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0192",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.345416,
+      "lng": -96.163559,
+      "recorded_at": "2026-04-29T09:12:56Z"
+    }
+  },
+  {
+    "id": "veh_0193",
+    "account_id": "acc_0028",
+    "vin": "PZEW9W4XN32T96MBM",
+    "plate": "2SKI168",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0193",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.594279,
+      "lng": -93.729372,
+      "recorded_at": "2026-04-24T19:53:26Z"
+    }
+  },
+  {
+    "id": "veh_0194",
+    "account_id": "acc_0004",
+    "vin": "N06KSKW43XEP3UVLT",
+    "plate": "9ZTY544",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2018,
+    "device_id": "dev_0194",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.431262,
+      "lng": -82.582941,
+      "recorded_at": "2026-04-28T16:19:14Z"
+    }
+  },
+  {
+    "id": "veh_0195",
+    "account_id": "acc_0028",
+    "vin": "CNLUJBTUMC8BDFXWE",
+    "plate": "1HZJ575",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2017,
+    "device_id": "dev_0195",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 36.649176,
+      "lng": -67.496293,
+      "recorded_at": "2026-04-29T09:41:47Z"
+    }
+  },
+  {
+    "id": "veh_0196",
+    "account_id": "acc_0043",
+    "vin": "T8FSHXY1S4PKGMPU5",
+    "plate": "3HDS852",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2016,
+    "device_id": "dev_0196",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 37.005965,
+      "lng": -117.123371,
+      "recorded_at": "2026-04-29T19:42:38Z"
+    }
+  },
+  {
+    "id": "veh_0197",
+    "account_id": "acc_0016",
+    "vin": "UK070WBCDST1W0HS5",
+    "plate": "9LWD424",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2012,
+    "device_id": "dev_0197",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 38.097881,
+      "lng": -96.933315,
+      "recorded_at": "2026-04-25T17:32:16Z"
+    }
+  },
+  {
+    "id": "veh_0198",
+    "account_id": "acc_0029",
+    "vin": "X3CUF873Y4GLT9EZ3",
+    "plate": "5CYH404",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0198",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.049276,
+      "lng": -73.255937,
+      "recorded_at": "2026-04-29T20:49:31Z"
+    }
+  },
+  {
+    "id": "veh_0199",
+    "account_id": "acc_0021",
+    "vin": "FHLSJ3X57JTMXVNF3",
+    "plate": "8ZUE103",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0199",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.615884,
+      "lng": -88.187112,
+      "recorded_at": "2026-04-25T22:05:52Z"
+    }
+  },
+  {
+    "id": "veh_0200",
+    "account_id": "acc_0006",
+    "vin": "6NTLD24TKF0LHA468",
+    "plate": "4AAR762",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0200",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.688076,
+      "lng": -110.963687,
+      "recorded_at": "2026-04-28T04:30:00Z"
+    }
+  },
+  {
+    "id": "veh_0201",
+    "account_id": "acc_0014",
+    "vin": "VN3M3KBVTS5S06FA7",
+    "plate": "5XPM233",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0201",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.351406,
+      "lng": -112.223461,
+      "recorded_at": "2026-04-25T16:12:14Z"
+    }
+  },
+  {
+    "id": "veh_0202",
+    "account_id": "acc_0004",
+    "vin": "DYS7ZCAT91W20JCMT",
+    "plate": "7WNX711",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0202",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.149414,
+      "lng": -118.569073,
+      "recorded_at": "2026-04-26T09:12:28Z"
+    }
+  },
+  {
+    "id": "veh_0203",
+    "account_id": "acc_0021",
+    "vin": "CJ8U04VTTX4LX8K5D",
+    "plate": "3CKW643",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2014,
+    "device_id": "dev_0203",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.390312,
+      "lng": -109.156857,
+      "recorded_at": "2026-04-28T06:39:23Z"
+    }
+  },
+  {
+    "id": "veh_0204",
+    "account_id": "acc_0032",
+    "vin": "C5Z868HKHZFPVML9U",
+    "plate": "8IFW578",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2022,
+    "device_id": "dev_0204",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 35.474317,
+      "lng": -67.273501,
+      "recorded_at": "2026-04-30T10:47:54Z"
+    }
+  },
+  {
+    "id": "veh_0205",
+    "account_id": "acc_0022",
+    "vin": "BVH20GXKBF676UAYC",
+    "plate": "3NCH886",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0205",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 36.954659,
+      "lng": -118.624602,
+      "recorded_at": "2026-04-23T14:13:15Z"
+    }
+  },
+  {
+    "id": "veh_0206",
+    "account_id": "acc_0005",
+    "vin": "1F2TMS2FBPL12VKHW",
+    "plate": "4BZU389",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0206",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.7561,
+      "lng": -120.834504,
+      "recorded_at": "2026-04-26T17:40:36Z"
+    }
+  },
+  {
+    "id": "veh_0207",
+    "account_id": "acc_0029",
+    "vin": "17U4F40M44FC9Y6RK",
+    "plate": "3LVD952",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2020,
+    "device_id": "dev_0207",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.818964,
+      "lng": -112.607338,
+      "recorded_at": "2026-04-24T03:10:36Z"
+    }
+  },
+  {
+    "id": "veh_0208",
+    "account_id": "acc_0009",
+    "vin": "WS4VDEC9G943G6TZT",
+    "plate": "5ONC920",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2013,
+    "device_id": "dev_0208",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 36.462673,
+      "lng": -115.529427,
+      "recorded_at": "2026-04-30T07:15:42Z"
+    }
+  },
+  {
+    "id": "veh_0209",
+    "account_id": "acc_0046",
+    "vin": "WX65TYMPMFTG4BA2H",
+    "plate": "8FZF963",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2014,
+    "device_id": "dev_0209",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 34.430976,
+      "lng": -119.252438,
+      "recorded_at": "2026-04-24T21:58:05Z"
+    }
+  },
+  {
+    "id": "veh_0210",
+    "account_id": "acc_0044",
+    "vin": "2WFJJANHBNBP7KS4N",
+    "plate": "8JTT469",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0210",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.575895,
+      "lng": -69.100928,
+      "recorded_at": "2026-04-28T16:50:38Z"
+    }
+  },
+  {
+    "id": "veh_0211",
+    "account_id": "acc_0032",
+    "vin": "7B5SNV2DYAG438VC8",
+    "plate": "7ADF256",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2019,
+    "device_id": "dev_0211",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0212",
+    "account_id": "acc_0042",
+    "vin": "37H8Z54BLVN7Z5R9R",
+    "plate": "1QAN690",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2021,
+    "device_id": "dev_0212",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 32.580404,
+      "lng": -120.379898,
+      "recorded_at": "2026-04-24T19:32:57Z"
+    }
+  },
+  {
+    "id": "veh_0213",
+    "account_id": "acc_0048",
+    "vin": "07LPVF7JMNL8G38WS",
+    "plate": "5XWM526",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0213",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.993938,
+      "lng": -85.632884,
+      "recorded_at": "2026-04-30T06:43:09Z"
+    }
+  },
+  {
+    "id": "veh_0214",
+    "account_id": "acc_0003",
+    "vin": "EY4HRHR8TYZCUK9GD",
+    "plate": "5LVF278",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0214",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.870769,
+      "lng": -73.015924,
+      "recorded_at": "2026-04-29T03:41:21Z"
+    }
+  },
+  {
+    "id": "veh_0215",
+    "account_id": "acc_0014",
+    "vin": "0LV598GK0YJHN53AS",
+    "plate": "2RBQ207",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2017,
+    "device_id": "dev_0215",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.009111,
+      "lng": -117.270617,
+      "recorded_at": "2026-04-28T10:06:59Z"
+    }
+  },
+  {
+    "id": "veh_0216",
+    "account_id": "acc_0010",
+    "vin": "3RJ43360B5KAEFYX2",
+    "plate": "5LWY524",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2018,
+    "device_id": "dev_0216",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.655442,
+      "lng": -86.09527,
+      "recorded_at": "2026-04-30T01:11:45Z"
+    }
+  },
+  {
+    "id": "veh_0217",
+    "account_id": "acc_0027",
+    "vin": "2WXZAUK25P5Z2NWFC",
+    "plate": "1UWZ776",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2018,
+    "device_id": "dev_0217",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.01952,
+      "lng": -68.558315,
+      "recorded_at": "2026-04-28T23:17:54Z"
+    }
+  },
+  {
+    "id": "veh_0218",
+    "account_id": "acc_0049",
+    "vin": "LBBTSW49HD0T9ZHDH",
+    "plate": "9JGC623",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2016,
+    "device_id": "dev_0218",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.24286,
+      "lng": -94.283856,
+      "recorded_at": "2026-04-30T10:28:54Z"
+    }
+  },
+  {
+    "id": "veh_0219",
+    "account_id": "acc_0041",
+    "vin": "RZWVJ1SGXN06GK43F",
+    "plate": "6HZX695",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2012,
+    "device_id": "dev_0219",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 38.574333,
+      "lng": -73.022683,
+      "recorded_at": "2026-04-28T22:06:59Z"
+    }
+  },
+  {
+    "id": "veh_0220",
+    "account_id": "acc_0034",
+    "vin": "2T84583LK9J86J9HP",
+    "plate": "4OCL793",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2019,
+    "device_id": "dev_0220",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.630134,
+      "lng": -90.470351,
+      "recorded_at": "2026-04-28T14:19:02Z"
+    }
+  },
+  {
+    "id": "veh_0221",
+    "account_id": "acc_0003",
+    "vin": "KH0W0WV8BKK3DWVPM",
+    "plate": "6DTN212",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0221",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.900794,
+      "lng": -91.409409,
+      "recorded_at": "2026-04-26T06:26:56Z"
+    }
+  },
+  {
+    "id": "veh_0222",
+    "account_id": "acc_0025",
+    "vin": "7JJ9655KXF31R2YC5",
+    "plate": "1NPS417",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2016,
+    "device_id": "dev_0222",
+    "status": "parked",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0223",
+    "account_id": "acc_0040",
+    "vin": "DN79BHMBUPS5FX2C8",
+    "plate": "5RUD759",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2017,
+    "device_id": "dev_0223",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.424468,
+      "lng": -113.031676,
+      "recorded_at": "2026-04-25T11:08:28Z"
+    }
+  },
+  {
+    "id": "veh_0224",
+    "account_id": "acc_0011",
+    "vin": "VKMTFKW3LDXMBDW1G",
+    "plate": "9KMI193",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2014,
+    "device_id": "dev_0224",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.751471,
+      "lng": -118.337983,
+      "recorded_at": "2026-04-26T13:33:54Z"
+    }
+  },
+  {
+    "id": "veh_0225",
+    "account_id": "acc_0032",
+    "vin": "991HUDX63E7B3RBUG",
+    "plate": "7DBG345",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2024,
+    "device_id": "dev_0225",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.05121,
+      "lng": -90.596343,
+      "recorded_at": "2026-04-28T23:25:29Z"
+    }
+  },
+  {
+    "id": "veh_0226",
+    "account_id": "acc_0024",
+    "vin": "LS45CA6VLAD7UT1ZP",
+    "plate": "7OCU612",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0226",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.882966,
+      "lng": -68.829044,
+      "recorded_at": "2026-04-24T00:26:07Z"
+    }
+  },
+  {
+    "id": "veh_0227",
+    "account_id": "acc_0036",
+    "vin": "U4P9XYT5USXYP6YBJ",
+    "plate": "2JCM815",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0227",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.951447,
+      "lng": -116.039935,
+      "recorded_at": "2026-04-30T09:12:37Z"
+    }
+  },
+  {
+    "id": "veh_0228",
+    "account_id": "acc_0042",
+    "vin": "EB5HZ1Z1MAH60N5AR",
+    "plate": "7RWW600",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2024,
+    "device_id": "dev_0228",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.299166,
+      "lng": -93.326507,
+      "recorded_at": "2026-04-26T03:46:38Z"
+    }
+  },
+  {
+    "id": "veh_0229",
+    "account_id": "acc_0032",
+    "vin": "0CU8PAN2HU98LNMEJ",
+    "plate": "2TUJ927",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2014,
+    "device_id": "dev_0229",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.227429,
+      "lng": -110.647297,
+      "recorded_at": "2026-04-23T14:00:14Z"
+    }
+  },
+  {
+    "id": "veh_0230",
+    "account_id": "acc_0045",
+    "vin": "T6A4DX43UH680CRDU",
+    "plate": "9XZI296",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2020,
+    "device_id": "dev_0230",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.344012,
+      "lng": -122.682302,
+      "recorded_at": "2026-04-30T10:29:51Z"
+    }
+  },
+  {
+    "id": "veh_0231",
+    "account_id": "acc_0045",
+    "vin": "4ESNLYWEGB74BYTSG",
+    "plate": "4KCS927",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2015,
+    "device_id": "dev_0231",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 25.608927,
+      "lng": -81.965682,
+      "recorded_at": "2026-04-29T20:08:44Z"
+    }
+  },
+  {
+    "id": "veh_0232",
+    "account_id": "acc_0007",
+    "vin": "5HFDC1XEJD5DW4EGD",
+    "plate": "9ZHC894",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2016,
+    "device_id": "dev_0232",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 39.399153,
+      "lng": -99.00382,
+      "recorded_at": "2026-04-25T15:00:05Z"
+    }
+  },
+  {
+    "id": "veh_0233",
+    "account_id": "acc_0030",
+    "vin": "4GYB6YNGGAENJ9TZ3",
+    "plate": "7HTZ775",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2023,
+    "device_id": "dev_0233",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 39.976196,
+      "lng": -98.155559,
+      "recorded_at": "2026-04-28T05:50:46Z"
+    }
+  },
+  {
+    "id": "veh_0234",
+    "account_id": "acc_0042",
+    "vin": "ZWKK7WYV0AKDS9D4Z",
+    "plate": "3ZBB230",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0234",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 32.480005,
+      "lng": -99.156657,
+      "recorded_at": "2026-04-28T01:22:43Z"
+    }
+  },
+  {
+    "id": "veh_0235",
+    "account_id": "acc_0045",
+    "vin": "YYW3YLG6C8RARR6PS",
+    "plate": "6GVP811",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2023,
+    "device_id": "dev_0235",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.604184,
+      "lng": -97.358064,
+      "recorded_at": "2026-04-26T11:26:22Z"
+    }
+  },
+  {
+    "id": "veh_0236",
+    "account_id": "acc_0036",
+    "vin": "HKV5N0CBNNVMRTMYS",
+    "plate": "4MFA471",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2015,
+    "device_id": "dev_0236",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.23741,
+      "lng": -103.60046,
+      "recorded_at": "2026-04-27T07:44:55Z"
+    }
+  },
+  {
+    "id": "veh_0237",
+    "account_id": "acc_0014",
+    "vin": "W6S00L4EHKJNN10X4",
+    "plate": "1VEM770",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2015,
+    "device_id": "dev_0237",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 43.897938,
+      "lng": -117.674766,
+      "recorded_at": "2026-04-28T04:55:13Z"
+    }
+  },
+  {
+    "id": "veh_0238",
+    "account_id": "acc_0009",
+    "vin": "98PF7EL919086MX07",
+    "plate": "5ZEK353",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0238",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.278215,
+      "lng": -78.650121,
+      "recorded_at": "2026-04-25T15:12:58Z"
+    }
+  },
+  {
+    "id": "veh_0239",
+    "account_id": "acc_0020",
+    "vin": "41L0TFJFV5ZRC69Y4",
+    "plate": "1GHG562",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0239",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.716038,
+      "lng": -101.433701,
+      "recorded_at": "2026-04-26T00:57:16Z"
+    }
+  },
+  {
+    "id": "veh_0240",
+    "account_id": "acc_0005",
+    "vin": "ZFV99FURGHE0CNYNY",
+    "plate": "6IMA283",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2016,
+    "device_id": "dev_0240",
+    "status": "parked",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0241",
+    "account_id": "acc_0020",
+    "vin": "VZ22A79K2RRP7R66Y",
+    "plate": "3YWX656",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0241",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.897181,
+      "lng": -123.513569,
+      "recorded_at": "2026-04-25T07:06:18Z"
+    }
+  },
+  {
+    "id": "veh_0242",
+    "account_id": "acc_0009",
+    "vin": "WA8ZYR342WXBCJKY2",
+    "plate": "4OOR130",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2015,
+    "device_id": "dev_0242",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 33.992804,
+      "lng": -91.082018,
+      "recorded_at": "2026-04-29T17:26:37Z"
+    }
+  },
+  {
+    "id": "veh_0243",
+    "account_id": "acc_0020",
+    "vin": "FLGMC8BMNE1VPRVE6",
+    "plate": "7GPD436",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0243",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.66836,
+      "lng": -98.262486,
+      "recorded_at": "2026-04-28T09:57:08Z"
+    }
+  },
+  {
+    "id": "veh_0244",
+    "account_id": "acc_0005",
+    "vin": "1PJPW47LWN96UNAK5",
+    "plate": "7MFD232",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0244",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.874872,
+      "lng": -96.739685,
+      "recorded_at": "2026-04-27T12:06:10Z"
+    }
+  },
+  {
+    "id": "veh_0245",
+    "account_id": "acc_0019",
+    "vin": "6ZW2M3SM461MG2CSL",
+    "plate": "6SPO573",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "device_id": "dev_0245",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.827186,
+      "lng": -81.974429,
+      "recorded_at": "2026-04-29T16:33:34Z"
+    }
+  },
+  {
+    "id": "veh_0246",
+    "account_id": "acc_0007",
+    "vin": "9X35LTP9C6BE61Y2N",
+    "plate": "8NYR224",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2012,
+    "device_id": "dev_0246",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.887593,
+      "lng": -119.637583,
+      "recorded_at": "2026-04-29T02:35:47Z"
+    }
+  },
+  {
+    "id": "veh_0247",
+    "account_id": "acc_0043",
+    "vin": "S5J7ULLBGMVH2LEAU",
+    "plate": "6VXO596",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2019,
+    "device_id": "dev_0247",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.072568,
+      "lng": -119.294728,
+      "recorded_at": "2026-04-27T20:53:23Z"
+    }
+  },
+  {
+    "id": "veh_0248",
+    "account_id": "acc_0042",
+    "vin": "G1W5DAD1NS0SNFB3B",
+    "plate": "9GOW148",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2017,
+    "device_id": "dev_0248",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 45.076027,
+      "lng": -77.743826,
+      "recorded_at": "2026-04-29T17:36:00Z"
+    }
+  },
+  {
+    "id": "veh_0249",
+    "account_id": "acc_0007",
+    "vin": "XXNP24HRPGZXMA2XA",
+    "plate": "2ZVF841",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2015,
+    "device_id": "dev_0249",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.009134,
+      "lng": -100.306239,
+      "recorded_at": "2026-04-29T16:46:17Z"
+    }
+  },
+  {
+    "id": "veh_0250",
+    "account_id": "acc_0007",
+    "vin": "LTGX1JYMX7EYB519R",
+    "plate": "6BCG520",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2015,
+    "device_id": "dev_0250",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 32.236822,
+      "lng": -89.864462,
+      "recorded_at": "2026-04-28T23:51:58Z"
+    }
+  },
+  {
+    "id": "veh_0251",
+    "account_id": "acc_0024",
+    "vin": "8VNK1PCS5YJUXC3VB",
+    "plate": "4XNY349",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0251",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.874389,
+      "lng": -120.584388,
+      "recorded_at": "2026-04-26T08:10:24Z"
+    }
+  },
+  {
+    "id": "veh_0252",
+    "account_id": "acc_0015",
+    "vin": "1XM5AE8ENDKPJFMPS",
+    "plate": "4RBV354",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2018,
+    "device_id": "dev_0252",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.234843,
+      "lng": -84.312151,
+      "recorded_at": "2026-04-26T17:16:48Z"
+    }
+  },
+  {
+    "id": "veh_0253",
+    "account_id": "acc_0029",
+    "vin": "NU7F021L75494K7B1",
+    "plate": "4HNF720",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0253",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.975266,
+      "lng": -107.734885,
+      "recorded_at": "2026-04-26T20:33:05Z"
+    }
+  },
+  {
+    "id": "veh_0254",
+    "account_id": "acc_0030",
+    "vin": "V17EYJ7NKNAA90823",
+    "plate": "9ERX279",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0254",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.175001,
+      "lng": -97.57188,
+      "recorded_at": "2026-04-24T13:24:29Z"
+    }
+  },
+  {
+    "id": "veh_0255",
+    "account_id": "acc_0049",
+    "vin": "4TZ980D14SS7C0BKT",
+    "plate": "2NBD494",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0255",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.371109,
+      "lng": -114.745344,
+      "recorded_at": "2026-04-27T11:56:07Z"
+    }
+  },
+  {
+    "id": "veh_0256",
+    "account_id": "acc_0026",
+    "vin": "FN4L4TW91W3FGZKUP",
+    "plate": "3ADY194",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0256",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.465537,
+      "lng": -71.737677,
+      "recorded_at": "2026-04-28T10:57:02Z"
+    }
+  },
+  {
+    "id": "veh_0257",
+    "account_id": "acc_0019",
+    "vin": "4LM0MJN8M9H5PMNDM",
+    "plate": "1DCY813",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0257",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 35.028151,
+      "lng": -100.239988,
+      "recorded_at": "2026-04-25T12:55:51Z"
+    }
+  },
+  {
+    "id": "veh_0258",
+    "account_id": "acc_0005",
+    "vin": "YBS78GADUACGPA1U8",
+    "plate": "2ufc400 ",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2024,
+    "device_id": "dev_0258",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.05697,
+      "lng": -116.89315,
+      "recorded_at": "2026-04-25T06:54:46Z"
+    }
+  },
+  {
+    "id": "veh_0259",
+    "account_id": "acc_0026",
+    "vin": "1DZYGA62JBHUS0579",
+    "plate": "6VKK936",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0259",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.750329,
+      "lng": -103.410994,
+      "recorded_at": "2026-04-26T14:09:27Z"
+    }
+  },
+  {
+    "id": "veh_0260",
+    "account_id": "acc_0032",
+    "vin": "2FZ47G1VNK9CJ8FW6",
+    "plate": "6BZX433",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2019,
+    "device_id": "dev_0260",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 41.270306,
+      "lng": -110.687157,
+      "recorded_at": "2026-04-24T15:33:30Z"
+    }
+  },
+  {
+    "id": "veh_0261",
+    "account_id": "acc_0007",
+    "vin": "4BLX1URT7HJ8FYREY",
+    "plate": "4HGF871",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0261",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 47.661037,
+      "lng": -84.105187,
+      "recorded_at": "2026-04-25T20:50:11Z"
+    }
+  },
+  {
+    "id": "veh_0262",
+    "account_id": "acc_0006",
+    "vin": "YNH0JX1AWDN14X0JR",
+    "plate": "7ZHH365",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0262",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.776559,
+      "lng": -119.002221,
+      "recorded_at": "2026-04-24T21:50:23Z"
+    }
+  },
+  {
+    "id": "veh_0263",
+    "account_id": "acc_0010",
+    "vin": "CXW9HU7P8V1DYKPRD",
+    "plate": "3JHP796",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0263",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.938829,
+      "lng": -89.716471,
+      "recorded_at": "2026-04-25T17:52:40Z"
+    }
+  },
+  {
+    "id": "veh_0264",
+    "account_id": "acc_0023",
+    "vin": "22EVVN2GJXDW6LJ57",
+    "plate": "3ARM445",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2014,
+    "device_id": "dev_0264",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.138499,
+      "lng": -97.014968,
+      "recorded_at": "2026-04-28T03:00:41Z"
+    }
+  },
+  {
+    "id": "veh_0265",
+    "account_id": "acc_0025",
+    "vin": "4LDGZ7MDH9Y4K2SCH",
+    "plate": "6XSD794",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2018,
+    "device_id": "dev_0265",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.851982,
+      "lng": -75.069447,
+      "recorded_at": "2026-04-28T09:45:35Z"
+    }
+  },
+  {
+    "id": "veh_0266",
+    "account_id": "acc_0024",
+    "vin": "AHHFH89RB7UGM174W",
+    "plate": "2YOU491",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0266",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.605185,
+      "lng": -86.767858,
+      "recorded_at": "2026-04-23T23:26:19Z"
+    }
+  },
+  {
+    "id": "veh_0267",
+    "account_id": "acc_0034",
+    "vin": "8EHPHMMA5XHCJPLFT",
+    "plate": "7WAM669",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0267",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 44.619108,
+      "lng": -79.34195,
+      "recorded_at": "2026-04-24T08:34:26Z"
+    }
+  },
+  {
+    "id": "veh_0268",
+    "account_id": "acc_0034",
+    "vin": "V5J8XZ9PGCSCNKWPJ",
+    "plate": "6RFN773",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2021,
+    "device_id": "dev_0268",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.002054,
+      "lng": -106.865801,
+      "recorded_at": "2026-04-28T22:34:27Z"
+    }
+  },
+  {
+    "id": "veh_0269",
+    "account_id": "acc_0026",
+    "vin": "6FT4KPEUN09L3KX41",
+    "plate": "7CRI366",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0269",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.162776,
+      "lng": -72.491384,
+      "recorded_at": "2026-04-27T05:19:14Z"
+    }
+  },
+  {
+    "id": "veh_0270",
+    "account_id": "acc_0024",
+    "vin": "YUKRUAG1R1GHMW8GZ",
+    "plate": "9DVR516",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2021,
+    "device_id": "dev_0270",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 26.583025,
+      "lng": -87.509883,
+      "recorded_at": "2026-04-23T19:21:07Z"
+    }
+  },
+  {
+    "id": "veh_0271",
+    "account_id": "acc_0048",
+    "vin": "27JTA9KJK1UD0S36M",
+    "plate": "2BFK869",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0271",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 34.34952,
+      "lng": -104.325145,
+      "recorded_at": "2026-04-24T09:42:55Z"
+    }
+  },
+  {
+    "id": "veh_0272",
+    "account_id": "acc_0006",
+    "vin": "W3XFFESFLDFV8A49J",
+    "plate": "5NQW933",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0272",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.490338,
+      "lng": -87.768791,
+      "recorded_at": "2026-04-24T00:55:29Z"
+    }
+  },
+  {
+    "id": "veh_0273",
+    "account_id": "acc_0045",
+    "vin": "ZSC5LRME0J9ZD481L",
+    "plate": "7ATG951",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2013,
+    "device_id": "dev_0273",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.902014,
+      "lng": -83.292876,
+      "recorded_at": "2026-04-27T11:15:03Z"
+    }
+  },
+  {
+    "id": "veh_0274",
+    "account_id": "acc_0041",
+    "vin": "2PW9C68DZA6YWZGAZ",
+    "plate": "2JJP400",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0274",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.354019,
+      "lng": -123.872644,
+      "recorded_at": "2026-04-29T06:29:00Z"
+    }
+  },
+  {
+    "id": "veh_0275",
+    "account_id": "acc_0032",
+    "vin": "AKTR720W04MUG55LJ",
+    "plate": "8GCQ626",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0275",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0276",
+    "account_id": "acc_0003",
+    "vin": "LN7UH388JX291JHGB",
+    "plate": "2GJB236",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2014,
+    "device_id": "dev_0276",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.469104,
+      "lng": -81.596333,
+      "recorded_at": "2026-04-30T08:01:29Z"
+    }
+  },
+  {
+    "id": "veh_0277",
+    "account_id": "acc_0019",
+    "vin": "V8F4SK9MSUHTS4N7G",
+    "plate": "1VKN711",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0277",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 42.698357,
+      "lng": -99.243275,
+      "recorded_at": "2026-04-28T16:40:50Z"
+    }
+  },
+  {
+    "id": "veh_0278",
+    "account_id": "acc_0028",
+    "vin": "BNFD13WRRY47D94DW",
+    "plate": "2EMB380",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2016,
+    "device_id": "dev_0278",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.769571,
+      "lng": -71.041395,
+      "recorded_at": "2026-04-26T05:45:25Z"
+    }
+  },
+  {
+    "id": "veh_0279",
+    "account_id": "acc_0021",
+    "vin": "PV7UG4MT80YWHGAJY",
+    "plate": "4KBF141",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0279",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.012862,
+      "lng": -86.355447,
+      "recorded_at": "2026-04-24T01:57:28Z"
+    }
+  },
+  {
+    "id": "veh_0280",
+    "account_id": "acc_0007",
+    "vin": "JHCNN5GEYW7NKCJN3",
+    "plate": "6HUI315",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0280",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 39.023853,
+      "lng": -119.027823,
+      "recorded_at": "2026-04-23T16:47:15Z"
+    }
+  },
+  {
+    "id": "veh_0281",
+    "account_id": "acc_0027",
+    "vin": "9BLUJVCDN289EL591",
+    "plate": "6OUW220",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "device_id": "dev_0281",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.86038,
+      "lng": -120.140616,
+      "recorded_at": "2026-04-27T23:43:44Z"
+    }
+  },
+  {
+    "id": "veh_0282",
+    "account_id": "acc_0033",
+    "vin": "69TWRVUHLRCSVCKUJ",
+    "plate": "1FSG706",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0282",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.721322,
+      "lng": -73.888164,
+      "recorded_at": "2026-04-27T11:28:17Z"
+    }
+  },
+  {
+    "id": "veh_0283",
+    "account_id": "acc_0021",
+    "vin": "FTJ3VXDAZRUMTBG1T",
+    "plate": "9DAU455",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2025,
+    "device_id": "dev_0283",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.184389,
+      "lng": -68.583538,
+      "recorded_at": "2026-04-26T13:33:06Z"
+    }
+  },
+  {
+    "id": "veh_0284",
+    "account_id": "acc_0015",
+    "vin": "40K7F8M6MMN8MVBWL",
+    "plate": "4SUZ978",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2025,
+    "device_id": "dev_0284",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.069545,
+      "lng": -115.128436,
+      "recorded_at": "2026-04-28T05:17:08Z"
+    }
+  },
+  {
+    "id": "veh_0285",
+    "account_id": "acc_0007",
+    "vin": "JAG11BHACJSFUKAAG",
+    "plate": "3CNH565",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2023,
+    "device_id": "dev_0285",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 46.819145,
+      "lng": -68.688028,
+      "recorded_at": "2026-04-29T11:15:08Z"
+    }
+  },
+  {
+    "id": "veh_0286",
+    "account_id": "acc_0031",
+    "vin": "KSDUHBCGVG93KARBR",
+    "plate": "3PYS554",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2018,
+    "device_id": "dev_0286",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.571158,
+      "lng": -106.479055,
+      "recorded_at": "2026-04-27T00:27:00Z"
+    }
+  },
+  {
+    "id": "veh_0287",
+    "account_id": "acc_0007",
+    "vin": "VZEYH0FCKM4YM4KWV",
+    "plate": "7VWD603",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2013,
+    "device_id": "dev_0287",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 29.069417,
+      "lng": -117.722268,
+      "recorded_at": "2026-04-24T10:34:58Z"
+    }
+  },
+  {
+    "id": "veh_0288",
+    "account_id": "acc_0010",
+    "vin": "KXK157EH4UKFXJM1Z",
+    "plate": "5ZWZ178",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0288",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.932547,
+      "lng": -74.882303,
+      "recorded_at": "2026-04-25T11:25:48Z"
+    }
+  },
+  {
+    "id": "veh_0289",
+    "account_id": "acc_0035",
+    "vin": "8R1F3RFS0APB07JHD",
+    "plate": "6EZU351",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0289",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 34.196445,
+      "lng": -92.687662,
+      "recorded_at": "2026-04-28T19:24:42Z"
+    }
+  },
+  {
+    "id": "veh_0290",
+    "account_id": "acc_0048",
+    "vin": "JHK1B40DGE7LBK0KF",
+    "plate": "8ERN348",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2013,
+    "device_id": "dev_0290",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.057697,
+      "lng": -111.19853,
+      "recorded_at": "2026-04-25T10:41:14Z"
+    }
+  },
+  {
+    "id": "veh_0291",
+    "account_id": "acc_0031",
+    "vin": "3Y5AVHKDCM9LA246T",
+    "plate": "3PXE866",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2023,
+    "device_id": "dev_0291",
+    "status": "active",
+    "last_known_location": {
+      "lat": 37.658801,
+      "lng": -69.920351,
+      "recorded_at": "2026-04-28T14:19:43Z"
+    }
+  },
+  {
+    "id": "veh_0292",
+    "account_id": "acc_0015",
+    "vin": "2ME67X21LD04NUGGE",
+    "plate": "2QME860",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2021,
+    "device_id": "dev_0292",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.084742,
+      "lng": -88.714506,
+      "recorded_at": "2026-04-26T10:17:13Z"
+    }
+  },
+  {
+    "id": "veh_0293",
+    "account_id": "acc_0049",
+    "vin": "WNNCSUFC7CDXFWAZV",
+    "plate": "4JFR209",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2020,
+    "device_id": "dev_0293",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.56766,
+      "lng": -89.964687,
+      "recorded_at": "2026-04-25T18:13:03Z"
+    }
+  },
+  {
+    "id": "veh_0294",
+    "account_id": "acc_0007",
+    "vin": "9KB17CVLK6FFRPKL9",
+    "plate": "3WVD439",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2019,
+    "device_id": "dev_0294",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 34.774877,
+      "lng": -81.737274,
+      "recorded_at": "2026-04-26T09:15:12Z"
+    }
+  },
+  {
+    "id": "veh_0295",
+    "account_id": "acc_0014",
+    "vin": "EK8GAKWF8G6XLVLEU",
+    "plate": "6TNB829",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0295",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.5802,
+      "lng": -101.904847,
+      "recorded_at": "2026-04-28T07:48:30Z"
+    }
+  },
+  {
+    "id": "veh_0296",
+    "account_id": "acc_0008",
+    "vin": "8C0V23J509X0F395T",
+    "plate": "5PIY997",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0296",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 35.609089,
+      "lng": -71.322836,
+      "recorded_at": "2026-04-29T19:22:50Z"
+    }
+  },
+  {
+    "id": "veh_0297",
+    "account_id": "acc_0005",
+    "vin": "R16FZ666GFMG24N2Y",
+    "plate": "9AED397",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0297",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.019721,
+      "lng": -91.502378,
+      "recorded_at": "2026-04-24T14:21:23Z"
+    }
+  },
+  {
+    "id": "veh_0298",
+    "account_id": "acc_0010",
+    "vin": "PXC1D047PDPB4UTMF",
+    "plate": "8DIO139",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0298",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.081949,
+      "lng": -69.93358,
+      "recorded_at": "2026-04-29T12:12:02Z"
+    }
+  },
+  {
+    "id": "veh_0299",
+    "account_id": "acc_0004",
+    "vin": "F4YWLNZ377L4Z1ANE",
+    "plate": "8NQG785",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2017,
+    "device_id": "dev_0299",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.433761,
+      "lng": -113.507537,
+      "recorded_at": "2026-04-26T15:48:30Z"
+    }
+  },
+  {
+    "id": "veh_0300",
+    "account_id": "acc_0044",
+    "vin": "3TA5J5GCPN3L1PZPN",
+    "plate": "3OEP985",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2021,
+    "device_id": "dev_0300",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 32.593788,
+      "lng": -78.855041,
+      "recorded_at": "2026-04-26T00:09:19Z"
+    }
+  },
+  {
+    "id": "veh_0301",
+    "account_id": "acc_0042",
+    "vin": "633ZZ4YHM640ML41V",
+    "plate": "1JJQ938",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0301",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.826196,
+      "lng": -84.138923,
+      "recorded_at": "2026-04-29T07:05:55Z"
+    }
+  },
+  {
+    "id": "veh_0302",
+    "account_id": "acc_0048",
+    "vin": "G59CV3PR61HN7HZ63",
+    "plate": "2CUA731",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2023,
+    "device_id": "dev_0302",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 47.379922,
+      "lng": -118.090508,
+      "recorded_at": "2026-04-25T16:42:45Z"
+    }
+  },
+  {
+    "id": "veh_0303",
+    "account_id": "acc_0020",
+    "vin": "3SA3CABK0XYL4S2N2",
+    "plate": "6ZHQ390",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "device_id": "dev_0303",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 31.422619,
+      "lng": -86.455135,
+      "recorded_at": "2026-04-25T07:00:54Z"
+    }
+  },
+  {
+    "id": "veh_0304",
+    "account_id": "acc_0007",
+    "vin": "J9H2TLXPFFB4AKBF1",
+    "plate": "7XFM425",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2023,
+    "device_id": "dev_0304",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 37.41465,
+      "lng": -99.06811,
+      "recorded_at": "2026-04-24T23:50:55Z"
+    }
+  },
+  {
+    "id": "veh_0305",
+    "account_id": "acc_0047",
+    "vin": "1TDUFKBGH6HGKVTMF",
+    "plate": "3HUH404",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2019,
+    "device_id": "dev_0305",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 29.651894,
+      "lng": -76.093963,
+      "recorded_at": "2026-04-27T23:25:26Z"
+    }
+  },
+  {
+    "id": "veh_0306",
+    "account_id": "acc_0005",
+    "vin": "P31X5LMWAMCHYZ7AL",
+    "plate": "2PZA523",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2013,
+    "device_id": "dev_0306",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.765823,
+      "lng": -69.324621,
+      "recorded_at": "2026-04-30T03:23:30Z"
+    }
+  },
+  {
+    "id": "veh_0307",
+    "account_id": "acc_0014",
+    "vin": "BXJRFJUU7NFZV6849",
+    "plate": "1QQY256",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0307",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0308",
+    "account_id": "acc_0014",
+    "vin": "8454UXG14NZ0E5LC9",
+    "plate": "7DSZ884",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2021,
+    "device_id": "dev_0308",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.101893,
+      "lng": -114.557772,
+      "recorded_at": "2026-04-24T01:28:53Z"
+    }
+  },
+  {
+    "id": "veh_0309",
+    "account_id": "acc_0023",
+    "vin": "SEP00KXHAXAYP6XRE",
+    "plate": "7ADF928",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2016,
+    "device_id": "dev_0309",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 32.744348,
+      "lng": -78.918907,
+      "recorded_at": "2026-04-24T02:25:26Z"
+    }
+  },
+  {
+    "id": "veh_0310",
+    "account_id": "acc_0043",
+    "vin": "E34XXNND88CU3HH5L",
+    "plate": "2RIW722",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2021,
+    "device_id": "dev_0310",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.710505,
+      "lng": -77.97669,
+      "recorded_at": "2026-04-23T12:06:27Z"
+    }
+  },
+  {
+    "id": "veh_0311",
+    "account_id": "acc_0030",
+    "vin": "VJ2CCYBE7G3WUXZ2F",
+    "plate": "5AUZ976",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2024,
+    "device_id": "dev_0311",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.81821,
+      "lng": -123.73512,
+      "recorded_at": "2026-04-29T22:17:21Z"
+    }
+  },
+  {
+    "id": "veh_0312",
+    "account_id": "acc_0024",
+    "vin": "GBRDAJGX4RLFN0ADT",
+    "plate": "5WOP969",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2013,
+    "device_id": "dev_0312",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.386331,
+      "lng": -72.103106,
+      "recorded_at": "2026-04-26T19:22:09Z"
+    }
+  },
+  {
+    "id": "veh_0313",
+    "account_id": "acc_0011",
+    "vin": "J6HJXK35HS78UX7RF",
+    "plate": "5KWT910",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2024,
+    "device_id": "dev_0313",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.499653,
+      "lng": -108.615013,
+      "recorded_at": "2026-04-29T11:53:04Z"
+    }
+  },
+  {
+    "id": "veh_0314",
+    "account_id": "acc_0005",
+    "vin": "8DPAP61N8GYP9XW6K",
+    "plate": "9HVU852",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2014,
+    "device_id": "dev_0314",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.540723,
+      "lng": -84.386991,
+      "recorded_at": "2026-04-26T02:04:52Z"
+    }
+  },
+  {
+    "id": "veh_0315",
+    "account_id": "acc_0028",
+    "vin": "LWGK6GHSB6MUB75ZT",
+    "plate": "8TQG898",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2020,
+    "device_id": "dev_0315",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.604918,
+      "lng": -120.087559,
+      "recorded_at": "2026-04-25T06:19:28Z"
+    }
+  },
+  {
+    "id": "veh_0316",
+    "account_id": "acc_0024",
+    "vin": "GD14NVN2MU84GDSHR",
+    "plate": "3MQN620",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2012,
+    "device_id": "dev_0316",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 33.009748,
+      "lng": -98.843586,
+      "recorded_at": "2026-04-23T12:27:08Z"
+    }
+  },
+  {
+    "id": "veh_0317",
+    "account_id": "acc_0046",
+    "vin": "222GRU8PLPZVVAGM9",
+    "plate": "4CRD382",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2023,
+    "device_id": "dev_0317",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.43516,
+      "lng": -88.647418,
+      "recorded_at": "2026-04-27T14:29:50Z"
+    }
+  },
+  {
+    "id": "veh_0318",
+    "account_id": "acc_0001",
+    "vin": "74YBMTELAZ7A8S7HC",
+    "plate": "6VCF291",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2021,
+    "device_id": "dev_0318",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 32.971728,
+      "lng": -98.05267,
+      "recorded_at": "2026-04-26T23:20:23Z"
+    }
+  },
+  {
+    "id": "veh_0319",
+    "account_id": "acc_0048",
+    "vin": "Y58ZT8T06AZWY7HUB",
+    "plate": "9QFY250",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2018,
+    "device_id": "dev_0319",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 43.606157,
+      "lng": -118.30043,
+      "recorded_at": "2026-04-28T18:44:47Z"
+    }
+  },
+  {
+    "id": "veh_0320",
+    "account_id": "acc_0014",
+    "vin": "FN1GU5MTZY23UWNCY",
+    "plate": "8AHS858",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2018,
+    "device_id": "dev_0320",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.699346,
+      "lng": -99.448931,
+      "recorded_at": "2026-04-23T14:56:52Z"
+    }
+  },
+  {
+    "id": "veh_0321",
+    "account_id": "acc_0034",
+    "vin": "VLW8VEVA6CPVHD8WA",
+    "plate": "5DAP801",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0321",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.531146,
+      "lng": -85.187385,
+      "recorded_at": "2026-04-30T11:48:48Z"
+    }
+  },
+  {
+    "id": "veh_0322",
+    "account_id": "acc_0050",
+    "vin": "KFUKN4FVRC7ZS142G",
+    "plate": "5ELJ904",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2016,
+    "device_id": "dev_0322",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 45.616253,
+      "lng": -86.076418,
+      "recorded_at": "2026-04-28T09:31:20Z"
+    }
+  },
+  {
+    "id": "veh_0323",
+    "account_id": "acc_0017",
+    "vin": "J3NWWFW6M14GJ5X9Z",
+    "plate": "7VKZ692",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2017,
+    "device_id": "dev_0323",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.340233,
+      "lng": -80.24336,
+      "recorded_at": "2026-04-25T09:31:08Z"
+    }
+  },
+  {
+    "id": "veh_0324",
+    "account_id": "acc_0040",
+    "vin": "WS90JVD2J2A66DFDU",
+    "plate": "8ARA885",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2017,
+    "device_id": "dev_0324",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 35.102047,
+      "lng": -80.916182,
+      "recorded_at": "2026-04-26T23:21:49Z"
+    }
+  },
+  {
+    "id": "veh_0325",
+    "account_id": "acc_0048",
+    "vin": "DPK8JRKWWA8NHEAKH",
+    "plate": "8WKB224",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0325",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.771351,
+      "lng": -85.558459,
+      "recorded_at": "2026-04-24T18:00:46Z"
+    }
+  },
+  {
+    "id": "veh_0326",
+    "account_id": "acc_0012",
+    "vin": "ST5H4KBMKSL9N77VV",
+    "plate": "9OMB224",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2013,
+    "device_id": "dev_0326",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 32.19817,
+      "lng": -96.427987,
+      "recorded_at": "2026-04-24T12:24:50Z"
+    }
+  },
+  {
+    "id": "veh_0327",
+    "account_id": "acc_0028",
+    "vin": "KBV6H1AWC5CZJ66UA",
+    "plate": "5MMW919",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2017,
+    "device_id": "dev_0327",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.57606,
+      "lng": -100.236901,
+      "recorded_at": "2026-04-24T09:25:51Z"
+    }
+  },
+  {
+    "id": "veh_0328",
+    "account_id": "acc_0023",
+    "vin": "Y6JUW2E717M9TJXZ2",
+    "plate": "6WQM625",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2012,
+    "device_id": "dev_0328",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.506379,
+      "lng": -86.612603,
+      "recorded_at": "2026-04-28T13:38:09Z"
+    }
+  },
+  {
+    "id": "veh_0329",
+    "account_id": "acc_0050",
+    "vin": "SGM13EDTHCE50BMX",
+    "plate": "2VDP795",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2018,
+    "device_id": "dev_0329",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.433912,
+      "lng": -80.685171,
+      "recorded_at": "2026-04-23T12:52:29Z"
+    }
+  },
+  {
+    "id": "veh_0330",
+    "account_id": "acc_0048",
+    "vin": "L4NFBGPCJA03EYM8N",
+    "plate": "4GIP548",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0330",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 41.292377,
+      "lng": -111.146697,
+      "recorded_at": "2026-04-24T10:07:01Z"
+    }
+  },
+  {
+    "id": "veh_0331",
+    "account_id": "acc_0025",
+    "vin": "EFJWGH8RDYBRVT1ZE",
+    "plate": "6TRE920",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2016,
+    "device_id": "dev_0331",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.611712,
+      "lng": -99.63183,
+      "recorded_at": "2026-04-23T12:24:56Z"
+    }
+  },
+  {
+    "id": "veh_0332",
+    "account_id": "acc_0008",
+    "vin": "7TBCY3TNYDJPYDS8E",
+    "plate": "9TQJ508",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0332",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 39.847478,
+      "lng": -92.881328,
+      "recorded_at": "2026-04-25T10:45:41Z"
+    }
+  },
+  {
+    "id": "veh_0333",
+    "account_id": "acc_0032",
+    "vin": "9RZ47WRBDBN1B7D11",
+    "plate": "2RPE377",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0333",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 42.359915,
+      "lng": -118.068511,
+      "recorded_at": "2026-04-23T19:56:01Z"
+    }
+  },
+  {
+    "id": "veh_0334",
+    "account_id": "acc_0004",
+    "vin": "SRFAR3CASDEDJ5MVC",
+    "plate": "2ODT476",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2017,
+    "device_id": "dev_0334",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.442938,
+      "lng": -104.441839,
+      "recorded_at": "2026-04-27T12:51:32Z"
+    }
+  },
+  {
+    "id": "veh_0335",
+    "account_id": "acc_0017",
+    "vin": "P8ZR5W0VSUX9GDZ38",
+    "plate": "3TMP773",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2013,
+    "device_id": "dev_0335",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.937033,
+      "lng": -119.622181,
+      "recorded_at": "2026-04-28T20:03:28Z"
+    }
+  },
+  {
+    "id": "veh_0336",
+    "account_id": "acc_0010",
+    "vin": "CS56HB8CUU1WFDU18",
+    "plate": "4JXR315",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0336",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.945953,
+      "lng": -82.680087,
+      "recorded_at": "2026-04-25T02:40:12Z"
+    }
+  },
+  {
+    "id": "veh_0337",
+    "account_id": "acc_0020",
+    "vin": "CZBYTPBY44DG1V64T",
+    "plate": "4GMF775",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2018,
+    "device_id": "dev_0337",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.346039,
+      "lng": -121.0212,
+      "recorded_at": "2026-04-27T14:36:41Z"
+    }
+  },
+  {
+    "id": "veh_0338",
+    "account_id": "acc_0035",
+    "vin": "VY2CU0UTAHWXTM56B",
+    "plate": "1IZV380",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2012,
+    "device_id": "dev_0338",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.052885,
+      "lng": -109.753841,
+      "recorded_at": "2026-04-26T03:30:51Z"
+    }
+  },
+  {
+    "id": "veh_0339",
+    "account_id": "acc_0040",
+    "vin": "XE5MTUT8JRMKDRHCM",
+    "plate": "9GNB693",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2021,
+    "device_id": "dev_0339",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 47.532022,
+      "lng": -108.242597,
+      "recorded_at": "2026-04-23T18:48:30Z"
+    }
+  },
+  {
+    "id": "veh_0340",
+    "account_id": "acc_0023",
+    "vin": "CSZGE95H9ESPX03E4",
+    "plate": "1WII116",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0340",
+    "status": "active",
+    "last_known_location": {
+      "lat": 41.281308,
+      "lng": -75.123052,
+      "recorded_at": "2026-04-26T03:03:32Z"
+    }
+  },
+  {
+    "id": "veh_0341",
+    "account_id": "acc_0003",
+    "vin": "VKBGPX99ZP1CK1FER",
+    "plate": "7ULP401",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2020,
+    "device_id": "dev_0341",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.925993,
+      "lng": -114.862169,
+      "recorded_at": "2026-04-24T02:16:48Z"
+    }
+  },
+  {
+    "id": "veh_0342",
+    "account_id": "acc_0037",
+    "vin": "VSYS0R6XHS530FZ9E",
+    "plate": "8VQQ551",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2022,
+    "device_id": "dev_0342",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.606545,
+      "lng": -112.883655,
+      "recorded_at": "2026-04-27T16:54:21Z"
+    }
+  },
+  {
+    "id": "veh_0343",
+    "account_id": "acc_0044",
+    "vin": "JTVYXHF339K8NM6AL",
+    "plate": "7HSE650",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2018,
+    "device_id": "dev_0343",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 30.878654,
+      "lng": -72.171853,
+      "recorded_at": "2026-04-23T18:28:03Z"
+    }
+  },
+  {
+    "id": "veh_0344",
+    "account_id": "acc_0009",
+    "vin": "914ZJ2SVHYYGCEZ53",
+    "plate": "2EBN124",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2023,
+    "device_id": "dev_0344",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 41.561118,
+      "lng": -67.573791,
+      "recorded_at": "2026-04-26T23:44:17Z"
+    }
+  },
+  {
+    "id": "veh_0345",
+    "account_id": "acc_0033",
+    "vin": "FKA061X5M9UGRW8YD",
+    "plate": "3XFX884",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2016,
+    "device_id": "dev_0345",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.149395,
+      "lng": -77.253954,
+      "recorded_at": "2026-04-26T15:12:27Z"
+    }
+  },
+  {
+    "id": "veh_0346",
+    "account_id": "acc_0040",
+    "vin": "XGZVLHVU85RLVTGRU",
+    "plate": "3BXX315",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2013,
+    "device_id": "dev_0346",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.332904,
+      "lng": -108.139395,
+      "recorded_at": "2026-04-24T07:49:52Z"
+    }
+  },
+  {
+    "id": "veh_0347",
+    "account_id": "acc_0002",
+    "vin": "0PV45J6VHH548TFJU",
+    "plate": "1TBR650",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0347",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.175808,
+      "lng": -123.620089,
+      "recorded_at": "2026-04-27T19:12:33Z"
+    }
+  },
+  {
+    "id": "veh_0348",
+    "account_id": "acc_0044",
+    "vin": "EXC4GXNCASJ1RNT7K",
+    "plate": "6FQK382",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2025,
+    "device_id": "dev_0348",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.883137,
+      "lng": -82.075261,
+      "recorded_at": "2026-04-24T11:19:05Z"
+    }
+  },
+  {
+    "id": "veh_0349",
+    "account_id": "acc_0001",
+    "vin": "4E8PMC3T1SZ7MWRV8",
+    "plate": "3GUC628",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2024,
+    "device_id": "dev_0349",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 45.571763,
+      "lng": -81.281579,
+      "recorded_at": "2026-04-26T03:58:45Z"
+    }
+  },
+  {
+    "id": "veh_0350",
+    "account_id": "acc_0049",
+    "vin": "V35XS4HM6XHZ2J783",
+    "plate": "8JDH215",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0350",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.110055,
+      "lng": -72.881351,
+      "recorded_at": "2026-04-24T08:11:01Z"
+    }
+  },
+  {
+    "id": "veh_0351",
+    "account_id": "acc_0026",
+    "vin": "542TDU8RYCW53RLPH",
+    "plate": "7BRY430",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0351",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 31.278526,
+      "lng": -105.895754,
+      "recorded_at": "2026-04-30T06:11:53Z"
+    }
+  },
+  {
+    "id": "veh_0352",
+    "account_id": "acc_0036",
+    "vin": "EDP0NL2RVL0Y3PSAC",
+    "plate": "7CYW441",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2024,
+    "device_id": "dev_0352",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 46.893486,
+      "lng": -80.290003,
+      "recorded_at": "2026-04-29T06:08:20Z"
+    }
+  },
+  {
+    "id": "veh_0353",
+    "account_id": "acc_0041",
+    "vin": "SCUH12JUFEE93BAKG",
+    "plate": "7ZPB260",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0353",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 31.794153,
+      "lng": -122.618071,
+      "recorded_at": "2026-04-26T17:04:06Z"
+    }
+  },
+  {
+    "id": "veh_0354",
+    "account_id": "acc_0017",
+    "vin": "71V4FR3U7V9S1B820",
+    "plate": "7QXA409",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2019,
+    "device_id": "dev_0354",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.577194,
+      "lng": -112.447998,
+      "recorded_at": "2026-04-30T04:44:59Z"
+    }
+  },
+  {
+    "id": "veh_0355",
+    "account_id": "acc_0010",
+    "vin": "FGLP8SFK27RD8T3WY",
+    "plate": "4OLP676",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2012,
+    "device_id": "dev_0355",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.614763,
+      "lng": -106.29524,
+      "recorded_at": "2026-04-23T15:20:28Z"
+    }
+  },
+  {
+    "id": "veh_0356",
+    "account_id": "acc_0035",
+    "vin": "8XSX679FG4E1JALHL",
+    "plate": "7AIW314",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0356",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 43.12091,
+      "lng": -78.70234,
+      "recorded_at": "2026-04-29T02:53:35Z"
+    }
+  },
+  {
+    "id": "veh_0357",
+    "account_id": "acc_0036",
+    "vin": "32AVH4VUX0LKVP0T7",
+    "plate": "7PFU922",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2015,
+    "device_id": "dev_0357",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 37.590138,
+      "lng": -116.027673,
+      "recorded_at": "2026-04-28T20:34:47Z"
+    }
+  },
+  {
+    "id": "veh_0358",
+    "account_id": "acc_0005",
+    "vin": "AWNNG6YGD6LEZRZAN",
+    "plate": " 9wpa425 ",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2016,
+    "device_id": "dev_0358",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 34.991271,
+      "lng": -115.430103,
+      "recorded_at": "2026-04-25T07:52:13Z"
+    }
+  },
+  {
+    "id": "veh_0359",
+    "account_id": "acc_0042",
+    "vin": "NEKGPUMTGJ1YU7PLA",
+    "plate": "5LTY512",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0359",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.42339,
+      "lng": -92.016599,
+      "recorded_at": "2026-04-28T17:19:53Z"
+    }
+  },
+  {
+    "id": "veh_0360",
+    "account_id": "acc_0033",
+    "vin": "547XW9HS2117ZWXFP",
+    "plate": "3PAK179",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0360",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 46.50288,
+      "lng": -121.025216,
+      "recorded_at": "2026-04-28T18:22:56Z"
+    }
+  },
+  {
+    "id": "veh_0361",
+    "account_id": "acc_0028",
+    "vin": "ZMB06Z4PN10MAN50N",
+    "plate": "9OPW907",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0361",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.012937,
+      "lng": -117.146331,
+      "recorded_at": "2026-04-29T08:35:21Z"
+    }
+  },
+  {
+    "id": "veh_0362",
+    "account_id": "acc_0031",
+    "vin": "2CTUDB768M7GC0BKM",
+    "plate": "5QAT379",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2013,
+    "device_id": "dev_0362",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.804677,
+      "lng": -108.327769,
+      "recorded_at": "2026-04-29T01:12:52Z"
+    }
+  },
+  {
+    "id": "veh_0363",
+    "account_id": "acc_0013",
+    "vin": "BYXL0A23DEN9KUFM5",
+    "plate": "8UWB421",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2016,
+    "device_id": "dev_0363",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 27.339411,
+      "lng": -92.987241,
+      "recorded_at": "2026-04-24T08:46:21Z"
+    }
+  },
+  {
+    "id": "veh_0364",
+    "account_id": "acc_0022",
+    "vin": "6F6FHFMFMXBLAP06F",
+    "plate": "3UXA418",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0364",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 31.570315,
+      "lng": -104.010968,
+      "recorded_at": "2026-04-28T04:20:32Z"
+    }
+  },
+  {
+    "id": "veh_0365",
+    "account_id": "acc_0021",
+    "vin": "3RNUNMVT5TF8Z0Z5L",
+    "plate": "5BMW393",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2025,
+    "device_id": "dev_0365",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.272097,
+      "lng": -115.995714,
+      "recorded_at": "2026-04-28T14:38:53Z"
+    }
+  },
+  {
+    "id": "veh_0366",
+    "account_id": "acc_0014",
+    "vin": "Y9UF9PTP6TCHM7J6X",
+    "plate": "4WNL761",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2021,
+    "device_id": "dev_0366",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.4618,
+      "lng": -78.61253,
+      "recorded_at": "2026-04-30T02:08:26Z"
+    }
+  },
+  {
+    "id": "veh_0367",
+    "account_id": "acc_0042",
+    "vin": "GMZWL6MB56427ST0Y",
+    "plate": "2ULA262",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0367",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.113786,
+      "lng": -104.921389,
+      "recorded_at": "2026-04-30T00:18:42Z"
+    }
+  },
+  {
+    "id": "veh_0368",
+    "account_id": "acc_0038",
+    "vin": "BL9LWNJJYDFWKZ62L",
+    "plate": "9DNN892",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2012,
+    "device_id": "dev_0368",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 31.464664,
+      "lng": -91.083184,
+      "recorded_at": "2026-04-28T01:37:39Z"
+    }
+  },
+  {
+    "id": "veh_0369",
+    "account_id": "acc_0047",
+    "vin": "SK0A7LZG72P716SG1",
+    "plate": "5JCF341",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0369",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 45.586293,
+      "lng": -99.116714,
+      "recorded_at": "2026-04-28T21:06:28Z"
+    }
+  },
+  {
+    "id": "veh_0370",
+    "account_id": "acc_0005",
+    "vin": "Z8BRMS00Y9A2ERJ8N",
+    "plate": "6JVX993",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2015,
+    "device_id": "dev_0370",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.190219,
+      "lng": -101.550529,
+      "recorded_at": "2026-04-29T08:57:20Z"
+    }
+  },
+  {
+    "id": "veh_0371",
+    "account_id": "acc_0031",
+    "vin": "CT3ML2G6FZG2ALXJ9",
+    "plate": "7UFN254",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0371",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.839139,
+      "lng": -101.951516,
+      "recorded_at": "2026-04-24T14:24:06Z"
+    }
+  },
+  {
+    "id": "veh_0372",
+    "account_id": "acc_0039",
+    "vin": "5907Y0HM41FKAYTN9",
+    "plate": "7YBJ535",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2018,
+    "device_id": "dev_0372",
+    "status": "active",
+    "last_known_location": {
+      "lat": 31.207577,
+      "lng": -87.855321,
+      "recorded_at": "2026-04-27T01:56:42Z"
+    }
+  },
+  {
+    "id": "veh_0373",
+    "account_id": "acc_0017",
+    "vin": "4YVBUMVZ3B5XWCHZC",
+    "plate": "2POL151",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2023,
+    "device_id": "dev_0373",
+    "status": "active",
+    "last_known_location": {
+      "lat": 46.339982,
+      "lng": -84.875905,
+      "recorded_at": "2026-04-28T08:57:35Z"
+    }
+  },
+  {
+    "id": "veh_0374",
+    "account_id": "acc_0018",
+    "vin": "Z6S6CEX0CKG19FYW4",
+    "plate": "9DEX248",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2012,
+    "device_id": "dev_0374",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.190081,
+      "lng": -99.427269,
+      "recorded_at": "2026-04-27T09:11:05Z"
+    }
+  },
+  {
+    "id": "veh_0375",
+    "account_id": "acc_0033",
+    "vin": "SD07P4UMU9C2MVUA3",
+    "plate": "7DZG684",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2012,
+    "device_id": "dev_0375",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 31.263418,
+      "lng": -106.717519,
+      "recorded_at": "2026-04-28T22:12:10Z"
+    }
+  },
+  {
+    "id": "veh_0376",
+    "account_id": "acc_0002",
+    "vin": "XREV63Y17AYYXZ5K6",
+    "plate": "5OTZ750",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2015,
+    "device_id": "dev_0376",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.635825,
+      "lng": -111.38455,
+      "recorded_at": "2026-04-28T10:28:49Z"
+    }
+  },
+  {
+    "id": "veh_0377",
+    "account_id": "acc_0032",
+    "vin": "ZFP0WVX56BKLZ43BV",
+    "plate": "5MBV972",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2015,
+    "device_id": "dev_0377",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.711519,
+      "lng": -119.519314,
+      "recorded_at": "2026-04-23T23:24:54Z"
+    }
+  },
+  {
+    "id": "veh_0378",
+    "account_id": "acc_0037",
+    "vin": "VML23ZP3UX0GX92R2",
+    "plate": "7TDD505",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0378",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0379",
+    "account_id": "acc_0042",
+    "vin": "MG1333NBRJ9F3BXSL",
+    "plate": "3MJA645",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2022,
+    "device_id": "dev_0379",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.916791,
+      "lng": -80.51271,
+      "recorded_at": "2026-04-26T00:08:37Z"
+    }
+  },
+  {
+    "id": "veh_0380",
+    "account_id": "acc_0047",
+    "vin": "SM7NXJVEBP66S5SM6",
+    "plate": "7RQG970",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2022,
+    "device_id": "dev_0380",
+    "status": "active",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0381",
+    "account_id": "acc_0027",
+    "vin": "71E3THB57DV2C0295",
+    "plate": "4oxc107",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0381",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.966606,
+      "lng": -85.124655,
+      "recorded_at": "2026-04-28T17:28:45Z"
+    }
+  },
+  {
+    "id": "veh_0382",
+    "account_id": "acc_0016",
+    "vin": "7PTGYE68STYV5Y5TU",
+    "plate": "2XFL522",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2024,
+    "device_id": "dev_0382",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.756888,
+      "lng": -115.908844,
+      "recorded_at": "2026-04-24T04:01:15Z"
+    }
+  },
+  {
+    "id": "veh_0383",
+    "account_id": "acc_0046",
+    "vin": "LW75VKJKV1TRBPWKA",
+    "plate": "1HLS471",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0383",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 42.131275,
+      "lng": -106.520224,
+      "recorded_at": "2026-04-24T05:27:58Z"
+    }
+  },
+  {
+    "id": "veh_0384",
+    "account_id": "acc_0021",
+    "vin": "018L7M71AEYRWPRKU",
+    "plate": "8TFL759",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2022,
+    "device_id": "dev_0384",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.741045,
+      "lng": -75.401203,
+      "recorded_at": "2026-04-24T10:43:01Z"
+    }
+  },
+  {
+    "id": "veh_0385",
+    "account_id": "acc_0024",
+    "vin": "C2GY9EUFD5SSTMSR6",
+    "plate": "1XZZ636",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2012,
+    "device_id": "dev_0385",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 46.555232,
+      "lng": -81.741462,
+      "recorded_at": "2026-04-27T06:35:27Z"
+    }
+  },
+  {
+    "id": "veh_0386",
+    "account_id": "acc_0009",
+    "vin": "WDPRS76GDXEN7H5F7",
+    "plate": "5CXG850",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0386",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.936617,
+      "lng": -120.370871,
+      "recorded_at": "2026-04-27T21:22:43Z"
+    }
+  },
+  {
+    "id": "veh_0387",
+    "account_id": "acc_0047",
+    "vin": "5N6AT3U8MY979VWTS",
+    "plate": "8JSA695",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2016,
+    "device_id": "dev_0387",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 35.314136,
+      "lng": -72.415636,
+      "recorded_at": "2026-04-24T09:28:21Z"
+    }
+  },
+  {
+    "id": "veh_0388",
+    "account_id": "acc_0033",
+    "vin": "78LME4WG5YMNGRPW9",
+    "plate": "8DYF599",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2017,
+    "device_id": "dev_0388",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.156415,
+      "lng": -73.07807,
+      "recorded_at": "2026-04-24T18:33:23Z"
+    }
+  },
+  {
+    "id": "veh_0389",
+    "account_id": "acc_0050",
+    "vin": "2LLLX73URT7W0KWYZ",
+    "plate": "5TGS788",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2017,
+    "device_id": "dev_0389",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.710344,
+      "lng": -115.0859,
+      "recorded_at": "2026-04-25T08:07:23Z"
+    }
+  },
+  {
+    "id": "veh_0390",
+    "account_id": "acc_0027",
+    "vin": "ZJ6UBNPTV0BX41XNP",
+    "plate": "7YNA880",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0390",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.559695,
+      "lng": -120.847477,
+      "recorded_at": "2026-04-29T14:19:18Z"
+    }
+  },
+  {
+    "id": "veh_0391",
+    "account_id": "acc_0003",
+    "vin": "18SU1DGDYU05VH7JE",
+    "plate": "3KXP838",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0391",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.230566,
+      "lng": -69.733414,
+      "recorded_at": "2026-04-28T15:47:35Z"
+    }
+  },
+  {
+    "id": "veh_0392",
+    "account_id": "acc_0035",
+    "vin": "TVBJEX05PMX6R60YN",
+    "plate": "5SGR190",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2016,
+    "device_id": "dev_0392",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 35.518269,
+      "lng": -105.313,
+      "recorded_at": "2026-04-30T05:15:38Z"
+    }
+  },
+  {
+    "id": "veh_0393",
+    "account_id": "acc_0034",
+    "vin": "D90B4C9X8VYEEFHL9",
+    "plate": "2UNN505",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2021,
+    "device_id": "dev_0393",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 44.345555,
+      "lng": -78.508471,
+      "recorded_at": "2026-04-28T04:24:00Z"
+    }
+  },
+  {
+    "id": "veh_0394",
+    "account_id": "acc_0012",
+    "vin": "Y64B2VA1BARX4KTRX",
+    "plate": "7IOO856",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2019,
+    "device_id": "dev_0394",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.652928,
+      "lng": -105.165522,
+      "recorded_at": "2026-04-28T01:38:58Z"
+    }
+  },
+  {
+    "id": "veh_0395",
+    "account_id": "acc_0012",
+    "vin": "GBCJZEXXRPNWL4URP",
+    "plate": "6WSE293",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0395",
+    "status": "active",
+    "last_known_location": {
+      "lat": 43.551808,
+      "lng": -112.249782,
+      "recorded_at": "2026-04-25T03:56:44Z"
+    }
+  },
+  {
+    "id": "veh_0396",
+    "account_id": "acc_0029",
+    "vin": "52NP1HFM9HLPH8ZX3",
+    "plate": "7AOX974",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2015,
+    "device_id": "dev_0396",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 42.757906,
+      "lng": -102.316256,
+      "recorded_at": "2026-04-24T08:21:07Z"
+    }
+  },
+  {
+    "id": "veh_0397",
+    "account_id": "acc_0027",
+    "vin": "2GZ0WE4WRF17BUXCK",
+    "plate": "8IQD567",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2014,
+    "device_id": "dev_0397",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.387491,
+      "lng": -102.338339,
+      "recorded_at": "2026-04-28T22:43:57Z"
+    }
+  },
+  {
+    "id": "veh_0398",
+    "account_id": "acc_0014",
+    "vin": "V03L3MMKM0HLB8PW2",
+    "plate": "3EWP880",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0398",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.935779,
+      "lng": -90.016344,
+      "recorded_at": "2026-04-26T14:28:51Z"
+    }
+  },
+  {
+    "id": "veh_0399",
+    "account_id": "acc_0027",
+    "vin": "C1LLGAZRF3EH7635J",
+    "plate": "1KAP135",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2024,
+    "device_id": "dev_0399",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 42.63882,
+      "lng": -115.772574,
+      "recorded_at": "2026-04-26T17:17:22Z"
+    }
+  },
+  {
+    "id": "veh_0400",
+    "account_id": "acc_0043",
+    "vin": "G78NJR9JKRFG2VGSR",
+    "plate": "8IEK772",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2014,
+    "device_id": "dev_0400",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 37.959666,
+      "lng": -69.456395,
+      "recorded_at": "2026-04-26T20:17:46Z"
+    }
+  },
+  {
+    "id": "veh_0401",
+    "account_id": "acc_0049",
+    "vin": "JX40KC1DNMAKCSL2X",
+    "plate": "8VSQ629",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2021,
+    "device_id": "dev_0401",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.852011,
+      "lng": -73.635778,
+      "recorded_at": "2026-04-26T07:49:53Z"
+    }
+  },
+  {
+    "id": "veh_0402",
+    "account_id": "acc_0048",
+    "vin": "U9YYMTY86GYTE04BJ",
+    "plate": "7OGO736",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0402",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 31.307311,
+      "lng": -98.927809,
+      "recorded_at": "2026-04-29T03:37:45Z"
+    }
+  },
+  {
+    "id": "veh_0403",
+    "account_id": "acc_0036",
+    "vin": "F9M29NKRBNZKD0RL0",
+    "plate": "9WJE994",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2013,
+    "device_id": "dev_0403",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.342982,
+      "lng": -98.203805,
+      "recorded_at": "2026-04-27T18:05:52Z"
+    }
+  },
+  {
+    "id": "veh_0404",
+    "account_id": "acc_0026",
+    "vin": "V1376XJWAETWPED3J",
+    "plate": "9TNG385",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2019,
+    "device_id": "dev_0404",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 26.173892,
+      "lng": -68.758656,
+      "recorded_at": "2026-04-27T13:22:40Z"
+    }
+  },
+  {
+    "id": "veh_0405",
+    "account_id": "acc_0005",
+    "vin": "RUJ2HKP5KUXAHWG7R",
+    "plate": "3UNM705",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2016,
+    "device_id": "dev_0405",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 29.640911,
+      "lng": -76.443245,
+      "recorded_at": "2026-04-23T22:20:49Z"
+    }
+  },
+  {
+    "id": "veh_0406",
+    "account_id": "acc_0003",
+    "vin": "1TH64L8VRGF0S843D",
+    "plate": "8ECY837",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2025,
+    "device_id": "dev_0406",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 33.193053,
+      "lng": -108.490141,
+      "recorded_at": "2026-04-27T03:38:54Z"
+    }
+  },
+  {
+    "id": "veh_0407",
+    "account_id": "acc_0001",
+    "vin": "G8S8R4UG811CGGGHS",
+    "plate": "9KNV956",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2021,
+    "device_id": "dev_0407",
+    "status": "parked",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0408",
+    "account_id": "acc_0034",
+    "vin": "C24BPMBYGV3B6TZZZ",
+    "plate": "1LUZ550",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2016,
+    "device_id": "dev_0408",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.453593,
+      "lng": -91.319339,
+      "recorded_at": "2026-04-29T22:04:39Z"
+    }
+  },
+  {
+    "id": "veh_0409",
+    "account_id": "acc_0050",
+    "vin": "X2ZM8FYZRXWGF2X8M",
+    "plate": "8WUI887",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2015,
+    "device_id": "dev_0409",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.047385,
+      "lng": -112.065282,
+      "recorded_at": "2026-04-24T14:36:19Z"
+    }
+  },
+  {
+    "id": "veh_0410",
+    "account_id": "acc_0002",
+    "vin": "HNW9VM2ENFF2TKYZ2",
+    "plate": "6ZOL872",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2018,
+    "device_id": "dev_0410",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.821217,
+      "lng": -114.393038,
+      "recorded_at": "2026-04-26T22:23:31Z"
+    }
+  },
+  {
+    "id": "veh_0411",
+    "account_id": "acc_0043",
+    "vin": "UB8RRSR5PKAVSB753",
+    "plate": "2KHO945",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0411",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.978548,
+      "lng": -92.764729,
+      "recorded_at": "2026-04-24T04:57:19Z"
+    }
+  },
+  {
+    "id": "veh_0412",
+    "account_id": "acc_0024",
+    "vin": "T400SXZEJXSJG97XG",
+    "plate": "7USM864",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2023,
+    "device_id": "dev_0412",
+    "status": "in_maintenance",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0413",
+    "account_id": "acc_0028",
+    "vin": "ELB5DZ7KEZEUTB84J",
+    "plate": "8ISB571",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2015,
+    "device_id": "dev_0413",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 39.851343,
+      "lng": -95.663422,
+      "recorded_at": "2026-04-26T17:45:25Z"
+    }
+  },
+  {
+    "id": "veh_0414",
+    "account_id": "acc_0010",
+    "vin": "XADZHEE3LNSMMB8HY",
+    "plate": "5KHS917",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2013,
+    "device_id": "dev_0414",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 46.023249,
+      "lng": -70.062736,
+      "recorded_at": "2026-04-23T12:48:35Z"
+    }
+  },
+  {
+    "id": "veh_0415",
+    "account_id": "acc_0020",
+    "vin": "ZM4T8FMT2NRZFY5GT",
+    "plate": "7MWP241",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0415",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.334373,
+      "lng": -113.569593,
+      "recorded_at": "2026-04-23T17:43:29Z"
+    }
+  },
+  {
+    "id": "veh_0416",
+    "account_id": "acc_0020",
+    "vin": "B0EMN8MPZGK0M5M9K",
+    "plate": "6DFA641",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2012,
+    "device_id": "dev_0416",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.301884,
+      "lng": -105.368999,
+      "recorded_at": "2026-04-23T23:24:57Z"
+    }
+  },
+  {
+    "id": "veh_0417",
+    "account_id": "acc_0007",
+    "vin": "8NKY615HEYS0KS8N2",
+    "plate": "5JDL799",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2017,
+    "device_id": "dev_0417",
+    "status": "active",
+    "last_known_location": {
+      "lat": 29.330002,
+      "lng": -94.446136,
+      "recorded_at": "2026-04-24T16:04:00Z"
+    }
+  },
+  {
+    "id": "veh_0418",
+    "account_id": "acc_0037",
+    "vin": "2NVXJ5NV4241F8B8G",
+    "plate": "2QCV770",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2020,
+    "device_id": "dev_0418",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.693274,
+      "lng": -93.941763,
+      "recorded_at": "2026-04-25T18:45:05Z"
+    }
+  },
+  {
+    "id": "veh_0419",
+    "account_id": "acc_0003",
+    "vin": "NFWMXDBDW1NZD49M9",
+    "plate": "8ZYJ889",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0419",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.417258,
+      "lng": -120.858414,
+      "recorded_at": "2026-04-27T21:31:28Z"
+    }
+  },
+  {
+    "id": "veh_0420",
+    "account_id": "acc_0014",
+    "vin": "AC1PHVASYM1R02CKK",
+    "plate": "8FHW427",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2015,
+    "device_id": "dev_0420",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.751124,
+      "lng": -112.394331,
+      "recorded_at": "2026-04-27T08:47:54Z"
+    }
+  },
+  {
+    "id": "veh_0421",
+    "account_id": "acc_0027",
+    "vin": "1UN8TA2C5JREHHL8E",
+    "plate": "5GUX379",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2020,
+    "device_id": "dev_0421",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.820882,
+      "lng": -123.417038,
+      "recorded_at": "2026-04-27T09:17:22Z"
+    }
+  },
+  {
+    "id": "veh_0422",
+    "account_id": "acc_0008",
+    "vin": "2NF8NJC77GHRC1MFE",
+    "plate": "5RJJ976",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2018,
+    "device_id": "dev_0422",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 38.6826,
+      "lng": -117.815953,
+      "recorded_at": "2026-04-25T04:23:30Z"
+    }
+  },
+  {
+    "id": "veh_0423",
+    "account_id": "acc_0013",
+    "vin": "PXCAKYTMZ6ND21KV9",
+    "plate": "8TYB778",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0423",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.406774,
+      "lng": -80.29296,
+      "recorded_at": "2026-04-28T03:23:41Z"
+    }
+  },
+  {
+    "id": "veh_0424",
+    "account_id": "acc_0036",
+    "vin": "LKXDHE3BLX0CKGRA1",
+    "plate": "8AOC963",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2021,
+    "device_id": "dev_0424",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.898627,
+      "lng": -93.872274,
+      "recorded_at": "2026-04-25T19:07:29Z"
+    }
+  },
+  {
+    "id": "veh_0425",
+    "account_id": "acc_0042",
+    "vin": "71V15S8TZ67K60RKV",
+    "plate": "2HYU136",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2018,
+    "device_id": "dev_0425",
+    "status": "decommissioned",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0426",
+    "account_id": "acc_0035",
+    "vin": "R2JZP233655160YX2",
+    "plate": "1NZJ247",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2023,
+    "device_id": "dev_0426",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.021317,
+      "lng": -100.608827,
+      "recorded_at": "2026-04-27T12:20:43Z"
+    }
+  },
+  {
+    "id": "veh_0427",
+    "account_id": "acc_0030",
+    "vin": "30WP2K7G5W3DNPYL1",
+    "plate": "4SGX775",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2014,
+    "device_id": "dev_0427",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 43.819019,
+      "lng": -103.28535,
+      "recorded_at": "2026-04-30T05:03:27Z"
+    }
+  },
+  {
+    "id": "veh_0428",
+    "account_id": "acc_0050",
+    "vin": "K2NK3X6SJ8XCGEFBA",
+    "plate": "7SVF379",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2017,
+    "device_id": "dev_0428",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 48.607181,
+      "lng": -85.204081,
+      "recorded_at": "2026-04-26T16:44:48Z"
+    }
+  },
+  {
+    "id": "veh_0429",
+    "account_id": "acc_0021",
+    "vin": "57YMVWGLKL3H3L7US",
+    "plate": "4XEG414",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2022,
+    "device_id": "dev_0429",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 45.176284,
+      "lng": -103.312416,
+      "recorded_at": "2026-04-25T02:24:45Z"
+    }
+  },
+  {
+    "id": "veh_0430",
+    "account_id": "acc_0038",
+    "vin": "05M5B8ZYF0EMJW2KH",
+    "plate": "1EMP488",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2015,
+    "device_id": "dev_0430",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 36.445121,
+      "lng": -80.273129,
+      "recorded_at": "2026-04-26T14:35:24Z"
+    }
+  },
+  {
+    "id": "veh_0431",
+    "account_id": "acc_0027",
+    "vin": "L0TN9UB8XLDSWT54Y",
+    "plate": "2LTZ606",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2016,
+    "device_id": "dev_0431",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.382933,
+      "lng": -73.210281,
+      "recorded_at": "2026-04-24T22:34:21Z"
+    }
+  },
+  {
+    "id": "veh_0432",
+    "account_id": "acc_0048",
+    "vin": "BW1N711CU1Y0943YJ",
+    "plate": "6RBE992",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2023,
+    "device_id": "dev_0432",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.477968,
+      "lng": -88.42233,
+      "recorded_at": "2026-04-28T03:48:47Z"
+    }
+  },
+  {
+    "id": "veh_0433",
+    "account_id": "acc_0021",
+    "vin": "9HBJGSEM0EKSFEAAY",
+    "plate": "5ICO787",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2014,
+    "device_id": "dev_0433",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 27.035087,
+      "lng": -86.025312,
+      "recorded_at": "2026-04-24T21:47:35Z"
+    }
+  },
+  {
+    "id": "veh_0434",
+    "account_id": "acc_0006",
+    "vin": "MFFA4RPDF1XN7N8M7",
+    "plate": "2TDB821",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2023,
+    "device_id": "dev_0434",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 28.329159,
+      "lng": -71.673876,
+      "recorded_at": "2026-04-29T18:09:18Z"
+    }
+  },
+  {
+    "id": "veh_0435",
+    "account_id": "acc_0035",
+    "vin": "NHENMXRL2V39VP4TZ",
+    "plate": "3QAC280",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2020,
+    "device_id": "dev_0435",
+    "status": "active",
+    "last_known_location": {
+      "lat": 48.380569,
+      "lng": -108.994089,
+      "recorded_at": "2026-04-27T10:41:47Z"
+    }
+  },
+  {
+    "id": "veh_0436",
+    "account_id": "acc_0040",
+    "vin": "4F5AFX0ETX5Z708W8",
+    "plate": "3CBC605",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2020,
+    "device_id": "dev_0436",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 33.261358,
+      "lng": -82.223892,
+      "recorded_at": "2026-04-28T04:34:32Z"
+    }
+  },
+  {
+    "id": "veh_0437",
+    "account_id": "acc_0026",
+    "vin": "665KK13BJX1K20A4M",
+    "plate": "3BWL519",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2021,
+    "device_id": "dev_0437",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 36.158676,
+      "lng": -97.686508,
+      "recorded_at": "2026-04-27T20:47:46Z"
+    }
+  },
+  {
+    "id": "veh_0438",
+    "account_id": "acc_0026",
+    "vin": "LWURN8844L8DZGEX7",
+    "plate": "1MPE377",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2016,
+    "device_id": "dev_0438",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.095565,
+      "lng": -122.764202,
+      "recorded_at": "2026-04-24T04:53:58Z"
+    }
+  },
+  {
+    "id": "veh_0439",
+    "account_id": "acc_0020",
+    "vin": "4HJVY0J07EB503SPX",
+    "plate": "4NPA415",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2025,
+    "device_id": "dev_0439",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 40.156207,
+      "lng": -104.700911,
+      "recorded_at": "2026-04-24T17:18:02Z"
+    }
+  },
+  {
+    "id": "veh_0440",
+    "account_id": "acc_0021",
+    "vin": "RSS87BX9G1KXF86UE",
+    "plate": "9KSZ439",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "device_id": "dev_0440",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.759909,
+      "lng": -72.594219,
+      "recorded_at": "2026-04-27T03:32:53Z"
+    }
+  },
+  {
+    "id": "veh_0441",
+    "account_id": "acc_0023",
+    "vin": "7KUX8XNNHVDN9VS14",
+    "plate": "6YBP352",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2016,
+    "device_id": "dev_0441",
+    "status": "active",
+    "last_known_location": {
+      "lat": 30.36,
+      "lng": -123.825966,
+      "recorded_at": "2026-04-28T18:02:23Z"
+    }
+  },
+  {
+    "id": "veh_0442",
+    "account_id": "acc_0050",
+    "vin": "K51L5XGU6UN6VLJXB",
+    "plate": "1AUU880",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2012,
+    "device_id": "dev_0442",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 35.114157,
+      "lng": -102.987996,
+      "recorded_at": "2026-04-23T19:03:03Z"
+    }
+  },
+  {
+    "id": "veh_0443",
+    "account_id": "acc_0042",
+    "vin": "X2MXCVXC9DJ8EEJKG",
+    "plate": "6EKX484",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2023,
+    "device_id": "dev_0443",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.203051,
+      "lng": -88.153251,
+      "recorded_at": "2026-04-26T03:03:01Z"
+    }
+  },
+  {
+    "id": "veh_0444",
+    "account_id": "acc_0004",
+    "vin": "32KFP5LHTRSDBDR7C",
+    "plate": "6CNK868",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2015,
+    "device_id": "dev_0444",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.669837,
+      "lng": -101.168087,
+      "recorded_at": "2026-04-28T15:32:36Z"
+    }
+  },
+  {
+    "id": "veh_0445",
+    "account_id": "acc_0033",
+    "vin": "V8B3ECNCPR8AZF09L",
+    "plate": "9KKM874",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2015,
+    "device_id": "dev_0445",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 40.223934,
+      "lng": -101.4389,
+      "recorded_at": "2026-04-30T09:51:34Z"
+    }
+  },
+  {
+    "id": "veh_0446",
+    "account_id": "acc_0049",
+    "vin": "TYNXT2HV5B592PMHC",
+    "plate": "5IRL623",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0446",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.322075,
+      "lng": -76.415126,
+      "recorded_at": "2026-04-28T00:07:11Z"
+    }
+  },
+  {
+    "id": "veh_0447",
+    "account_id": "acc_0004",
+    "vin": "RTP9BWAPMYP81X62L",
+    "plate": "5WVG707",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2019,
+    "device_id": "dev_0447",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.628647,
+      "lng": -103.426516,
+      "recorded_at": "2026-04-27T00:53:17Z"
+    }
+  },
+  {
+    "id": "veh_0448",
+    "account_id": "acc_0001",
+    "vin": "UAW51LGD0PN40EU3B",
+    "plate": "2TDA973",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0448",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.748798,
+      "lng": -121.148402,
+      "recorded_at": "2026-04-29T01:01:31Z"
+    }
+  },
+  {
+    "id": "veh_0449",
+    "account_id": "acc_0044",
+    "vin": "B7MAHFS6UUB7EKPE2",
+    "plate": "3IOZ309",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0449",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 27.887801,
+      "lng": -87.707542,
+      "recorded_at": "2026-04-25T06:01:44Z"
+    }
+  },
+  {
+    "id": "veh_0450",
+    "account_id": "acc_0018",
+    "vin": "V7NUBUNS5AC48RDV0",
+    "plate": "7FAS145",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0450",
+    "status": "active",
+    "last_known_location": {
+      "lat": 40.758641,
+      "lng": -69.312554,
+      "recorded_at": "2026-04-24T18:22:54Z"
+    }
+  },
+  {
+    "id": "veh_0451",
+    "account_id": "acc_0048",
+    "vin": "Z3M206ZVK8304FTJY",
+    "plate": "3LVL843",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2022,
+    "device_id": "dev_0451",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 38.224577,
+      "lng": -115.695345,
+      "recorded_at": "2026-04-23T22:56:36Z"
+    }
+  },
+  {
+    "id": "veh_0452",
+    "account_id": "acc_0048",
+    "vin": "LJP2F3H9CGATLRY8H",
+    "plate": "1KQU248",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2023,
+    "device_id": "dev_0452",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 39.371021,
+      "lng": -93.207971,
+      "recorded_at": "2026-04-25T23:15:44Z"
+    }
+  },
+  {
+    "id": "veh_0453",
+    "account_id": "acc_0045",
+    "vin": "GR6KNA9G8KEWS2WPG",
+    "plate": "7QVM324",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2012,
+    "device_id": "dev_0453",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.848466,
+      "lng": -81.2599,
+      "recorded_at": "2026-04-26T21:50:48Z"
+    }
+  },
+  {
+    "id": "veh_0454",
+    "account_id": "acc_0008",
+    "vin": "4Z2AWY10PW47C8C8X",
+    "plate": "4FYV173",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2012,
+    "device_id": "dev_0454",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.608524,
+      "lng": -98.201836,
+      "recorded_at": "2026-04-24T18:03:18Z"
+    }
+  },
+  {
+    "id": "veh_0455",
+    "account_id": "acc_0044",
+    "vin": "8B1C8F7TFFSG61YS7",
+    "plate": "9YDN805",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2017,
+    "device_id": "dev_0455",
+    "status": "active",
+    "last_known_location": {
+      "lat": 39.090993,
+      "lng": -73.803762,
+      "recorded_at": "2026-04-25T00:34:44Z"
+    }
+  },
+  {
+    "id": "veh_0456",
+    "account_id": "acc_0002",
+    "vin": "95E9M6U1DTH8M5VLC",
+    "plate": "7DAV231",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2021,
+    "device_id": "dev_0456",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 39.242298,
+      "lng": -85.511167,
+      "recorded_at": "2026-04-29T04:03:18Z"
+    }
+  },
+  {
+    "id": "veh_0457",
+    "account_id": "acc_0042",
+    "vin": "M1CWMRY8R5HGLJJB5",
+    "plate": "2GPP355",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2017,
+    "device_id": "dev_0457",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 25.13662,
+      "lng": -79.782813,
+      "recorded_at": "2026-04-25T06:45:41Z"
+    }
+  },
+  {
+    "id": "veh_0458",
+    "account_id": "acc_0018",
+    "vin": "44EEFTZ729SJHBLFM",
+    "plate": "9WLU656",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2015,
+    "device_id": "dev_0458",
+    "status": "active",
+    "last_known_location": {
+      "lat": 27.551875,
+      "lng": -97.001494,
+      "recorded_at": "2026-04-23T20:59:23Z"
+    }
+  },
+  {
+    "id": "veh_0459",
+    "account_id": "acc_0008",
+    "vin": "CRNKWJ2A0D9AHUAWJ",
+    "plate": "9IPC908",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2015,
+    "device_id": "dev_0459",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 40.750305,
+      "lng": -90.819131,
+      "recorded_at": "2026-04-27T21:47:46Z"
+    }
+  },
+  {
+    "id": "veh_0460",
+    "account_id": "acc_0041",
+    "vin": "EKJ9KE79ELS30RT3D",
+    "plate": "8PPG201",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2012,
+    "device_id": "dev_0460",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 29.138031,
+      "lng": -92.477145,
+      "recorded_at": "2026-04-25T17:03:22Z"
+    }
+  },
+  {
+    "id": "veh_0461",
+    "account_id": "acc_0015",
+    "vin": "J793LSV8E4B3EFKC0",
+    "plate": "4VXL500",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2018,
+    "device_id": "dev_0461",
+    "status": "active",
+    "last_known_location": {
+      "lat": 35.79588,
+      "lng": -76.326771,
+      "recorded_at": "2026-04-26T08:32:10Z"
+    }
+  },
+  {
+    "id": "veh_0462",
+    "account_id": "acc_0025",
+    "vin": "J7YF8YETUUV9RXXSN",
+    "plate": "9TKJ975",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2016,
+    "device_id": "dev_0462",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.763903,
+      "lng": -94.847922,
+      "recorded_at": "2026-04-26T10:25:29Z"
+    }
+  },
+  {
+    "id": "veh_0463",
+    "account_id": "acc_0040",
+    "vin": "JVN0XP6MHVSPYM80SX",
+    "plate": "7IIT534",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2019,
+    "device_id": "dev_0463",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 41.072431,
+      "lng": -113.263891,
+      "recorded_at": "2026-04-23T14:30:11Z"
+    }
+  },
+  {
+    "id": "veh_0464",
+    "account_id": "acc_0025",
+    "vin": "2AENT86U93NUD48G7",
+    "plate": "9KEI720",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2018,
+    "device_id": "dev_0464",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 26.729206,
+      "lng": -116.907531,
+      "recorded_at": "2026-04-28T19:18:06Z"
+    }
+  },
+  {
+    "id": "veh_0465",
+    "account_id": "acc_0007",
+    "vin": "UJG4PCDAHYUV4SRRU",
+    "plate": "2LYZ155  ",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2025,
+    "device_id": "dev_0465",
+    "status": "active",
+    "last_known_location": {
+      "lat": 25.984831,
+      "lng": -119.994041,
+      "recorded_at": "2026-04-30T05:18:51Z"
+    }
+  },
+  {
+    "id": "veh_0466",
+    "account_id": "acc_0035",
+    "vin": "BLFU8HGS3RS6LMRUG",
+    "plate": "6YHF925",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0466",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 48.193593,
+      "lng": -102.153496,
+      "recorded_at": "2026-04-25T05:14:27Z"
+    }
+  },
+  {
+    "id": "veh_0467",
+    "account_id": "acc_0029",
+    "vin": "5K11BUP84YXB8915P",
+    "plate": "7OGH202",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2014,
+    "device_id": "dev_0467",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 45.334773,
+      "lng": -100.713527,
+      "recorded_at": "2026-04-25T21:59:51Z"
+    }
+  },
+  {
+    "id": "veh_0468",
+    "account_id": "acc_0019",
+    "vin": "R17BSE5B1Z01B8454",
+    "plate": "7GGK461",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2018,
+    "device_id": "dev_0468",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.722455,
+      "lng": -109.820357,
+      "recorded_at": "2026-04-27T17:25:41Z"
+    }
+  },
+  {
+    "id": "veh_0469",
+    "account_id": "acc_0034",
+    "vin": "NC10DRFLFDTFT5KVK",
+    "plate": "6IPF272",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2016,
+    "device_id": "dev_0469",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 30.259283,
+      "lng": -90.626809,
+      "recorded_at": "2026-04-28T05:49:04Z"
+    }
+  },
+  {
+    "id": "veh_0470",
+    "account_id": "acc_0004",
+    "vin": "MV74LSBNEEGUMH60M",
+    "plate": "7JFQ168",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2020,
+    "device_id": "dev_0470",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 30.563575,
+      "lng": -118.740554,
+      "recorded_at": "2026-04-27T12:27:01Z"
+    }
+  },
+  {
+    "id": "veh_0471",
+    "account_id": "acc_0004",
+    "vin": "2JLD7KJS0U6S6MHSL",
+    "plate": "6FYI625",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2021,
+    "device_id": "dev_0471",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 44.519338,
+      "lng": -95.447954,
+      "recorded_at": "2026-04-29T16:27:48Z"
+    }
+  },
+  {
+    "id": "veh_0472",
+    "account_id": "acc_0026",
+    "vin": "26Z2T3L98JCPE0WH3",
+    "plate": "3AJO641",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2018,
+    "device_id": "dev_0472",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.172113,
+      "lng": -85.381051,
+      "recorded_at": "2026-04-30T05:02:45Z"
+    }
+  },
+  {
+    "id": "veh_0473",
+    "account_id": "acc_0010",
+    "vin": "5JW2SKBR5T82660P6",
+    "plate": "8GYA320",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2018,
+    "device_id": "dev_0473",
+    "status": "decommissioned",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0474",
+    "account_id": "acc_0042",
+    "vin": "4EVZ97C7EZYNW9LAG",
+    "plate": "2JLB458",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2023,
+    "device_id": "dev_0474",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 36.162146,
+      "lng": -101.96626,
+      "recorded_at": "2026-04-27T05:28:15Z"
+    }
+  },
+  {
+    "id": "veh_0475",
+    "account_id": "acc_0022",
+    "vin": "6ZXV0DH5849C9EK1Y",
+    "plate": "1QGU633",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2023,
+    "device_id": "dev_0475",
+    "status": "active",
+    "last_known_location": {
+      "lat": 33.910394,
+      "lng": -98.443556,
+      "recorded_at": "2026-04-27T06:12:00Z"
+    }
+  },
+  {
+    "id": "veh_0476",
+    "account_id": "acc_0003",
+    "vin": "CWAJN3N3K4TPAELCT",
+    "plate": "3YGC731",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0476",
+    "status": "active",
+    "last_known_location": {
+      "lat": 34.213349,
+      "lng": -101.519234,
+      "recorded_at": "2026-04-24T19:35:45Z"
+    }
+  },
+  {
+    "id": "veh_0477",
+    "account_id": "acc_0047",
+    "vin": "07TYXKUSRB47UY9W8",
+    "plate": "8DCV570",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2012,
+    "device_id": "dev_0477",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 44.480555,
+      "lng": -104.463983,
+      "recorded_at": "2026-04-26T20:31:09Z"
+    }
+  },
+  {
+    "id": "veh_0478",
+    "account_id": "acc_0016",
+    "vin": "6KG90323YWFSL7EXD",
+    "plate": "2ERH964",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "device_id": "dev_0478",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 43.803435,
+      "lng": -73.797469,
+      "recorded_at": "2026-04-28T15:07:52Z"
+    }
+  },
+  {
+    "id": "veh_0479",
+    "account_id": "acc_0032",
+    "vin": "2P24SVSLYLX1FGFFA",
+    "plate": "8AKL221",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2020,
+    "device_id": "dev_0479",
+    "status": "active",
+    "last_known_location": {
+      "lat": 32.392178,
+      "lng": -96.268362,
+      "recorded_at": "2026-04-29T09:06:41Z"
+    }
+  },
+  {
+    "id": "veh_0480",
+    "account_id": "acc_0024",
+    "vin": "ZFCLWYGCFCANL28GU",
+    "plate": "1APF133",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2021,
+    "device_id": "dev_0480",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 28.203599,
+      "lng": -67.929039,
+      "recorded_at": "2026-04-29T15:07:15Z"
+    }
+  },
+  {
+    "id": "veh_0481",
+    "account_id": "acc_0050",
+    "vin": "9G8RVC2YL75Z9WV23",
+    "plate": "5ECO720",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2024,
+    "device_id": "dev_0481",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 45.457491,
+      "lng": -115.02854,
+      "recorded_at": "2026-04-26T17:54:09Z"
+    }
+  },
+  {
+    "id": "veh_0482",
+    "account_id": "acc_0038",
+    "vin": "HKG5JKEVYXS743HWP",
+    "plate": "4HOE820",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2022,
+    "device_id": "dev_0482",
+    "status": "active",
+    "last_known_location": {
+      "lat": 28.725258,
+      "lng": -119.471172,
+      "recorded_at": "2026-04-28T14:24:26Z"
+    }
+  },
+  {
+    "id": "veh_0483",
+    "account_id": "acc_0025",
+    "vin": "M862X5JX4XMALT3F8",
+    "plate": "4LCB132",
+    "make": "Ram",
+    "model": "ProMaster",
+    "year": 2014,
+    "device_id": "dev_0483",
+    "status": "active",
+    "last_known_location": {
+      "lat": 45.186912,
+      "lng": -78.193239,
+      "recorded_at": "2026-04-28T19:07:22Z"
+    }
+  },
+  {
+    "id": "veh_0484",
+    "account_id": "acc_0050",
+    "vin": "A0Y0YAG79NPKY9U2N",
+    "plate": "9TPI307",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2024,
+    "device_id": "dev_0484",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 42.298825,
+      "lng": -100.181399,
+      "recorded_at": "2026-04-30T00:31:00Z"
+    }
+  },
+  {
+    "id": "veh_0485",
+    "account_id": "acc_0027",
+    "vin": "E736RXR5TWCRT2TAR",
+    "plate": "9JRY567",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2015,
+    "device_id": "dev_0485",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 26.068328,
+      "lng": -105.041492,
+      "recorded_at": "2026-04-25T01:08:48Z"
+    }
+  },
+  {
+    "id": "veh_0486",
+    "account_id": "acc_0035",
+    "vin": "3B9WD8PVHS1YMNA4F",
+    "plate": "7ANB177",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2022,
+    "device_id": "dev_0486",
+    "status": "active",
+    "last_known_location": {
+      "lat": 44.257388,
+      "lng": -108.402822,
+      "recorded_at": "2026-04-24T16:13:46Z"
+    }
+  },
+  {
+    "id": "veh_0487",
+    "account_id": "acc_0017",
+    "vin": "3L4PL0GVWEEKHASEU",
+    "plate": "2EXX364",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2013,
+    "device_id": "dev_0487",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 29.056543,
+      "lng": -107.337952,
+      "recorded_at": "2026-04-26T09:41:15Z"
+    }
+  },
+  {
+    "id": "veh_0488",
+    "account_id": "acc_0040",
+    "vin": "UFZFZM1NTBFELKYL",
+    "plate": "9YYR576",
+    "make": "Ford",
+    "model": "Transit",
+    "year": 2024,
+    "device_id": "dev_0488",
+    "status": "parked",
+    "last_known_location": null
+  },
+  {
+    "id": "veh_0489",
+    "account_id": "acc_0026",
+    "vin": "PLN7ER861X0NCC5NA",
+    "plate": "7ZYN206",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2012,
+    "device_id": "dev_0489",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 44.374601,
+      "lng": -79.775856,
+      "recorded_at": "2026-04-25T23:29:27Z"
+    }
+  },
+  {
+    "id": "veh_0490",
+    "account_id": "acc_0007",
+    "vin": "HJ78YHCXSW4VCGDWJ",
+    "plate": "7XAK982",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2025,
+    "device_id": "dev_0490",
+    "status": "active",
+    "last_known_location": {
+      "lat": 36.123551,
+      "lng": -116.357462,
+      "recorded_at": "2026-04-28T15:25:30Z"
+    }
+  },
+  {
+    "id": "veh_0491",
+    "account_id": "acc_0020",
+    "vin": "3BBVXMFJG0HGTYXHM",
+    "plate": "6NCQ472",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "year": 2021,
+    "device_id": "dev_0491",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 26.80268,
+      "lng": -106.422047,
+      "recorded_at": "2026-04-27T16:33:55Z"
+    }
+  },
+  {
+    "id": "veh_0492",
+    "account_id": "acc_0046",
+    "vin": "WWG2CW3FYUDJEGAG7",
+    "plate": "5JYR872",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2019,
+    "device_id": "dev_0492",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 37.991352,
+      "lng": -75.022603,
+      "recorded_at": "2026-04-25T13:44:51Z"
+    }
+  },
+  {
+    "id": "veh_0493",
+    "account_id": "acc_0022",
+    "vin": "LMGB7PJL9S3AUN8SD",
+    "plate": "2IFS674",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2015,
+    "device_id": "dev_0493",
+    "status": "parked",
+    "last_known_location": {
+      "lat": 46.480589,
+      "lng": -109.888181,
+      "recorded_at": "2026-04-25T18:51:30Z"
+    }
+  },
+  {
+    "id": "veh_0494",
+    "account_id": "acc_0038",
+    "vin": "VUSH3T8AH2NTJMHSJ",
+    "plate": "9JLE514",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2015,
+    "device_id": "dev_0494",
+    "status": "in_maintenance",
+    "last_known_location": {
+      "lat": 48.369316,
+      "lng": -100.542048,
+      "recorded_at": "2026-04-29T22:26:14Z"
+    }
+  },
+  {
+    "id": "veh_0495",
+    "account_id": "acc_0046",
+    "vin": "HA3GYP5KKH0X31U5N",
+    "plate": "7EGI215",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2014,
+    "device_id": "dev_0495",
+    "status": "active",
+    "last_known_location": {
+      "lat": 38.789793,
+      "lng": -86.844379,
+      "recorded_at": "2026-04-26T05:07:46Z"
+    }
+  },
+  {
+    "id": "veh_0496",
+    "account_id": "acc_0030",
+    "vin": "LDD6VP3HVKVUM4A7E",
+    "plate": "4PPI547",
+    "make": "Chevy",
+    "model": "Express",
+    "year": 2017,
+    "device_id": "dev_0496",
+    "status": "active",
+    "last_known_location": {
+      "lat": 26.174402,
+      "lng": -123.825729,
+      "recorded_at": "2026-04-27T18:39:48Z"
+    }
+  },
+  {
+    "id": "veh_0497",
+    "account_id": "acc_0029",
+    "vin": "JBS81R9KHU0TGUW2B",
+    "plate": "4WIP499",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2021,
+    "device_id": "dev_0497",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 31.471348,
+      "lng": -96.620034,
+      "recorded_at": "2026-04-29T04:47:58Z"
+    }
+  },
+  {
+    "id": "veh_0498",
+    "account_id": "acc_0040",
+    "vin": "M8AKBX3YA7NMGW4TU",
+    "plate": "5IZH875",
+    "make": "Chevy",
+    "model": "Silverado",
+    "year": 2022,
+    "device_id": "dev_0498",
+    "status": "active",
+    "last_known_location": {
+      "lat": 47.984295,
+      "lng": -70.911817,
+      "recorded_at": "2026-04-23T15:22:09Z"
+    }
+  },
+  {
+    "id": "veh_0499",
+    "account_id": "acc_0003",
+    "vin": "YZ7SY8R4BEGJR3CP6",
+    "plate": "6DMP739",
+    "make": "Mercedes",
+    "model": "Sprinter",
+    "year": 2020,
+    "device_id": "dev_0499",
+    "status": "decommissioned",
+    "last_known_location": {
+      "lat": 29.71045,
+      "lng": -110.041609,
+      "recorded_at": "2026-04-29T14:51:10Z"
+    }
+  },
+  {
+    "id": "veh_0500",
+    "account_id": "acc_0007",
+    "vin": "CTA3HU5PFYSHFTSC7",
+    "plate": "9OWE326",
+    "make": "Ford",
+    "model": "E-Series",
+    "year": 2016,
+    "device_id": "dev_0500",
+    "status": "active",
+    "last_known_location": {
+      "lat": 42.712587,
+      "lng": -111.547184,
+      "recorded_at": "2026-04-30T10:08:55Z"
+    }
+  }
+]
