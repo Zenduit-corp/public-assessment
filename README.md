@@ -1,59 +1,32 @@
-# PublicAssessment
+# Trax — Fleet Vehicles (Assessment Starter)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.9.
+A small Angular app showing a list of fleet vehicles backed by an in-memory mock service. It works, but it's rough.
 
-## Development server
+## Stack
+- Angular 21 (standalone components, signals)
+- Vitest for unit tests
 
-To start a local development server, run:
-
-```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Run it
 
 ```bash
-ng generate component component-name
+npm install
+npm start    # http://localhost:4200
+npm test
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Your task
 
-```bash
-ng generate --help
-```
+Spend roughly **60–90 minutes** improving this code. We've shipped it rough on purpose.
 
-## Building
+Look broadly: correctness, performance, UX clarity, edge cases, and test gaps. Make the changes you would make in a normal pull request — small, focused commits with clear messages. We'll review the diff and talk through your reasoning.
 
-To build the project run:
+You don't need to fix everything. We're more interested in **what you choose to fix and why** than in volume.
 
-```bash
-ng build
-```
+## What we're evaluating
+- Judgment about what matters and what doesn't
+- How you frame trade-offs (fix now vs. note it vs. leave alone)
+- Clarity of the changes themselves — naming, scope, commit hygiene
+- Test discipline — what's worth covering, what isn't
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Submitting
+Push a branch, share a fork, or send a zip with your commits. Either way, keep your history readable so we can follow your thinking.
